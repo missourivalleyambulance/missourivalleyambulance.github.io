@@ -1,14 +1,13 @@
----
 layout: post
-title: "TEST"
-date: 2015-12-10 16:54:46
+title: "Time to change your apps"
+date: 2015-04-25 16:54:46
 author: Admin
 categories:
 - blog
-- Tips&Tricks
-- Code-Snippets
-img:
-thumb:
+- Wordpress
+- Photoshop
+img: post04.jpg
+thumb: thumb01.jpg
 ---
 
 
