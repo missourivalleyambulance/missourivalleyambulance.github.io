@@ -7,8 +7,6 @@ categories:
 - blog
 - Tips&Tricks
 - Code-Snippets
-img:
-thumb:
 ---
 
 
