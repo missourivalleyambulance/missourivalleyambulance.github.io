@@ -3,11 +3,11 @@ layout: post
 title: "Time to change your apps"
 date: 2014-04-25 16:54:46
 author: Admin
-categories: 
-- blog 
+categories:
+- blog
 - Wordpress
 - Photoshop
-img: post01.jpg
+img: post04.jpg
 thumb: thumb01.jpg
 ---
 
