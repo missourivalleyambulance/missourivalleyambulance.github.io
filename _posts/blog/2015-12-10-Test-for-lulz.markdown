@@ -12,5 +12,5 @@ thumb: thumb05.jpg
 ---
 
 
->lol dicks
+>lol dicks from ,obile
 [linkedcontenthere](https://twitter.com)
