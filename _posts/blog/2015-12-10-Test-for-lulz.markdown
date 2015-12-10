@@ -7,10 +7,10 @@ categories:
 - blog
 - Tips&Tricks
 - Code-Snippets
-img: post03.jpg
-thumb: thumb03.jpg
+img:
+thumb:
 ---
 
-#This is my post for today
+
 >lol dicks
 [linkedcontenthere](https://twitter.com)
