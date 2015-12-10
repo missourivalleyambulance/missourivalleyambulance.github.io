@@ -10,5 +10,5 @@ categories:
 ---
 
 #No IMAGE HERE SON
->lol dicks
+>lol WERKS
 [linkedcontenthere](https://twitter.com)
