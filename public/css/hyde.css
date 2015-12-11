@@ -181,9 +181,7 @@ a.sidebar-nav-item:focus {
 .theme-base-08 .sidebar {
   background-color: #ac4142;
 }
-.theme-base-08 .content {
-  background-color: #ac4142;
-}
+.theme-base-08 .content a,
 .theme-base-08 .related-posts li a:hover {
   color: #ac4142;
 }
@@ -249,4 +247,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+/* Grey */
+.theme-base-0g .sidebar {
+  background-color: #a8a8a8;
+}
+.theme-base-0f .content a,
+.theme-base-0f .related-posts li a:hover {
+  color: #a8a8a8;
 }
