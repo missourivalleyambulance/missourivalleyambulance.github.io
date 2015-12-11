@@ -10,7 +10,6 @@ relative_permalinks: true
 title:            Missouri Valley Ambulance
 tagline:
 description:      Ramblings of a Apple tech geek
-url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
@@ -18,9 +17,3 @@ author:
   url:            https://twitter.com/morganpspeck
 
 paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
