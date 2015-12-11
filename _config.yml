@@ -10,6 +10,7 @@ relative_permalinks: true
 title:            Missouri Valley Ambulance
 tagline:
 description:      Ramblings of a Apple tech geek
+baseurl:          /
 
 author:
   name:           'Morgan Speck'
