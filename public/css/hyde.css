@@ -23,12 +23,7 @@
  * Reverse layout
  * Themes
  */
- body {
-   color: #515151;
-   background-color: #fff;
-   -webkit-text-size-adjust: 100%;
-       -ms-text-size-adjust: 100%;
- }
+
 
 /*
  * Global resets
@@ -186,7 +181,9 @@ a.sidebar-nav-item:focus {
 .theme-base-08 .sidebar {
   background-color: #ac4142;
 }
-.theme-base-08 .content a,
+.theme-base-08 .content {
+  background-color: #ac4142;
+}
 .theme-base-08 .related-posts li a:hover {
   color: #ac4142;
 }
