@@ -46,7 +46,7 @@ html {
 }
 
 body {
-    background-color: lightblue;
+    background-color: f6f6f6;
 }
 /*
  * Sidebar
@@ -252,7 +252,7 @@ a.sidebar-nav-item:focus {
 }
 /* Grey */
 .theme-base-0g .sidebar {
-  background-color: #a8a8a8;
+  background-color: #868686;
 }
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
