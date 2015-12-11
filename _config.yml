@@ -7,15 +7,13 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-image:            favicon.ico
 title:            MISSOURI VALLEY AMBULANCE
 tagline:
-description:      The ramblings of surely a moron.
+description:      The utterly inane ramblings of surely a moron. For only a fool would make a blog in this day and age.
 url:              http://missourivalleyambulance.com
 baseurl:          /
-
 author:
-  name:           'Morgan speck'
+  name:           'Morgan Speck'
   url:            https://twitter.com/morganspeck
 
 paginate:         5
