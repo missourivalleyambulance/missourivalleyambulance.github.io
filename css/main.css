@@ -15,19 +15,19 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #000099;
+  color: #1a8cff;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Lora', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
-  color: #3399ff
+  color: #1a8cff
 }
 a {
-  color: #000099;
+  color: #1a8cff;
 }
 a:hover,
 a:focus {
-  color: #1a8cff;
+  color: #3399ff;
 }
 blockquote {
   color: #404040;
