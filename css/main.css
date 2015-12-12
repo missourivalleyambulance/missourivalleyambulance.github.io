@@ -15,15 +15,15 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #4c321a;
+  color: #986434;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Playfair Display', 'Times New Roman', serif;
   font-weight: 700;
-  color: #4c321a
+  color: #986434
 }
 a {
-  color: #4c321a;
+  color: #986434;
 }
 a:hover,
 a:focus {
@@ -37,7 +37,7 @@ blockquote {
   quotes: "\201C""\201D""\2018""\2019";
 }
 blockquote:before {
-  color: #4c321a;
+  color: #986434;
   content: open-quote;
   font-size: 4em;
   line-height: 0.1em;
