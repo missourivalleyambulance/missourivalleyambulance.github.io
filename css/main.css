@@ -15,15 +15,15 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #1a8cff;
+  color: #26190d;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Playfair Disney', 'Times New Roman', serif;
   font-weight: 700;
-  color: #1a8cff
+  color: #26190d
 }
 a {
-  color: #1a8cff;
+  color: #26190d;
 }
 a:hover,
 a:focus {
@@ -379,7 +379,7 @@ header.header-post .post-heading .post-subheading {
 }
 .blog-post table tr {
   border-top: 1px solid #cccccc;
-  background-color: #ffffff;
+  background-color: #404040;
   margin: 0;
   padding: 0;
 }
