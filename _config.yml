@@ -29,14 +29,13 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  Author's home: "http://missourivalleyambulance.com"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Morgan Speck
   email: "blog@missourivalleyambulance.com"
   twitter: morganspeck  # eg. daattali
 
