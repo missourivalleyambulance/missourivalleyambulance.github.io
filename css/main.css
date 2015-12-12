@@ -15,15 +15,15 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #26190d;
+  color: #4c321a;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Playfair Disney', 'Times New Roman', serif;
   font-weight: 700;
-  color: #26190d
+  color: #4c321a
 }
 a {
-  color: #26190d;
+  color: #4c321a;
 }
 a:hover,
 a:focus {
@@ -32,6 +32,7 @@ a:focus {
 blockquote {
   color: #404040;
   font-style: italic;
+  border-left: #4c321a
 }
 hr.small {
   max-width: 100px;
@@ -379,7 +380,7 @@ header.header-post .post-heading .post-subheading {
 }
 .blog-post table tr {
   border-top: 1px solid #cccccc;
-  background-color: #404040;
+  background-color: #ffffff;
   margin: 0;
   padding: 0;
 }
