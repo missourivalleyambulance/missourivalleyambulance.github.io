@@ -3,7 +3,7 @@ layout: post
 title: 
 subtitle:.
 ---
-For the moment this site is a mere work-out progress. 
+For the moment this site is a mere work-in-progress. 
 
 With some time, I **should** have the time to get it properly set up. 
 
