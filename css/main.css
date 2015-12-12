@@ -151,7 +151,7 @@ img::-moz-selection {
   transition: opacity 0.2s ease-in;
   left: 10%;
   width: 100px;
-  margin-top: -70px;
+  margin-top: -75px;
 }
 
 .navbar-custom .avatar-container  .avatar-img {
@@ -171,7 +171,8 @@ img::-moz-selection {
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
     width: 100px;
-    margin-top: -50px;
+    left: 50%;
+    margin-top: -75px;
   }
 
   .navbar-custom .avatar-container  .avatar-img {
