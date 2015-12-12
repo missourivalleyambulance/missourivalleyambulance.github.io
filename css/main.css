@@ -18,7 +18,7 @@ p a {
   color: #000099;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Indie Flower', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
@@ -237,7 +237,7 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #3399ff;
+  color: #404040;
 }
 
 .post-preview a:focus,
