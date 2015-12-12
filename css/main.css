@@ -150,7 +150,7 @@ img::-moz-selection {
   -moz-transition: opacity 0.2s ease-in;
   transition: opacity 0.2s ease-in;
   left: 10%;
-  width: 100%;
+  width: 100px;
   margin-top: -40px;
 }
 
