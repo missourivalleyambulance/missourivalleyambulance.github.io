@@ -29,7 +29,7 @@ a:focus {
   color: #333399;
 }
 blockquote {
-  color: #000099;
+  color: #404040;
   font-style: italic;
 }
 hr.small {
@@ -237,7 +237,7 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #404040;
+  color: #3399ff;
 }
 
 .post-preview a:focus,
