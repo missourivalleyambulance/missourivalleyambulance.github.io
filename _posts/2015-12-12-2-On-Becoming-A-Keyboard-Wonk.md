@@ -5,7 +5,7 @@ subtitle:
 ---
 ![](http://imgur.com/5oLoDXV.jpg)
 
-> **[Wonk](http://beta.merriam-webster.com/dictionary/wonk)**
+> #### **[Wonk](http://beta.merriam-webster.com/dictionary/wonk)**  
 > :noun \ˈwäŋk, ˈwȯŋk  
 > A person who knows a lot about the details of a particular field (such as politics) and often talks a lot about that subject.
 
@@ -42,7 +42,7 @@ Of course, like any good drug, once you try it once, you've got to try it some m
 
 Here's the rub v2: I learned very quickly with research that Alps switches like the AEKII I have at work aren't in manufacture anymore, so it's impossible to just _go out_ and buy one. The only option to have a compact board with those type of switches is to _make_ one.
 
->## to make one...
+> #### to make one...
 
 Thus began the journey deep in to the rabbit hole of the mechanical keyboard world. Not content with just a single really cool keyboard at work, I had to have a really cool keyboard at home...then soon..._multiple_ really cool keyboards at home.
 
