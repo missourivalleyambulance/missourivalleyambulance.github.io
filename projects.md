@@ -4,4 +4,4 @@ title: Projects
 subtitle: For links to projects
 ---
 
-Dis for projects
+In the future this page will be populated with links to posts about projects I've worked on.
