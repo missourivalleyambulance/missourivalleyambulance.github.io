@@ -38,7 +38,7 @@ I absolutely fell in love with this board. The look of it was FANTASTIC! It's si
 
 ![](http://imgur.com/yqZXaag.jpg)
 
-I suppose what made me fall in love with this board most of all was the feel of the keypress. It was **so** different from what I was used to with traditional keyboards. It was incredibly tactile, smooth, and required significantly less force (so it was easier on my fingers). All they flash gamer boards I'd ever played with at a Best Buy just didn't appeal to me, but getting my hands on _this_ board  really showed me the light.
+I suppose what made me fall in love with this board most of all was the feel of the keypress. It was **so** different from what I was used to with traditional keyboards. It was incredibly tactile, smooth, and required significantly less force (so it was easier on my fingers). All the flash gamer boards I'd ever played with at a Best Buy just didn't appeal to me, but getting my hands on _this_ board  really showed me the light.
 
 Of course, like any good drug, once you try it once, you've got to try it some more. Having experience the GLORY of using the AEKII at work, I needed a board at home. Here was the rub though: I couldn't possibly imagine using such a large board at my desk at home. My computer at home is a glorified reddit machine, I've no need for a full-sized 104 key board - soon the quest for a small board with the exact switches that I was using at work began.
 
@@ -46,7 +46,7 @@ Here's the rub v2: I learned very quickly with research that Alps switches like 
 
 > #### to make one...
 
-Thus began the journey deep in to the rabbit hole of the mechanical keyboard world. Not content with just a single really cool keyboard at work, I had to have a really cool keyboard at home...then soon..._multiple_ really cool keyboards at home.
+Thus began the journey deep in to the rabbit hole of the mechanical keyboard world. Not content with just a single really cool keyboard at work, I had to have a really cool keyboard at home, I had to **make** a really cool keyboard...then soon..._multiple_ really cool keyboards.
 
 How I made my first custom keyboard, the different kinds of keyboards I have today, the kinds of keyboards I have the ambition of making: that's a story for another post. The point is, me being the Apple wonk that I am, randomly discovering a vintage Apple keyboard has given me both the gift and curse of becoming a keyboard wonk as well....and I love it.
 
