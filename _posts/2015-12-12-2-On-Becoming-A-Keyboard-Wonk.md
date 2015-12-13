@@ -32,7 +32,9 @@ Out of Apple wonk curiosity, I took the board back to my office and inspected it
 
 ![](http://imgur.com/RM0ALym.jpg)
 
-Having thoroughly inspected the board and marveling at its like-new condition, I began playing with it. Perhaps it was the fact that it's an Apple product, perhaps it was the novelty of a piece of 20 year old technology in mint condition, perhaps it was the fact that the AEKII uses an uncommon switch type ([Alps](http://deskthority.net/wiki/Alps_SKCM_White_Damped) instead of [Cherry](http://deskthority.net/wiki/Cherry_MX)) with a feel that I really _really_ liked, but it was like something **clicked** instantly. I absolutely fell in love with this board. The look of it was FANTASTIC! It's simple, minimal, big without being ridiculous, and it's got an Apple logo on it. I _knew_ that I had to start using it. Of course, being from 1995, it uses the very proprietary Apple Desktop Bus - fortunately that was easily resolved with a simple converter bought on eBay. Soon I was up and running with the AEKII as my keyboard at work.
+Having thoroughly inspected the board and marveling at its like-new condition, I began playing with it. Perhaps it was the fact that it's an Apple product, perhaps it was the novelty of a piece of 20 year old technology in mint condition, perhaps it was the fact that the AEKII uses an uncommon switch type ([Alps](http://deskthority.net/wiki/Alps_SKCM_White_Damped) instead of [Cherry](http://deskthority.net/wiki/Cherry_MX)) with a feel that I really _really_ liked, but it was like something **clicked** instantly.
+
+I absolutely fell in love with this board. The look of it was FANTASTIC! It's simple, minimal, big without being ridiculous, and it's got an Apple logo on it. I _knew_ that I had to start using it. Of course, being from 1995, it uses the very proprietary Apple Desktop Bus - fortunately that was easily resolved with a simple converter bought on eBay. Soon I was up and running with the AEKII as my keyboard at work.
 
 ![](http://imgur.com/yqZXaag.jpg)
 
@@ -49,5 +51,7 @@ Thus began the journey deep in to the rabbit hole of the mechanical keyboard wor
 How I made my first custom keyboard, the different kinds of keyboards I have today, the kinds of keyboards I have the ambition of making: that's a story for another post. The point is, me being the Apple wonk that I am, randomly discovering a vintage Apple keyboard has given me both the gift and curse of becoming a keyboard wonk as well....and I love it.
 
 ---
-
 For the record, as of this post (December 12, 2015) I have 10 different keyboards.
+
+---
+<p align="right">Typed on my white alps64</p>
