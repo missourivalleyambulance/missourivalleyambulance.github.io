@@ -4,9 +4,9 @@ title: On Becoming a Keyboard Wonk
 subtitle:
 ---
 ![](http://imgur.com/5oLoDXV.jpg)
-> **[Wonk]**(http://beta.merriam-webster.com/dictionary/wonk)
-:noun \ˈwäŋk, ˈwȯŋk  
-A person who knows a lot about the details of a particular field (such as politics) and often talks a lot about that subject.
+> **[Wonk](http://beta.merriam-webster.com/dictionary/wonk)**
+> :noun \ˈwäŋk, ˈwȯŋk  
+> A person who knows a lot about the details of a particular field (such as politics) and often talks a lot about that subject.
 
 If you're in any way involved in the gaming or technology world, you've likely come across, tried, or at bare minimum _heard_ of mechanical keyboards.
 
