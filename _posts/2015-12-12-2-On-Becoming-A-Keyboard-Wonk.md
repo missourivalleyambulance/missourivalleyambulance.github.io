@@ -4,11 +4,11 @@ title: On Becoming a Keyboard Wonk
 subtitle:
 ---
 ![](http://imgur.com/5oLoDXV.jpg)
->#### [Wonk](http://beta.merriam-webster.com/dictionary/wonk)
+> #### [Wonk](http://beta.merriam-webster.com/dictionary/wonk)
 :noun \ˈwäŋk, ˈwȯŋk  
 A person who knows a lot about the details of a particular field (such as politics) and often talks a lot about that subject.
 
-If you're in any way involved in the gaming or technology world, you've likely come across, tried, or at bare minimum _heard_ of mechanical keyboards. 
+If you're in any way involved in the gaming or technology world, you've likely come across, tried, or at bare minimum _heard_ of mechanical keyboards.
 
 For the uninitiated, a [mechanical keyboard](http://www.pcworld.com/article/240939/mechanical_keyboards_should_you_switch_.html) is one in which every key has its own discrete switch. These switches detect a keypress mechanically. A slider moves down the switch, and actuates a metal leaf of some sort, connecting a circuit, and telling the computer it's connected to that a key has been pressed. This is different from a typical keyboard that most consumers use - those have rubber domes, and keypresses are detected when those domes are fully collapsed onto a printed circuit board, completing the circuit. Typical keyboards, if one key fails, nothing can be done about it, but on a mechanical board, discrete switches can be replaced should one fail.
 
