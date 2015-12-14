@@ -6,7 +6,7 @@ subtitle:
 
 > Anti-virus company MacKeeper is making headlines today for its lax security on a customer database that contained 13 million customer records complete with names, email addresses, usernames, password hashes, phone numbers, IP address, and system information.
 
-Big surprise, Zeobit, a company well know to Mac users for their ubtrusive adds promising to 'clean up your Mac', yet failing in every regard to do anything of the sort has (borrowing Steve Gibson's words) **done it wrong.**
+Big surprise, Zeobit, a company well know to Mac users for their obtrusive adds promising to 'clean up your Mac', yet failing in every regard to do anything of the sort has (borrowing Steve Gibson's words) **done it wrong.**
 
 Even less surprising still, they were hashing users passwords with MD5. MD5 in this day and age? Come on, they might as well have put them in a .txt file called "User passwords, please don't steal."
 
