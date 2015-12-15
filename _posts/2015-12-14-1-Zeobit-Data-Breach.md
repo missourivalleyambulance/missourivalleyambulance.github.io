@@ -15,4 +15,4 @@ Not sure if I should feel angry at Zeobit, or angry at the customers silly enoug
 ([via Macrumors](http://www.macrumors.com/2015/12/14/mackeeper-data-leak/))
 
 ---
-<p align="right">Typed on Octopage</p
+<p align="right">Typed on Octopage</p>
