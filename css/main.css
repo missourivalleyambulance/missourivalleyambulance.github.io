@@ -379,23 +379,23 @@ header.header-post .post-heading .post-subheading {
   padding: 0;
 }
 .blog-post table tr {
-  border-top: 1px solid #cccccc;
-  background-color: #cc3300;
+  border-top: 1px solid #cc3300;
+  background-color: #ffffff;
   margin: 0;
   padding: 0;
 }
 .blog-post table tr:nth-child(2n) {
-  background-color: #f8f8f8;
+  background-color: #cc3300;
 }
 .blog-post table tr th {
   font-weight: bold;
-  border: 1px solid #cccccc;
+  border: 1px solid #cc3300;
   text-align: left;
   margin: 0;
   padding: 6px 13px;
 }
 .blog-post table tr td {
-  border: 1px solid #cccccc;
+  border: 1px solid #cc3300;
   text-align: left;
   margin: 0;
   padding: 6px 13px;
