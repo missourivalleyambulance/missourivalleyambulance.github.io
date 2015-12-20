@@ -8,12 +8,12 @@ subtitle: The inane ramblings and various projects of a gadget geek, Apple lover
   {% for post in paginator.posts %}
   <article class="post">
     <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+	  <h1 class="post-title">{{ post.title }}</h1>
 
 	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
+	  <h2 class="post-subtitle">
 	    {{ post.subtitle }}
-	  </h3>
+	  </h2>
 	  {% endif %}
     </a>
 
