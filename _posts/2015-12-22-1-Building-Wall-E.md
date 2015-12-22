@@ -30,4 +30,5 @@ I was so pleased to have gotten Wall ⋅E  as a gift. I adore the character, and
 
 ![Completed Wall E](http://imgur.com/94KMRmU.jpg)
 
- --- <p align="right">Typed on Octopage</p> 
+ ---
+<p align="right">Typed on Octopage</p> 
