@@ -28,4 +28,6 @@ As an adult, I still have an appreciation for Lego, but up until recently I've n
 
 I was so pleased to have gotten Wall ⋅E  as a gift. I adore the character, and sitting down for a few hours to build a Lego set for the first time in a **long** time was very rewarding. I think this will inspire me to finally purchase and build some of the sets I've been pining after for a while.
 
-![comolete](http://imgur.com/94KMRmU.jpg)
+![Completed Wall E](http://imgur.com/94KMRmU.jpg)
+
+ --- <p align="right">Typed on Octopage</p> 
