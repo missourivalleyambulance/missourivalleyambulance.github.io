@@ -9,6 +9,6 @@ subtitle:
 Translation: if you're brown, you're getting scanned. 
 
 ([via Slashgear](http://www.slashgear.com/now-the-tsa-can-force-you-to-go-through-the-body-scanner-22419599/))
+
  ---
 <p align="right">Typed on Octopage</p> 
-
