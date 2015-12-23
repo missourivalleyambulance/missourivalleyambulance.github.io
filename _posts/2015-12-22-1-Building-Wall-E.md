@@ -8,7 +8,7 @@ subtitle:
 
 For Christmas this year I was fortunate enough to receive a Lego Wall ⋅ E from my mother.
 
-Side note: don't bother using Amazon's gift wrapping service, they include a packing slip that spoilers the whole thing, that's why I opened it early. 
+Side note: don't bother using Amazon's gift wrapping service, they include a packing slip that spoils the whole thing - that's why I opened it early. 
 
 ![Beginning Assembly](http://imgur.com/GZRhkYk.jpg)
 
@@ -20,7 +20,7 @@ Wall ⋅ E is the first complex/advanced Lego set I've built in probably a decad
 
 ![Body complete](http://imgur.com/ktGeZrJ.jpg)
 
-As an adult, I still have an appreciation for Lego, but up until recently I've never had somewhere to display any sets I might have. Funny how things change as one ages. As a child, what a set was meant to be proved pretty irrelevant - it might exist as something that followed the instructions for a day or too, but it was soon dismantled. Now as an adult, any sets I might find myself wanting will be bought solely to be built and displayed as intended. 
+As an adult, I still have an appreciation for Lego, but up until recently I've never had somewhere to display any sets I might have. Funny how things change as one ages. As a child, what a set was meant to be proved pretty irrelevant - it might exist as something that followed the instructions for a day or too, but it was soon dismantled. Now as an adult, any sets I might find myself wanting will be bought solely to be built and displayed as the instructions intended. 
 
 ![Building eyes](http://imgur.com/asY8jEs.jpg)
 
