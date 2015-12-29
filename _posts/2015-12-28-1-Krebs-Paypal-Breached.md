@@ -13,3 +13,6 @@ I consider myself a privacy and security wonk. I take the best measures that are
  The bottom line is that no amount of good passwords and [out-of-band](https://en.m.wikipedia.org/wiki/Out-of-band#Authentication) security is a match for a determined hacker and poor company policies. 
 
 It never ceases to amaze me that financial institutions seem to be the worst offenders when it comes to data security. They are often susceptible to [social engineering](https://en.m.wikipedia.org/wiki/Social_engineering_(security)), they allow passwords to be brute-forcible by [limiting](http://arstechnica.com/security/2013/04/why-your-password-cant-have-symbols-or-be-longer-than-16-characters/) password character lengths, and rarely offer any sort of 2-factor authentication.
+
+ ---
+<p align="right">Typed on Octopage</p> 
