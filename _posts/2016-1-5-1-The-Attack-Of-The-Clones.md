@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Attack of The Clones
+title: Attack of the Clones
 subtitle:
 ---
 ![](http://imgur.com/iTyRCT6.jpg)
 
-Every year at [CES](http://www.engadget.com/tag/CES/) we see various OEMs debut this year's clones of what Apple did last year. Products that they weren't original enough to think of themselves. Hell, they don't just copy the general look, they copy the **colors** too. 
+Every year at [CES](http://www.engadget.com/tag/CES/) we see various OEMs debut this year's clones of what Apple did last year. Products that they weren't original enough to think of themselves. Hell, they don't just copy the general look, they copy the **colors** too.
 
 What's being cloned this year? The Macbook.
 
