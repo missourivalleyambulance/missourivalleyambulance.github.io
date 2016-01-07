@@ -4,7 +4,7 @@ title: Turns out Swiss Watchmakers Aren't Original Either
 subtitle:
 ---
 
-![Apple Watch Clone](https://i.imgur.com/sULqtUP.jpg)
+![Apple Watch Clone](https://imgur.com/UGLuy7J.jpg)   
 Did you think that was an Apple Watch? You'd be wrong.
 
 > The first thing you’ll notice about the Swiss Alp Watch is that it, well, looks exactly like the Apple Watch.You’ve got that beautiful, rounded, rectangular-shaped case that oozes the great Jony Ive-led Apple Design team. But instead of a touch screen with any number of apps, you have a gorgeous grey fume dial, something for which Moser is well known among watch aficionados. The lugs, which look just like the wire lugs found on the higher end Apple Watches, actually use a spring bar, but the effect is there.  
