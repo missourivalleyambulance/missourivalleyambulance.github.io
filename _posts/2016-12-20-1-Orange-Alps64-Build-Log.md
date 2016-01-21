@@ -3,7 +3,7 @@ layout: post
 title: Alps Party 60% Board #1
 subtitle: Build Log of my SKCM Orange Alps64.
 ---
-![](http://imgur.com/A2SqBlg.jpg)
+![Title Image](http://imgur.com/A2SqBlg.jpg)
 
 As detailed in a [previous post](http://missourivalleyambulance.com/2015-12-12-2-On-Becoming-A-Keyboard-Wonk/), the first board that prompted me to become a keyboard wonk was an Apple Extended Keyboard II with white alps switches. I had the privilege to join Hasu's round 2 [Alps PCB group buy](https://geekhack.org/index.php?topic=69740.0), from which I built my first custom keyboard. 
 
@@ -23,7 +23,7 @@ For this build, I chose to use:
 
 ### Donor switches
 
-![](http://imgur.com/DWhV23K.jpg)
+![Donor AEK Image](http://imgur.com/DWhV23K.jpg)
 
 Here I've began the process of desoldering the orange switches from a donor AEK I. No doubt about it, Apple did a damn fine job assembling and soldering this board back in the 80s. It took me ages to warm up the solder on these and get them all removed. 
 
@@ -54,7 +54,7 @@ For this build, I decided to run multiple switch types for the first time. 
 ![](http://imgur.com/vII11L9.jpg)
 Switches installed in the plate.
 
-![](http://imgur.com/vII11L9.jpg)
+![](http://i.imgur.com/cglvhHv.jpg)
 Stabs installed. So purdy.
 
 ### Programming
