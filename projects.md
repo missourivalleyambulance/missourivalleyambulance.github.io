@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: For links to projects
+subtitle: The various projects I keep myself occupied with.
 ---
 
 # Keyboards
@@ -19,5 +19,9 @@ Coming:
 + Planck
 
 # 3D Printing
+
+Coming
+
+# Home Automation
 
 Coming
