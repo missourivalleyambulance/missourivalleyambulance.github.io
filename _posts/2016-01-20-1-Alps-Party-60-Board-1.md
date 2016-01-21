@@ -10,6 +10,7 @@ As detailed in a [previous post](http://missourivalleyambulance.com/2015-12-12-2
 A few months ago, [BlueNalgene](https://geekhack.org/index.php?action=profile;u=41109) ran a much more comprehensive [group buy](https://geekhack.org/index.php?topic=75491.0) that included no only [Hasu's](https://geekhack.org/index.php?action=profile;u=3412) PCB, but also [JDCarpe](https://geekhack.org/index.php?action=profile;u=17386) designed plates, Matias switches, and stabilizers. Of course, I already had the one 60% alps board, but given that I had a few spare donor boards lying around, I couldn't help buy join this buy so I could build EVEN MORE awesome custom keyboards. 
 
 For this build, I chose to use:
+
 + A [Dell AT101W](https://deskthority.net/wiki/Dell_AT101) layout plate - the layout that has pretty much become the standard for ANSI keyboards around the world
 + SKCM (complicated) vintage [orange alps](https://deskthority.net/wiki/Alps_SKCM_Orange) switches from a [AEK I](https://deskthority.net/wiki/Apple_Extended_Keyboard)
 + [Matias Click Switches](http://matias.ca/switches/click/)
