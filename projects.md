@@ -6,7 +6,7 @@ subtitle: The various projects I keep myself occupied with.
 
 # Keyboards
 
-![](http://i.imgur.com/foItOtnm.jpg)  
+[![](http://i.imgur.com/foItOtnm.jpg)]({{ site.baseurl }}/2016-01-20-1-Orange-Alps64-Build-Log)  
 [Orange Alps64]({{ site.baseurl }}/2016-01-20-1-Orange-Alps64-Build-Log)
 
 ![](http://i.imgur.com/int4rR7m.jpg)  
