@@ -62,8 +62,7 @@ Unlike a standard board made by an OEM, this keyboard is programmable, I can set
 
 I've gone with the following layout for this build. 
 
-```
-/* 0: DEFAULT LAYER
+`/* 0: DEFAULT LAYER
  * ,-----------------------------------------------------------.
  * |Esc|  1|  2|  3|  4|  5|  6|  7|  8|  9|  0|  -|  =|  #|Bsp|
  * |-----------------------------------------------------------|
@@ -102,7 +101,7 @@ I've gone with the following layout for this build. 
      CAPS,LEFT,DOWN,RIGHT, END,   G,   H,   1,   2,   3,  PSLS,  QUOT, ENT,  \
      LSFT,Z,   X,   C,   V,   B,   N, F13, COMM, DOT, SLSH, RSFT, \
      LCTL, TRNS, TRNS,       TRNS,                    TRNS, TRNS, TRNS),
-```
+`
 
 Note: the Space/FN1 key - I love this setup. During normal typing, the space bar is a space bar, but when it's held it activates the 2nd layer.  
 
@@ -130,4 +129,3 @@ A note about flipped keys: you may notice the spacebar and a couple of the row 1
 
  --- 
 <p align="right">Typed on AEK II</p> 
-
