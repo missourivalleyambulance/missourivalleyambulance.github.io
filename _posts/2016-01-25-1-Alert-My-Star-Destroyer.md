@@ -6,7 +6,7 @@ subtitle:
 
 ![](http://imgur.com/XzriSis.jpg)  
 
-A month ago I was [fortunate enough](({{ site.baseurl }}/2015-12-22-2-Melted-Vader-Artisan-Keycap)) to get in on the very short (a matter of hours) group buy on [Massdrop](https://www.massdrop.com/buy/darth-vader-artisan-keycap/?mode=guest_open) for the Lord Vader artisan keycap. Clearly it references Darth Vader's melted helmet as seen in _The Force Awkakens_. I couldn't not have it.
+A month ago I was [fortunate enough]({{ site.baseurl }}/2015-12-22-2-Melted-Vader-Artisan-Keycap) to get in on the very short (a matter of hours) group buy on [Massdrop](https://www.massdrop.com/buy/darth-vader-artisan-keycap/?mode=guest_open) for the Lord Vader artisan keycap. Clearly it references Darth Vader's melted helmet as seen in _The Force Awkakens_. I couldn't not have it.
 
 The keycap, made by Geekhack's [HiddenPower](https://geekhack.org/index.php?topic=70558.0) is beautifully crafted. I opted for the keycap in a weathered finish. Also available were glossy, and gunmetal finishes. Only 300 of these ran in that buy. As of this writing 1511 people have requested a second drop, so I'm sure there will be another buy for these sooner rather than later.
 
