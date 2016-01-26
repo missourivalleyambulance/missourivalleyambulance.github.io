@@ -24,7 +24,7 @@ I'm especially impressed by the casting quality for the _underside_ of the cap. 
 
 What really brings this cap alive is backlighting. While I'm typically not a fan of backlighting (it often feels overdone and useless to me) it is crucial with a cap like this.
 
-I do have one board on hand with backlighting: a modified [TG3 Data911](https://geekhack.org/index.php?topic=20454.0) (albiet with _most_ of the LEDs removed.); this cap just looks PHENOMENAL on that board. 
+I do have one board on hand with backlighting: a modified [TG3 Data911](https://geekhack.org/index.php?topic=20454.0) (albiet with _most_ of the LEDs removed.); this cap just looks PHENOMENAL on that board.
 
 ![](http://imgur.com/e75Bx0a.jpg)
 
@@ -33,4 +33,4 @@ I do have one board on hand with backlighting: a modified [TG3 Data911](https://
 Needless to say, I'm very pleased with this cap, and I'll definitely keep an eye on any future works from HiddenPower.
 
  ---
-<p align="right">Typed on my Planck</p>
+<p align="right">Typed on Planck</p>
