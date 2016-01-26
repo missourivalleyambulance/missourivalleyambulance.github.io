@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 <img src="\img\Profile.jpeg" alt="" style="width:25%">
 
@@ -14,3 +14,5 @@ subtitle: Why you'd want to go on a date with me
 - Every list needs a 5.
 
 Follow me on twitter [@morganspeck](https://twitter.com/morganspeck)
+
+I'm [Cheddarbek](https://geekhack.org/index.php?action=profile;u=48354) on GeekHack
