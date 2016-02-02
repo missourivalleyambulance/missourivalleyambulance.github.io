@@ -14,5 +14,6 @@ Sadly, there is no rest for the wicked...err...those with laptops I mean - so I'
 So until 5:30 this work-from-hoth Battle Station will be fully operational.
 
 ![](http://imgur.com/llegdQ1.jpg)
+
  ---
 <p align="right">Typed on Planck</p>
