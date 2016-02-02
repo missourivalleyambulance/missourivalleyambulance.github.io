@@ -1,18 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle: Why you'd want to go on a date with me
 ---
-<img src="\img\Profile.jpeg" alt="" style="width:25%">
 
-### My name is Morgan Speck.
+My name is Inigo Montoya. I have the following qualities:
 
-- I'm a gadget geek
-- I'm definitely a member of the Apple cult
-- I'm an obnoxious keyboard wonk.
-- I rock a beard because I'm lazy (and my girlfriend loves it).
-- Every list needs a 5.
+- I rock a great mustache
+- I'm extremely loyal to my family
 
-Follow me on twitter [@morganspeck](https://twitter.com/morganspeck)
+What else do you need?
 
-I'm [Cheddarbek](https://geekhack.org/index.php?action=profile;u=48354) on GeekHack
+### my history
+
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

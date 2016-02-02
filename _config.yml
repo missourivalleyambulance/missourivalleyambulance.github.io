@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
-url: "http://missourivalleyambulance.github.io"
+url: "http://username.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Missouri Valley Ambulance
+title: My website
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -28,46 +28,52 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Projects: "projects"
   About Me: "aboutme"
-
+  Author's home: "http://deanattali.com"
+  
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Morgan Speck
-  email: "blog@missourivalleyambulance.com"
-  twitter: morganspeck  # eg. daattali
-
-
+  name: Some Person
+  email: "youremail@domain.com"
+  facebook: yourname  # eg. daattali
+  github: yourname    # eg. daattali
+  twitter: yourname   # eg. daattali
+  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
+  stackoverflow: yourlink  # eg. "3943160/daattali"
+ 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: false
+  facebook: true
   email: true
   twitter: true
-  github: false
+  github: true
   linkedin: false
   stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "missourivalleyambulance.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: ""
+
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Chicago"
+timezone: "America/Vancouver"
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 permalink: /:year-:month-:day-:title
-paginate: 10
+paginate: 5
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -136,6 +142,6 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
-
+  
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
