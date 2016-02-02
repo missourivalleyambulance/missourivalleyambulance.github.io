@@ -65,7 +65,7 @@ url-pretty: "missourivalleyambulance.com"  # eg. "deanattali.com/beautiful-jekyl
 # Output options (more information on Jekyll's site)
 timezone: "America/Chicago"
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:year-:month-:day-:title
 paginate: 10
 
