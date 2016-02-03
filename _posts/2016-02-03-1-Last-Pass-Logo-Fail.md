@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Attack of the Clones
+title: Lastpass Logo Fail
 subtitle:
 ---
 
