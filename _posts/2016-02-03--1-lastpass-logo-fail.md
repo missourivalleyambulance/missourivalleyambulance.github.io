@@ -3,8 +3,9 @@ layout: post
 subtitle: null
 date: ""
 published: false
-title: "-1-Lastpass-Logo-Fail"
+title: "1-Lastpass-Logo-Fail"
 ---
+
 
 ![New Lastpass Logo](http://i.imgur.com/06oJ1Ngl.jpg)
 
