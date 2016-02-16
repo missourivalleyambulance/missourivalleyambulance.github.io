@@ -15,4 +15,4 @@ I was dying laughing.
 [via [Reddit](https://www.reddit.com/r/videos/comments/45x7yq/the_most_amazing_variant_of_the_useless_machine/) & [Youtube](http://youtu.be/Uox-t4OB6hE)]
 
  ---
-<p align="right">Typed on Octopage</p
+<p align="right">Typed on Octopage</p>
