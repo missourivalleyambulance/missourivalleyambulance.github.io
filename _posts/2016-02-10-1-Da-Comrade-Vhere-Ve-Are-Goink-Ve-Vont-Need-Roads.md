@@ -14,9 +14,9 @@ frameborder="0" allowFullScreen></iframe></div>
 
 ![Sherp size reference](http://imgur.com/DATCqk3.jpg)
 
-I want one. I need this **ridiculous** machine in my life. 
+I want one. I need this **ridiculous** machine in my life.
 
-[via [Jalopnik](http://truckyeah.jalopnik.com/the-russians-make-the-best-truck-in-the-universe-for-5-1758030433)]
+[[via Jalopnik](http://truckyeah.jalopnik.com/the-russians-make-the-best-truck-in-the-universe-for-5-1758030433)]
 
  ---
-<p align="right">Typed on Octopage</p> 
+<p align="right">Typed on Octopage</p>

@@ -8,7 +8,7 @@ subtitle:
 
 So it's law enforcement's own fault they can't access the data, and we should now trust them with the power of a backdoor to all iPhones?
 
-via [[Buzzfeed](http://www.buzzfeed.com/johnpaczkowski/apple-terrorists-appleid-passcode-changed-in-government-cust#.vfjXJnvR4d)]
+[via [Buzzfeed](http://www.buzzfeed.com/johnpaczkowski/apple-terrorists-appleid-passcode-changed-in-government-cust#.vfjXJnvR4d)]
 
 ---
-<p align="right">Typed on Octopage</p> 
+<p align="right">Typed on Octopage</p>
