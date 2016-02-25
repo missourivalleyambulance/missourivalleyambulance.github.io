@@ -19,7 +19,7 @@ Most folks who get into the hobby seem to take a path where they start with a Co
 
 Unlike the [Orange Alps64]({{ site.baseurl }}/2016-01-20-1-Orange-Alps64-Build-Log), and my soon-to-be-built Blue Alps64, when I started this adventure, there was no handy person running an all-inclusive group buy with every part a person would need to build an Alps board. Like many projects and passions in life, this build started with research.
 
-Parts required for a board:
+Parts required for a board:  
 + Switches
 + Electronics
 + Plate
