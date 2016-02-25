@@ -77,7 +77,7 @@ Secret: I initially started with [Matias click](http://matias.ca/switches/click/
 
 The board currently uses white Alps except for the Capslock position, and the RGUI position (programmed as a Function layer lock on this board).
 
-The downside of this custom keyboard business: there's a whole lot of hurry-up-and-wait. The wait wasn't all bad, however. It gave me plenty of time to fix my initial mistakes with assembly, and to program the board. I won't deny it, most of my mistakes were made when I switched from the Matias to the genuine Alps switches. At the time this was my first solder work, so I made the grievous error of ruining a few solder pads during removal. I was able to MacGyver it together and fully functional again, though.
+The downside of this custom keyboard business: there's a whole lot of hurry-up-and-wait. The wait wasn't all bad, however. It gave me plenty of time to fix my initial mistakes with assembly, and to program the board. I won't deny it, most of my mistakes were made when I switched from the Matias to the genuine Alps switches. At the time this was my first solder work, so I made the grievous error of ruining a few solder pads during removal. I was able to MacGyver it together and get the PCB fully functional again, though.
 
 ![Bodge job](https://i.imgur.com/4Q1E6Fx.jpg)
 
