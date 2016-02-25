@@ -5,6 +5,8 @@ subtitle: The various projects I keep myself occupied with.
 ---
 
 # Keyboards
+[![](https://i.imgur.com/qgTvkKA.jpg)]({{ site.baseurl }}/2016-02-24-1-White-Alps-Build-Log)  
+[White Alps64]({{ site.baseurl }}/2016-02-24-1-White-Alps-Build-Log)
 
 [![](http://i.imgur.com/foItOtnm.jpg)]({{ site.baseurl }}/2016-01-20-1-Orange-Alps64-Build-Log)  
 [Orange Alps64]({{ site.baseurl }}/2016-01-20-1-Orange-Alps64-Build-Log)
@@ -14,7 +16,6 @@ subtitle: The various projects I keep myself occupied with.
 
 Coming:
 
-+ White Alps64
 + Data911
 + Planck
 + Golbat
