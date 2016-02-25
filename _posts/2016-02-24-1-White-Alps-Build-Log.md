@@ -17,7 +17,7 @@ Most folks who get into the hobby seem to take a path where they start with a Co
 
 ### Sourcing The Parts
 
-Unlike the [Orange Alps64]({{ site.baseurl }}/2016-01-20-1-Orange-Alps64-Build-Log), and my soon-to-be-built Blue Alps64, when I started this adventure, there was no handy person running an all-inclusive group buy with every part a person would need to build an Alps board. Like many projects and passions in life, this build started with research.
+Unlike the [Orange Alps64]({{ site.baseurl }}/2016-01-20-1-Orange-Alps64-Build-Log), and my soon-to-be-built Blue Alps64, when I started this adventure, there was no handy person running an all-inclusive group buy with every part a guy would need to build an Alps board. Like many projects and passions in life, this build started with research.
 
 Parts required for a board:  
 
@@ -224,4 +224,4 @@ I really am in love with this board. After being in this hobby for a year now, I
 
 The mission was to create a smaller version of the exact same board I use at work - and I've succeeded. I won't dare to call it my endgame keyboard, since there is no endgame keyboard - but it's pretty damn close.
 
-![Comparison to the AEKII](http://imgur.com/XaA27Bd.jpg)
+![Comparison to the AEKII](http://imgur.com/XaA27Bd.jpg
