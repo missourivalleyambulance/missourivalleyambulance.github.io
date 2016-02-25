@@ -9,11 +9,11 @@ When you're writing a blog that revolves a lot around your hobby and projects, n
 
 ### Backstory
 
-As written in a [previous post]({{ site.baseurl }}/2015-12-2-On-Becoming-A-Keyboard-Wonk) on how I came into the keyboard hobby, my very first project was a recreation of a 1995, Made in Mexico Apple Extended Keyboard II.
+As written in a [previous post]({{ site.baseurl }}/2015-12-2-On-Becoming-A-Keyboard-Wonk) on how I came into the keyboard hobby, my very first project was a recreation of a 1995, Made in Mexico, Apple Extended Keyboard II.
 
 > Having experienced the GLORY of using the AEKII at work, I needed a board at home - soon the quest for a small board with the exact switches that I was using at work began.  Here’s the rub: Alps switches like the AEKII I have at work aren’t in manufacture anymore, so it’s impossible to just go out and buy one. The only option to have a compact board with those type of switches is to make one.
 
-Most folks who get into the hobby seem to take a path where they start with a Corsair, or a Razer, or a gaming board of some time, they they progress to manufactured 60% boards like the [Pok3r](https://www.massdrop.com/buy/vortex-poker-iii-compact-keyboard/?mode=guest_open)), then they progress to custom boards. Because I am a weird person, and my first real exposure to mechs was Alps, I skipped a couple steps and went straight to custom boards.
+Most folks who get into the hobby seem to take a path where they start with a Corsair, or a Razer, or a gaming board of some kind, then they progress to manufactured 60% boards like the [Pok3r](https://www.massdrop.com/buy/vortex-poker-iii-compact-keyboard/?mode=guest_open)), then finally to custom boards. Because I am a weird person, and my first real exposure to mechs was Alps, I skipped a couple steps and went straight to custom boards.
 
 ### Sourcing The Parts
 
@@ -224,4 +224,4 @@ I really am in love with this board. After being in this hobby for a year now, I
 
 The mission was to create a smaller version of the exact same board I use at work - and I've succeeded. I won't dare to call it my endgame keyboard, since there is no endgame keyboard - but it's pretty damn close.
 
-![Comparison to the AEKII](http://imgur.com/XaA27Bd.jpg)
+![Comparison to the AEKII](http://imgur.com/XaA27Bd.jpg)
