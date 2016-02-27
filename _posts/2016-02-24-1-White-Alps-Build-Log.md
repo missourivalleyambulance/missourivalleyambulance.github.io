@@ -224,4 +224,7 @@ I really am in love with this board. After being in this hobby for a year now, I
 
 The mission was to create a smaller version of the exact same board I use at work - and I've succeeded. I won't dare to call it my endgame keyboard, since there is no endgame keyboard - but it's pretty damn close.
 
-![Comparison to the AEKII](http://imgur.com/XaA27Bd.jpg
+![Comparison to the AEKII](http://imgur.com/XaA27Bd.jpg)
+
+---
+<p align="right">Typed on White Alps64</p>
