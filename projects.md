@@ -14,10 +14,14 @@ subtitle: The various projects I keep myself occupied with.
 [![](http://i.imgur.com/int4rR7m.jpg)]({{ site.baseurl }}/2015-12-20-1-The-Quest-For-Blue-Alps)  
 [Blue Alps64]({{ site.baseurl }}/2015-12-20-1-The-Quest-For-Blue-Alps)
 
+[![](https://i.imgur.com/SJRAW2c.jpg)]({{ site.baseurl }}/2016-03-02-Building-Planck)  
+[Planck]({{ site.baseurl }}/2016-03-02-Building-Planck)
+
+[![](https://i.imgur.com/9riDPw0.jpg)]({{ site.baseurl }}/2016-03-12-Data911-Rebuild)  
+[Data911]({{ site.baseurl }}/2016-03-12-Data911-Rebuild)
+
 Coming:
 
-+ Data911
-+ Planck
 + Golbat
 + Ergodox
 + Clueboard
