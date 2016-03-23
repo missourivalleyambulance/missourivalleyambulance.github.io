@@ -31,4 +31,4 @@ Warrants _should_ give law enforcement the power to acquire data off phones, but
 [[Reuters](http://mobile.reuters.com/article/idUSKCN0WP17J) via [The Loop](http://www.loopinsight.com/2016/03/23/israeli-firm-helping-fbi-to-open-encrypted-iphone/?utm_source=loopinsight.com&utm_campaign=loopinsight.com&utm_medium=referral)]
 
  ---
-<p align="right">Typed on AEKII & Octopage</p
+<p align="right">Typed on AEKII & Octopage</p>
