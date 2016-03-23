@@ -24,5 +24,11 @@ The implications of this method are brilliant - but they would take significant 
 
 Warrants _should_ give law enforcement the power to acquire data off phones, but not at the expense of creating a software backdoor. An effort like recovering data from an encrypted device _should_ take the dedicated efforts from a state-level actor. If the FBI wants the data, they need to go get it themselves, and this method may be how they accomplish that. I'm good with them legally breaking into phones - as long as it's from the outside looking in, not the other way around. 
 
+### Update 
+
+>  Israel's Cellebrite, a provider of mobile forensic software, is helping the U.S. Federal Bureau of Investigation's attempt to unlock an iPhone used by one of the San Bernardino, California shooters, the Yedioth Ahronoth newspaper reported on Wednesday.
+
+[[Reuters](http://mobile.reuters.com/article/idUSKCN0WP17J)]
+
  ---
-<p align="right">Typed on AEKII</p>
+<p align="right">Typed on AEKII & Octopage</p>
