@@ -1,4 +1,5 @@
 //This file is meant to replace the config.h file for a0-c's Satan build, should you wish to attach your data pin to F7
+//a0-c's firmware is available at https://github.com/a0-c/qmk-satan-rgb/tree/master/keyboard/satan
 
 /*
 Copyright 2012 Jun Wako <wakojun@gmail.com>
