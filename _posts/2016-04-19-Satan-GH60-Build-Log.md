@@ -68,7 +68,7 @@ In a0-c's build, data was connected to the E2 pin - located on the top right han
 
 With E2 broken off, I would need to find another unused data register pin on the data port, and I would would need to move to a smaller gauge stranded wire. First I consulted the _config.h_ file of the uncompiled firmware.
 
-```c
+```h
 #define COLS (int []){ F0, F1, E6, C7, C6, B7, D4, B1, B0, B5, B4, D7, D6, B3 }
 #define ROWS (int []){ D0, D1, D2, D3, D5 }
 ```
@@ -79,7 +79,7 @@ These are the pins on the [Atmel](http://www.atmel.com/devices/atmega32u4.aspx?t
 
 Consulting the sheet, I determined E6 to be my best option. Like E2 it is on a corner, so it would be easily accessible, and wasn't used. I made my solder connection, edited the _config.h_ file to point it to the new pin.
 
-```c
+```h
 /* ws2812 RGB LED */
 #define ws2812_PORTREG  PORTE
 #define ws2812_DDRREG   DDRE
@@ -93,7 +93,7 @@ Firmware was uploaded, LED wires and pins were soldered, I was feeling confident
 
 So as it turns out, I'm an idiot who can't read.
 
-```c
+```h
 #define COLS (int []){ F0, F1, E6, C7, C6, B7, D4, B1, B0, B5, B4, D7, D6, B3 }
 ```
 
