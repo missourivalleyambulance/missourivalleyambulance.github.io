@@ -1,3 +1,5 @@
+//This file is meant to replace the config.h file for a0-c's Satan build, should you wish to attach your data pin to F7
+
 /*
 Copyright 2012 Jun Wako <wakojun@gmail.com>
 
