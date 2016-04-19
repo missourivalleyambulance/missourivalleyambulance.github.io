@@ -103,9 +103,12 @@ So I desoldered the wire from E6 and started over...oh wait, except now the 1, Q
 
 ![](http://imgur.com/G3TqkWu.jpg)
 
-After consulting _config.h_ and the Atmel data sheet once more, I was found that F7 wasn't being used. F7 isn't ideal, it's the 3rd pin in from the right on the top part of the controller. I figured I'd janked the board up enough at this point that it was worth a shot.
+After consulting _config.h_ and the Atmel data sheet once more, I was found that F7 wasn't being used. F7 isn't ideal, it's the 3rd pin in from the right on the top part of the controller. I figured I'd janked the board up enough at this point that it was worth a shot. 
+ 
+![](http://imgur.com/bCMSsCb.jpg)
 
-Another solder job, _config_ edit, compile, and reflash of the board, and I was ready to see if this worked.
+The results aren't pretty. On the right you can see the ripped-off E2 pin, on the left, the E6 that I janked, and up top F7. 
+Another  _config_ edit, compile, and reflash of the board, and I was ready to see if this worked.
 
 > Nope
 
