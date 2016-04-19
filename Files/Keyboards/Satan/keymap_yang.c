@@ -1,3 +1,6 @@
+//This file is meant to replace the config.h file for a0-c's Satan build, should you wish to use my keymap
+//a0-c's firmware is available at https://github.com/a0-c/qmk-satan-rgb/tree/master/keyboard/satan
+
 // This is the canonical layout file for the Quantum project. If you want to add another keyboard,
 // this is the style you want to emulate.
 
