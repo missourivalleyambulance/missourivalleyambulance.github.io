@@ -21,6 +21,9 @@ subtitle: The various projects I keep myself occupied with.
 [![](https://i.imgur.com/9riDPw0.jpg)]({{ site.baseurl }}/2016-03-12-Data911-Rebuild)  
 [Data911]({{ site.baseurl }}/2016-03-12-Data911-Rebuild)
 
+[![](http://i.imgur.com/qcXwtmb.jpg)]({{ site.baseurl }}/2016-04-19-Satan-GH60-Build-Log)  
+[Satan GH60]({{ site.baseurl }}/2016-04-19-Satan-GH60-Build-Log)
+
 Coming:
 
 + Golbat
