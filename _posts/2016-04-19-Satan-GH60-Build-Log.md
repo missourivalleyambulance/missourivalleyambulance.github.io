@@ -247,7 +247,7 @@ My version of _config.h_ is [here]({{ site.baseurl }}/Files/Keyboards/Satan/conf
 
 To finish the board off, I installed blank rainbow PBT keycaps from Geekkeys, and a Zorbcaps Chilly Entling on Esc.
 
-![](http://imgur.com/vyVZZ2D.jpg)
+![](http://imgur.com/Xan73RJ.jpg)
 
 <a class="embedly-card" href="https://gfycat.com/IdealisticMealyBunny">RGB Underglow</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
