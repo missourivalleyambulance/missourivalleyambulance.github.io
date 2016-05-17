@@ -26,9 +26,9 @@ subtitle: The various projects I keep myself occupied with.
 
 Coming:
 
-+ Golbat
-+ Ergodox
++ [Ergodox]({{ site.baseurl }}/2016-05-09-ErgoDox-Build-Phase-I-Research-and-Planning)
 + Clueboard
++ Golbat
 
 # 3D Printing
 
