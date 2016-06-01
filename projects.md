@@ -29,7 +29,7 @@ subtitle: The various projects I keep myself occupied with.
 
 Coming:
 
-+ Ergodox - [Research and Planning]({{ site.baseurl }}/2016-05-09-ErgoDox-Build-Phase-I-Research-and-Planning) | [Mockup]({{ site.baseurl }}/2016-05-30-ErgoDox-Build-Phase-II-Mockup)
++ Ergodox [Research and Planning]({{ site.baseurl }}/2016-05-09-ErgoDox-Build-Phase-I-Research-and-Planning)  |  [Mockup]({{ site.baseurl }}/2016-05-30-ErgoDox-Build-Phase-II-Mockup)
 + Golbat
 
 # 3D Printing
