@@ -24,10 +24,12 @@ subtitle: The various projects I keep myself occupied with.
 [![](http://i.imgur.com/qcXwtmb.jpg)]({{ site.baseurl }}/2016-04-19-Satan-GH60-Build-Log)  
 [Satan GH60]({{ site.baseurl }}/2016-04-19-Satan-GH60-Build-Log)
 
+[![](http://imgur.com/xJlWYbM)]({{ site.baseurl }}/2016-06-01-Clueboard-Build-Log)  
+[Clueboard]({{ site.baseurl }}/2016-06-01-Clueboard-Build-Log)
+
 Coming:
 
-+ [Ergodox]({{ site.baseurl }}/2016-05-09-ErgoDox-Build-Phase-I-Research-and-Planning)
-+ Clueboard
++ Ergodox - [Research and Planning]({{ site.baseurl }}/2016-05-09-ErgoDox-Build-Phase-I-Research-and-Planning) | [Mockup]({{ site.baseurl }}/2016-05-30-ErgoDox-Build-Phase-II-Mockup)
 + Golbat
 
 # 3D Printing
