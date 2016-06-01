@@ -24,7 +24,7 @@ subtitle: The various projects I keep myself occupied with.
 [![](http://i.imgur.com/qcXwtmb.jpg)]({{ site.baseurl }}/2016-04-19-Satan-GH60-Build-Log)  
 [Satan GH60]({{ site.baseurl }}/2016-04-19-Satan-GH60-Build-Log)
 
-[![](http://imgur.com/xJlWYbM)]({{ site.baseurl }}/2016-06-01-Clueboard-Build-Log)  
+[![](http://imgur.com/xJlWYbM.jpg)]({{ site.baseurl }}/2016-06-01-Clueboard-Build-Log)  
 [Clueboard]({{ site.baseurl }}/2016-06-01-Clueboard-Build-Log)
 
 Coming:
