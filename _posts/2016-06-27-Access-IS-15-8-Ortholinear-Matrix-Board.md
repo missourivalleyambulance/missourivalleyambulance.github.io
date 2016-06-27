@@ -41,4 +41,4 @@ The feel of the board is great. It has a hefty ABS plastic frame, and large rubb
 Overall I'm very pleased with this board. Even though I plan to daily drive it for just a short period of time, it's a worthy interim board between [AEKII]({{ site.baseurl }}/2015-12-12-2-On-Becoming-A-Keyboard-Wonk) and ErgoDox.
 
 ---
-<p align="right">Typed on Access-I Matrix Keyboard</p>
+<p align="right">Typed on Access-IS Matrix Keyboard</p>
