@@ -7,7 +7,7 @@
 [Orange Alps64]({{ site.baseurl }}/2016-01-20-1-Orange-Alps64-Build-Log)</th>
   </tr>
   <tr>
-    <td>Clueboard</td>
+    <td>Test</td>
     <td></td>
   </tr>
 </table>
