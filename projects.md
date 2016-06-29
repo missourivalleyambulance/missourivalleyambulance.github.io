@@ -32,7 +32,7 @@ subtitle: Mostly keyboards, always tech
 + Ergodox
   * [Research and Planning]({{ site.baseurl }}/2016-05-09-ErgoDox-Build-Phase-I-Research-and-Planning) |
 [Mockup]({{ site.baseurl }}/2016-05-30-ErgoDox-Build-Phase-II-Mockup)
-+ Golbat
++ Golbat (waiting for shipment)
 
 ## Non-Modified Keyboards
 
