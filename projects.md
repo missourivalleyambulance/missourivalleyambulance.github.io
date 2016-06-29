@@ -29,13 +29,10 @@ subtitle: The various projects I keep myself occupied with.
 
 ## Coming:
 
-+ Ergodox 
-  * [Research and Planning]({{ site.baseurl }}/2016-05-09-ErgoDox-Build-Phase-I-Research-and-Planning)
-  * [Mockup]({{ site.baseurl }}/2016-05-30-ErgoDox-Build-Phase-II-Mockup)
-+ Golbat
 + Ergodox
   * [Research and Planning]({{ site.baseurl }}/2016-05-09-ErgoDox-Build-Phase-I-Research-and-Planning) |
 [Mockup]({{ site.baseurl }}/2016-05-30-ErgoDox-Build-Phase-II-Mockup)
++ Golbat
 
 ## Non-Modified Keyboards
 
@@ -49,8 +46,9 @@ subtitle: The various projects I keep myself occupied with.
 
 # 3D Printing
 
-Coming
+Da Vinci Jr (PLA Printer)
 
 # Home Automation
 
-Coming
++ SmartThings
++ OpenHab
