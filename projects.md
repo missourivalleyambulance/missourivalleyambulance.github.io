@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: The various projects I keep myself occupied with.
+subtitle: Mostly keyboards, always tech
 ---
 
 # Keyboards
