@@ -15,4 +15,4 @@ subtitle:
 
 twitter [@morganspeck](https://twitter.com/morganspeck)
 
-Geekhack [Cheddarbek](https://geekhack.org/index.php?action=profile;u=48354)
+Geekhack: [Cheddarbek](https://geekhack.org/index.php?action=profile;u=48354)
