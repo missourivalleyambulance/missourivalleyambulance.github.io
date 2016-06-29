@@ -33,6 +33,9 @@ subtitle: The various projects I keep myself occupied with.
   * [Research and Planning]({{ site.baseurl }}/2016-05-09-ErgoDox-Build-Phase-I-Research-and-Planning)
   * [Mockup]({{ site.baseurl }}/2016-05-30-ErgoDox-Build-Phase-II-Mockup)
 + Golbat
++ Ergodox
+  * [Blue Alps64 (Build Log)]({{ site.baseurl }}/2016-04-04-Blue-Alps-Build-Log) |
+[Donor Board]({{ site.baseurl }}/2015-12-20-1-The-Quest-For-Blue-Alps)
 
 ## Non-Modified Keyboards
 
