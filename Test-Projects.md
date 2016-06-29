@@ -1,3 +1,9 @@
+---
+layout: page
+title: Projects
+subtitle: The various projects I keep myself occupied with.
+---
+
 <table>
   <tr>
     <th>![](https://i.imgur.com/qgTvkKA.jpg)]({{ site.baseurl }}/2016-02-24-1-White-Alps-Build-Log)  
