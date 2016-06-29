@@ -42,7 +42,7 @@ subtitle: Mostly keyboards, always tech
 + [IBM Model M 122 Key Terminal Keyboard](https://deskthority.net/wiki/IBM_Model_M)
 + [Unicomp 122 Key PS/2](http://www.pckeyboard.com/page/product/UB40T56)
 + [Noppoo Lolita Spyder](https://www.amazon.com/Mechanical-Keyboard-Lolita-Spyder-Switch-PC/dp/B00T1P80XY)
-+ HP Terminal Keyboard (Unknown model | rubber dome switches)
++  HP Terminal Keyboard (Unknown model | rubber dome switches)
 
 # 3D Printing
 
