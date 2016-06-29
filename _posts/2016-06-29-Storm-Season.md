@@ -9,4 +9,4 @@ subtitle:
 I'm fairly proud of this. 
 
 ---
-<p align="right">Typed on AEKII. Shot on iPhone 6 Plus</p>
+<p align="right">Typed on AEKII | Shot on iPhone 6 Plus</p>
