@@ -27,12 +27,14 @@ subtitle: Mostly keyboards, always tech
 [![](http://imgur.com/xJlWYbM.jpg)]({{ site.baseurl }}/2016-06-01-Clueboard-Build-Log)  
 [Clueboard]({{ site.baseurl }}/2016-06-01-Clueboard-Build-Log)
 
-## Coming:
+[![](http://i.imgur.com/McyXI2A.jpg)]({{ site.baseurl }}/2016-07-16-Golbat-Build-Log)  
+[Golbat]({{ site.baseurl }}/2016-07-16-Golbat-Build-Log)
+
+### Coming:
 
 + Ergodox
   * [Research and Planning]({{ site.baseurl }}/2016-05-09-ErgoDox-Build-Phase-I-Research-and-Planning) |
 [Mockup]({{ site.baseurl }}/2016-05-30-ErgoDox-Build-Phase-II-Mockup)
-+ Golbat (waiting for shipment)
 
 ## Non-Modified Keyboards
 
