@@ -64,25 +64,25 @@ Primarily, the firmware is build out on [TMK Keymap Generator](http://tkg.io/#) 
 
 My keymap is below:
 
-![](http://imgur.com/dECtsBf.jpg)
-``` c
+![](http://imgur.com/dECtsBf.jpg)    
 Layer 0
+``` c
 ["TAB","Q","W","E","R","T","Y","U","I","O","P","del"],
 [{w:1.25},"fn6","A","S","D","F","G","H","J","K","L",{w:1.75},"enter"],
 [{w:1.75},"shift","Z","X","C","V","B","N","M","<\n,",{w:1.25},">\n.","fn4"],
 [{w:1.25},"no","alt",{w:1.25},"gui",{w:2.25},"fn2",{w:2.75},"fn1",{w:1.25},"fn3","fn5",{w:1.25},"no"]
 ```
-![](http://imgur.com/OOCyGbU.jpg)
-```c
+![](http://imgur.com/OOCyGbU.jpg)    
 Layer 1
+```c
 ["esc","pgup","up","pgdn","home","T","Y","U","I","_\n-","+\n=","|\n\\"],
 [{w:1.25},"ctrl","left","down","right","end","G","H","J","K",":\n;",{w:1.75},"\"\n'"],
 [{w:1.75},"shift","mute","voldown","volup","prev","play","next","F13","<\n,",{w:1.25},">\n.","fn4"],
 [{w:1.25},"no","alt",{w:1.25},"gui",{w:2.25},"fn2",{w:2.75},"fn1",{w:1.25},"fn3","fn5",{w:1.25},"no"]
 ```
-![](http://imgur.com/YHmh9nl.jpg)
-```c
+![](http://imgur.com/YHmh9nl.jpg)    
 Layer 2
+```c
 ["TAB","!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0","backspace"],
 [{w:1.25},"fn6","A","S","D","F","G","H","J","{\n[","}\n]",{w:1.75},"\"\n'"],
 [{w:1.75},"shift","fn7","fn8","fn9","V","B","N","M","<\n,",{w:1.25},">\n.","fn4"],
