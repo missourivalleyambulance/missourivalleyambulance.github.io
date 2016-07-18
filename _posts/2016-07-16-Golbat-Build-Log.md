@@ -4,6 +4,8 @@ title: A Wild Golbat Appeared
 subtitle:
 ---
 
+![](http://imgur.com/1TnlT0Z.jpg)
+
 <div class="video-container"><iframe title="YouTube video player" class="youtube-player" type="text/html"
 width="640" height="390" src="http://www.youtube.com/embed/B--WB8W05vg"
 frameborder="0" allowFullScreen></iframe></div>
