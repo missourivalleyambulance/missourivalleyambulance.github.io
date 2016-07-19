@@ -16,7 +16,7 @@ Diode and test switch are installed, teensy installed, RGB strip wired.
 
 ![](https://i.imgur.com/7TYT66F.jpg)
 
-I've got the strip's data pin wired to the LED A pin on teensy, and I'm getting power from unused VCC and GND ports on teensy. 
+I've got the strip's data pin wired to the LED A (B6) pin on the teensy, and I'm getting power from unused VCC and GND ports on teensy. 
 
 Tomorrow I'll begin coding to get the strip working on the right hand, then I'll work on implementing the LED strip on the left hand. 
 
