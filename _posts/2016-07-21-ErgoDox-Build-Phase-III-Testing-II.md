@@ -13,5 +13,22 @@ Presently I've got the RGB strip wired to the Teensy's D5 pin, typically an unus
 
 Worst case scenario, I can do like u/wootpatoot did, and run an additional wire over to the left hand - but I'm hoping to avoid that. 
 
+### Update (7/29)
+
+After many more days of pounding my head against my desk, I've been unable to find a way to drive the LED strip from the I/O expander. I've resigned myself to the fact that I'll need to run a 5th wire over to the left hand to drive the strip. 
+
+The problem: ErgoDox is designed to use a 4 pin TRRS port & cable to connect the two hands. 
+
+![](https://i.imgur.com/f3rsgax.jpg)
+
+Solution: I'll use a mini-USB port instead, and run a cable with mini-USB on either end to connect the two hands. 
+
+I ordered and received a breakout board from [Sparkfun](https://www.sparkfun.com/products/9966). I'll wire the board to the pinouts normally used for TRRS. 
+
+![](https://i.imgur.com/NyplYT5.jpg)
+
+
+Fortunately, the mini-USB port & breakout board will fit perfectly in the case. I'm hoping mounting the board to the case with hot glue will be sufficient. If all else, when I order the final carbon fiber plate for the production build I will add screw holes to mount the board to the plate. 
+
 ---
 <p align="right">Typed on AEKII</p>
