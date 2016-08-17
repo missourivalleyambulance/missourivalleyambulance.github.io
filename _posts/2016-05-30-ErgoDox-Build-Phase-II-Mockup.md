@@ -4,6 +4,8 @@ title: ErgoDox Phase II
 subtitle: Mockup
 ---
 
+Previously - [Phase II - Mockup]({{ site.baseurl }}/2016-05-30-ErgoDox-Build-Phase-II-Mockup)
+
 ![](http://imgur.com/H8iU4IK.jpg)
 
 When I began planning my Ergodox build, I had my eyes on a build by [witbliz](https://geekhack.org/index.php?topic=42772.msg1934474#msg1934474) using aluminum plates from [AKmalamute](https://geekhack.org/index.php?topic=55651.0)'s group buy.
@@ -23,5 +25,8 @@ Conclusions:
 + Full-hand is the way to go. I was a fool for thinking regular case was it.
 
 ![](http://imgur.com/fXQux7X.jpg)
+
+Next: [Phase III - Testing, Part 1]({{ site.baseurl }}/2016-07-18-ErgoDox-Build-Phase-III-Testing.md)  
+
 ---
 <p align="right">Typed on Clueboard</p>
