@@ -30,7 +30,7 @@ subtitle: Mostly keyboards, always tech
 [![](http://i.imgur.com/McyXI2A.jpg)]({{ site.baseurl }}/2016-07-16-Golbat-Build-Log)  
 [Golbat]({{ site.baseurl }}/2016-07-16-Golbat-Build-Log)
 
-### Coming:
+### In Progress:
 
 + Ergodox
   * [Research and Planning]({{ site.baseurl }}/2016-05-09-ErgoDox-Build-Phase-I-Research-and-Planning) |
