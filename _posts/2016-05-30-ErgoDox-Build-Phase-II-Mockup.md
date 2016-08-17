@@ -4,7 +4,7 @@ title: ErgoDox Phase II
 subtitle: Mockup
 ---
 
-Previously - [Phase II - Mockup]({{ site.baseurl }}/2016-05-30-ErgoDox-Build-Phase-II-Mockup)
+Previously: [Phase I - Research and Planning]({{ site.baseurl }}/2016-05-09-ErgoDox-Build-Phase-I-Research-and-Planning)
 
 ![](http://imgur.com/H8iU4IK.jpg)
 
@@ -26,7 +26,7 @@ Conclusions:
 
 ![](http://imgur.com/fXQux7X.jpg)
 
-Next: [Phase III - Testing, Part 1]({{ site.baseurl }}/2016-07-18-ErgoDox-Build-Phase-III-Testing.md)  
+Next: [Phase III - Testing, Part 1]({{ site.baseurl }}/2016-07-18-ErgoDox-Build-Phase-III-Testing)  
 
 ---
 <p align="right">Typed on Clueboard</p>

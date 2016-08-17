@@ -4,7 +4,7 @@ title: ErgoDox Phase III
 subtitle: Testing, Part 2
 ---
 
-Previously - [Phase II - Testing, Part 1]({{ site.baseurl }}/2016-07-18-ErgoDox-Build-Phase-III-Testing)
+Previously - [Phase III - Testing, Part 1]({{ site.baseurl }}/2016-07-18-ErgoDox-Build-Phase-III-Testing)
 
 <a class="embedly-card" href="https://gfycat.com/RedVainIberianemeraldlizard">RGB Underglow</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
