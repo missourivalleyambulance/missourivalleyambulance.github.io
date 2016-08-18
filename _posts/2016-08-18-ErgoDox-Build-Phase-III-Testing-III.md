@@ -4,6 +4,8 @@ title: ErgoDox Phase III
 subtitle: Testing, Part 3
 ---
 
+Previously - [Phase III - Testing, Part 2]({{ site.baseurl }}/2016-07-21-ErgoDox-Build-Phase-III-Testing-II)
+
 <a class="embedly-card" href="https://gfycat.com/LimpInbornCrayfish">RGB Underglow</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
