@@ -4,7 +4,7 @@ title: Projects
 subtitle: Mostly keyboards, always tech
 ---
 
-# Custom Keyboards
+# Custom & Modified Keyboards
 [![](https://i.imgur.com/qgTvkKA.jpg)]({{ site.baseurl }}/2016-02-24-1-White-Alps-Build-Log)  
 [White Alps64]({{ site.baseurl }}/2016-02-24-1-White-Alps-Build-Log)
 
