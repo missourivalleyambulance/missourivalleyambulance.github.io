@@ -10,9 +10,9 @@ Over the weekend I had to perform repair surgery on my [white Alps64]({{ site.ba
 
 ![Broken stem in slider](http://imgur.com/BzERo6A.jpg)
 
-Fortunately there wasn't too much damage, but a left-bracket keycap was damaged. 
+Fortunately there wasn't too much damage other than the left-bracket keycap being broken off.
 
-As is common with Alps switches, the keycap stem was broken off and stuck lodged in the slider. 
+As is commonly seen with Alps switches, the keycap stem was broken off and stuck lodged in the slider. 
 
 I removed all the necessary keycaps from the board to expose the case screws, and removed the PCB from the case. Fortunately I like to keep many spare parts in stock, including white alps SKCM switches. 
 

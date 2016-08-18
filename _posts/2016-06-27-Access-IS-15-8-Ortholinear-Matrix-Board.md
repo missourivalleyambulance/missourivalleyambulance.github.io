@@ -6,7 +6,7 @@ subtitle:
 
 ![](http://imgur.com/5MLX15s.jpg)
 
-I've seen these Access boards pop up on [r/mk](https://www.reddit.com/r/mechanicalkeyboards) periodically, but in all my searching, they've been difficult to track down. Access is a UK base manufacturer, so sourcing one in the US proved troublesome for me.
+I've seen these Access boards pop up on [r/mk](https://www.reddit.com/r/mechanicalkeyboards) periodically, but in all my searching, they've been difficult to track down. Access is a UK based manufacturer, so sourcing one in the US proved troublesome for me.
 
 Browsing on [UK Keycaps'](http://ukkeycaps.bigcartel.com/) site a few weeks ago, I discovered they had several in stock.
 
