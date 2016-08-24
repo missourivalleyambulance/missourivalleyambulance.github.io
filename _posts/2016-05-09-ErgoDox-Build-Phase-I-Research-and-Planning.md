@@ -59,7 +59,9 @@ Assuming I'm reading the firmware correctly, adding an RGB strip to the right ha
 
 Thus far I'm still in a research phase. The only relevant parts I have on hand are the [Granite](http://keypuller.com/granite/) keycaps and [Zealio](https://zealpc.net/products/zealio) switches for this build. Everything else is up in the air yet, but I plan to have the board built, and with as many of these ideas incorporated as possible by the end of Summer.
 
-Next: [Phase II - Mockup]({{ site.baseurl }}/2016-05-30-ErgoDox-Build-Phase-II-Mockup)  
+Next: [Phase II - Mockup]({{ site.baseurl }}/2016-05-30-ErgoDox-Build-Phase-II-Mockup)
+
+[List of all ErgoDox Build Posts]({{ site.baseurl }}/ErgoDox_Omnibus) 
 
 ---
 <p align="right">Typed on AEKII</p>

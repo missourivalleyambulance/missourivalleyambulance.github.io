@@ -22,7 +22,9 @@ I've got the strip's data pin wired to the LED A (B6) pin on the teensy, and I'm
 
 Tomorrow I'll begin coding to get the strip working on the right hand, then I'll work on implementing the LED strip on the left hand.
 
-Next: [Phase III - Testing Part 2]({{ site.baseurl }}/2016-07-21-ErgoDox-Build-Phase-III-Testing-II) 
+Next: [Phase III - Testing Part 2]({{ site.baseurl }}/2016-07-21-ErgoDox-Build-Phase-III-Testing-II)
+
+[List of all ErgoDox Build Posts]({{ site.baseurl }}/ErgoDox_Omnibus)
 
 ---
 <p align="right">Typed on Octopage</p>

@@ -28,5 +28,7 @@ Conclusions:
 
 Next: [Phase III - Testing, Part 1]({{ site.baseurl }}/2016-07-18-ErgoDox-Build-Phase-III-Testing)  
 
+[List of all ErgoDox Build Posts]({{ site.baseurl }}/ErgoDox_Omnibus)
+
 ---
 <p align="right">Typed on Clueboard</p>

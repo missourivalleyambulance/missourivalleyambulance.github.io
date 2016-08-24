@@ -52,7 +52,9 @@ I took the time this weekend to sort out all the mounting hardware I'll need. I'
 
 Testing is moving a full speed and is nearly complete. I imagine I will make the final changes to the case design and get that ordered within the next two weeks.
 
-Next: [Phase III - Testing Part 3]({{ site.baseurl }}/2016-08-18-ErgoDox-Build-Phase-III-Testing-III) 
+Next: [Phase III - Testing Part 3]({{ site.baseurl }}/2016-08-18-ErgoDox-Build-Phase-III-Testing-III)
+
+[List of all ErgoDox Build Posts]({{ site.baseurl }}/ErgoDox_Omnibus)
 
 ---
 <p align="right">Typed on AEKII</p>

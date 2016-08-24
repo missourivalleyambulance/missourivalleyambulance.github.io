@@ -31,5 +31,7 @@ I've began using this test board as my daily driver, to accustom myself to the l
 
 Moving forward, I simply need to finalize my modifications to the case design, order the carbon fiber plate, and assemble the final production board. Assuming I order sometime in the next few weeks I should be on track for completion of the production board by October.
 
+[List of all ErgoDox Build Posts]({{ site.baseurl }}/ErgoDox_Omnibus)
+
 ---
 <p align="right">Typed on ErgoDox Test Board</p>
