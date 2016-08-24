@@ -13,9 +13,9 @@ Posts detailing my ErgoDox Build. Phases I, II, and III detail my work on a 'tes
 ## Phase II - [Mockup]({{ site.baseurl }}/2016-05-30-ErgoDox-Build-Phase-II-Mockup)
 
 ## Phase III - Testing
-### [Part 1]({{ site.baseurl }}/2016-07-18-ErgoDox-Build-Phase-III-Testing)
-### [Part 2]({{ site.baseurl }}/2016-07-21-ErgoDox-Build-Phase-III-Testing-II)
-### [Part 3]({{ site.baseurl }}/2016-08-18-ErgoDox-Build-Phase-III-Testing-III)
+### [Part 1]({{ site.baseurl }}/2016-07-18-ErgoDox-Build-Phase-III-Testing)    
+### [Part 2]({{ site.baseurl }}/2016-07-21-ErgoDox-Build-Phase-III-Testing-II)    
+### [Part 3]({{ site.baseurl }}/2016-08-18-ErgoDox-Build-Phase-III-Testing-III)    
 
 ## Phase IV - Production Build
 
