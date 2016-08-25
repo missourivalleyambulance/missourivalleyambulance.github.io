@@ -4,7 +4,7 @@ title: WhatsApp Gets Zucked
 subtitle:
 ---
 
-![](http://imgur.com/Cp9sjCC.jpg)
+<center> <img src="http://imgur.com/Cp9sjCC.jpg" alt="Whatsapp"> </center>
 
 > WhatsApp has updated its terms of service and privacy policy to reflect that it will begin sharing select data with Facebook, including the phone number a user verifies during the registration process and the last time a user accessed the service. Facebook, which acquired WhatsApp in 2014, will use the information to provide better friend suggestions and targeted ads and offers to users of its own service.    
 
