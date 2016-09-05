@@ -14,7 +14,7 @@ It is unsurprising then that NBC didn't figure any of this out for the Olympics,
 
 Bloomberg is careful to note that NBC has made this Olympics a blowout, featuring more content than ever before. They even 'allowed' Buzzfeed to run NBC's Snapchat:
 
-From [Bloomberg](https://www.bloomberg.com/news/articles/2016-08-19/nbc-s-12-billion-olympics-bet-stumbles-thanks-to-millennials):
+From [Bloomberg](https://www.bloomberg.com/news/articles/2016-08-19/nbc-s-12-billion-olympics-bet-stumbles-thanks-to-millennials):    
 > NBC Sports Chairman Mark Lazarus said the network has a plan to profit from its Olympics investment, by giving people more options. This year, for example, the network put more than 6,000 hours of coverage online and allowed BuzzFeed to run its Olympics Snapchat channel.
 
 Sure, yeah, allowing a modern-day media company like Buzzfeed to integrate into your programming is a smart move to incline millenials to view your content, but they still fail to realize that the platforms themselves aren't up to my generation's standards. 
