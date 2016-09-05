@@ -15,6 +15,7 @@ It is unsurprising then that NBC didn't figure any of this out for the Olympics,
 Bloomberg is careful to note that NBC has made this Olympics a blowout, featuring more content than ever before. They even 'allowed' Buzzfeed to run NBC's Snapchat:
 
 From [Bloomberg](https://www.bloomberg.com/news/articles/2016-08-19/nbc-s-12-billion-olympics-bet-stumbles-thanks-to-millennials):    
+
 > NBC Sports Chairman Mark Lazarus said the network has a plan to profit from its Olympics investment, by giving people more options. This year, for example, the network put more than 6,000 hours of coverage online and allowed BuzzFeed to run its Olympics Snapchat channel.
 
 Sure, yeah, allowing a modern-day media company like Buzzfeed to integrate into your programming is a smart move to incline millenials to view your content, but they still fail to realize that the platforms themselves aren't up to my generation's standards. 
@@ -30,6 +31,7 @@ Even when he was able to reliably watch the games over the air the directing was
 In short, NBC is serving badly directed programming and refuses to acknowledge and fully server any of the methods my generation uses to consume content. One of the very first things any broadcast or journalism student will learn is that _the medium **is** the message_. 
 
 From [Bloomberg](https://www.bloomberg.com/news/articles/2016-08-19/nbc-s-12-billion-olympics-bet-stumbles-thanks-to-millennials):    
+
 > “If that happens, my prediction would be that millennials had been in a Facebook bubble or a Snapchat bubble and the Olympics have come, and they didn’t know it.”
 
 We knew the Olympics were going on. Sure there's a bubble that we live in, but if you want us to view your content, you've got to bring it into the bubble. NBC serves a crap product using an archaic technology, then wonders why an entire generation fails to consume it. There's a reason why my content consumption is limited to HBO Now, Hulu, and Netflix: they are the only ones who get it. 
@@ -37,4 +39,4 @@ We knew the Olympics were going on. Sure there's a bubble that we live in, but i
 > Bloomberg and NBC want to blame the audience for not participating in their content the way they expected them to. But if the results were not what they expected, perhaps they should consider that maybe the problem is with the product.
 
 ---
-<p align="right">Typed on ErgoDox Test Board</p
+<p align="right">Typed on ErgoDox Test Board</
