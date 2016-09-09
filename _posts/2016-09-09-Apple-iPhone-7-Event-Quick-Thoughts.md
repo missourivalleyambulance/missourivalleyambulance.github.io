@@ -10,22 +10,18 @@ iPhone 7 looks great. I can't wait to get my hands on one.
 
 I've been an iPhone guy since 2008. Over the past 9 years (has it really been that long?) I've had nearly all of them. I upgraded every year like clockwork. Last year was an exception - I stuck with my 6 Plus. My 6 Plus is the first phone I've ever had any longer than a year. I'm looking forward to moving from my gigantor 5.5" phone to a much more reasonable 4.7". I decided long ago that the 5.5" 6 Plus was just too large, but I still held off for the 7, that said, I'm glad I didn't upgrade last year, it was worth waiting for this. 
 
-#### Color. 
-
+#### Color     
 Apple of course kept the old standards of silver, gold, and rose gold. The standout color is of course Jet Black. Obviously I haven't seen one of these phones in person yet, but I've spoken to folks who have - they tell me it looks gorgeous. There is no doubt in my mind that Jet Black will be second only to the new 'black'. Apple was smart to limit Jet Black to the higher capacities (128GB & 256GB). Limiting it creates a bit of exclusivity, but you're not paying any more than you would for another color in the same capacity. Ever since the 4S I've been a white iPhone man, I'll be changing for the 7. I'm all aboard the Jet Black train. 
 
-#### Camera
-
+#### Camera    
 Part of why I specifically chose the 6 Plus 2 years ago was for OIS camera (optical image stabilization). OIS was limited to the Plus models of the 6 and 6S. With iPhone 7, Apple is bringing OIS to the 4.7" product as well. Great!
 
 The new dual camera system on the 7 Plus is brilliant. Apple is being conservative at first, when 7 Plus ships the OS will be able to use _either_ the telephoto _or_ wide angle lens. I would think a future software update will allow blending of the two images (perhaps to allow retroactive focus adjustment). 2 cameras isn't incredibly powerful now, but it will be. I just wish this were on the 4.7" product as well. 
 
-#### CPU
-
+#### CPU    
 Apple is once again proving how powerful it is to own the whole stack. They're doing something interesting with A10 fusion. Not only are they producing a 4 core phone, but they're actually using those cores intelligently (looking at you Android OEMs). I hope the promise of raw high performance, combined with better battery life for less intensive apps proves successful. This is clever engineering. 
 
-#### Headphones
-
+#### Headphones    
 I'm glad to see the headphone jack die. I used the headphone jack maybe half a dozen times with my 6S in the past two years, I won't miss it on iPhone 7.
 
 ## Apple Watch
