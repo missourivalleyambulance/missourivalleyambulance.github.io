@@ -14,7 +14,7 @@ Apple if anything are a company about convictions. Continually they make decisio
 
 Removing the headphone jack was the right call. Wireless is the future. In a few years we'll finally see the headphone jack for how archaic it is. 
 
-> We, as a species, are hooked up to focus on the wshort run, and we’re hooked up to seek popularity and avoid criticism. Choosing to do what you _know_ will be unpopular in the short run but you _believe_ will prove correct in the long run takes courage. Courage of one’s convictions, not courage _running into a burning building to save a life_, but courage nonetheless.
+> We, as a species, are hooked up to focus on the short run, and we’re hooked up to seek popularity and avoid criticism. Choosing to do what you _know_ will be unpopular in the short run but you _believe_ will prove correct in the long run takes courage. Courage of one’s convictions, not courage _running into a burning building to save a life_, but courage nonetheless.
 
 ---
 <p align="right">Typed on Octopage</p
