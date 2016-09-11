@@ -38,6 +38,7 @@ subtitle: Mostly keyboards, always tech
 
 ### Coming:
 + [Apple M0110]({{ site.baseurl }}/2016-07-29-Apple-M0110)
++ [40% w/SKCL Green Alps]({{ site.baseurl }}/2016-08-25-2-Alps-40-w-numpad-project-idea)
 
 ## Non-Modified Keyboards
 
