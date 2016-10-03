@@ -15,7 +15,7 @@ The goal, as I see it, is to find a cloud storage solution that offers competiti
 
 Clearly no single product or service is going to deliver what I wanted. The first step was [Boxcryptor](https://www.boxcryptor.com/en). Its functionality is quite simple: encrypt content _before_ it is uploaded. Boxcryptor is compatible with most company's solutions, be it Dropbox, Google Drive, iCloud, OneDrive, Amazon, etc. It can even encrypt arbitrary folders on a system if the cloud storage isn't directly compatible. Boxcryptor is free for individuals connected to only 1 service. Business and multi-cloud-provider setups require a license.
 
-![](http://imgur.com/XaYLA6D.jpg)
+![](http://imgur.com/B4WaWAt.jpg)
 
 In terms of managing one's private keys, Boxcryptor offers two options: one can create a Boxcryptor account, and Boxcryptor will sync your keys across all your devices, alternatively one can create a local account, and your keys remain locally on your device, and are never transmitted by Boxcryptor to any other drives. Getting Boxcryptor set up on other devices requires copying that private key to the second device, then providing the passphrase (on desktop this simply requires copying the key over a flash drive, on mobile the key can be sent via a secured medium like Airdrop).
 
