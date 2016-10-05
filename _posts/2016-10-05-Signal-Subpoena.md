@@ -13,7 +13,7 @@ The Justice Department came to Open Whisper Systems with a menu of information n
 
 Fortunately, Open Whisper Systems does things right. They use end-to-end encryption and log as little information as possible. Of everything the Justice Department wanted, all OWS was able to provide was this:
 
-![](http://imgur.com/CLTtqoN)    
+![](http://imgur.com/CLTtqoN.jpg)    
 [[Source]](https://twitter.com/whispersystems/status/783325788883955713)
 
 ---
