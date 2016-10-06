@@ -9,9 +9,9 @@ subtitle:
 <br>
 > The Arizona Democratic Party has managed to get 150 taco trucks to register voters across the state. Mi Familia Vota’s hopes to set up taco trucks in the battleground state of Nevada. With the USHCC also encouraging taco trucks to park their vehicles outside of polling stations on Election Day, it’s very likely that we’re closer to having taco trucks on every corner.
 
-[[Via Remezcla]](http://remezcla.com/lists/culture/taco-trucks-voter-registration-texas-arizona/)
+[[via Remezcla](http://remezcla.com/lists/culture/taco-trucks-voter-registration-texas-arizona/)]
 
-I love this response. Anything to get more voters registered is a good thing. 
+I love this response. Anything to get more voters registered is a good thing.
 
 ---
 <p align="right">Typed on ErgoDox Test Board</p>
