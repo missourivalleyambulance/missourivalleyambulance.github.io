@@ -7,6 +7,7 @@ subtitle:
 > Open Whisper Systems, a maker of a widely used encryption app called Signal, received a subpoena in the first half of the year for subscriber information and other details associated with two phone numbers that came up in a federal grand jury investigation in Virginia.    
 > ...    
 >   
+>    
 The Justice Department came to Open Whisper Systems with a menu of information needs, including subscriber details, addresses, telephone numbers, email addresses and method of payment. The request went on to demand information on internet addresses, browsers and internet providers that the account holders could have used, according to court records.
 
 [[via NYT]](http://www.nytimes.com/2016/10/05/technology/subpoenas-and-gag-orders-show-government-overreach-tech-companies-argue.html)
