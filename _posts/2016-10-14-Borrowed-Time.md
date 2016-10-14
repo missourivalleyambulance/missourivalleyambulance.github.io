@@ -10,7 +10,7 @@ Incredible [short film](http://www.borrowedtimeshort.com/) from [Lou Hamou-Lhadj
 
 From the [featurette](https://vimeo.com/187281621) on the film:
 
-> Theres's expectations still, of what animation is and could be. Different festivals and arenas of where you screen the film, their responses vary, and what people's expectations of what animation is to them varies. It's great, because that means we're challenging what people are expecting. That's what we set out to do in the beginning.
+> There's expectations still, of what animation is and could be. Different festivals and arenas of where you screen the film, their responses vary, and what people's expectations of what animation is to them varies. It's great, because that means we're challenging what people are expecting. That's what we set out to do in the beginning.
 
 ---
 <p align="right">Typed on ErgoDox Test Board</p>
