@@ -5,10 +5,8 @@ subtitle:
 ---
 
 <iframe src="https://player.vimeo.com/video/187257744" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/187257744">Borrowed Time</a> from <a href="https://vimeo.com/btanimatedshort">Borrowed Time</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-
-Incredible [short film](http://www.borrowedtimeshort.com/) from Lou Hamou-Lhadj & Andrew Coats of PIXAR. They spent the past 5 years working on this in their spare time. They've won a host of awards at various film festivals, and deserve every one. It's so refreshing to animation take on a mature theme, and to do so with such brilliant storytelling. 
+Incredible [short film](http://www.borrowedtimeshort.com/) from Lou Hamou-Lhadj & Andrew Coats of PIXAR. They spent the past 5 years working on this in their spare time. They've won a host of awards at various film festivals, and deserve every one. It's so refreshing to animation take on a mature theme, and to do so with such brilliant storytelling.
 
 From the [featurette](https://vimeo.com/187281621) on the film:
 
