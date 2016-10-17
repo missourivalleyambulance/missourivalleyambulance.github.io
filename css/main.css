@@ -7,7 +7,7 @@ body {
   font-size: 16px;
   color: #586e75;
   position: relative;
-  background: #93a1a1;
+  background: #fdf6e3;
 }
 p {
   line-height: 1.5;
@@ -30,7 +30,7 @@ a:focus {
   color: #b58900;
 }
 blockquote {
-  background: #93a1a1;
+  background: #fdf6e3;
   border-left: 5px solid #2aa198;
   margin: 1.5em 10px;
   padding: 0.5em 10px;
@@ -184,8 +184,8 @@ img::-moz-selection {
 
 footer {
   padding: 30px 0;
-  background: #93a1a1;
-  border-top: 1px #93a1a1 solid;
+  background: #fdf6e3;
+  border-top: 1px #fdf6e3 solid;
   margin-top: 50px;
   font-size: 14px;
 }
