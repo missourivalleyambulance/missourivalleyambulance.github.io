@@ -7,7 +7,7 @@ subtitle:
 ![](https://i.imgur.com/43REIhT.jpg)
 [[Source]](https://www.apple.com/pr/library/2016/10/27Apple-Unveils-Groundbreaking-New-MacBook-Pro.html)
 
-[SixColors - Perpendicular Philosophy](https://sixcolors.com/post/2016/10/perpendicular-philosophy/)
+### [SixColors - Perpendicular Philosophy](https://sixcolors.com/post/2016/10/perpendicular-philosophy/)
 
 > Microsoft believes that traditional computer interfaces and modern mobile-device touchscreen interfaces should be melded together, blurring the lines between tablet and PC. This week’s introduction of the Surface Studio—think of an iMac that can be folded down onto your desk and used as a gigantic iPad—is perhaps the most impressive iteration of that belief to date.
 <br><br>
