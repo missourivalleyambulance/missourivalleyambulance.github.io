@@ -18,5 +18,17 @@ I'm very excited for the possibilities for this set. I'm not sure what I'd build
 
 [[via The Van Keyboards](https://thevankeyboards.com/products/lightcycle-keycap-set)]
 
+### Update 10/28
+
+From [TheVanKeyboards](https://thevankeyboards.com/products/lightcycle-keycap-set?variant=29123419779):
+
+> I am sad to inform you that this pre-order for LightCycle has been cancelled.
+<br>
+...
+<br>
+> Unfortunately when I quoted the set much of it was together as one large set how I initially intended to run it. Over time and adding various components in made sense to split the set in a couple subsets. I didn't re-quote since much of the keys quoted didn't actually change, just the grouping of them. This was a mistake. Rearranging the large set into three smaller sets caused the compatibility/international set to be priced significantly below production cost.
+
+Bummer. 
+
 ---
 <p align="right">Typed on ErgoDox Test Board</p>
