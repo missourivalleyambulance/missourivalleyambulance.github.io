@@ -26,5 +26,13 @@ It's great to see both innovations from both companies.
 
 One small thought though: [$1799](http://www.apple.com/shop/buy-mac/macbook-pro) for the base MacBook Pro with Touch Bar hurts. For the average Apple consumer that's still spendy. 
 
+#### Update 11/1
+
+I got the chance to play with the non-Touch Bar 13" MacBook Pro this afternoon. 
+
+The machine is noticeably thinner and lighter than the 2015 product, which is nice - but I'm not sure it was needed. I'm impressed by the keyboard, it's a noticeable (although minor) improvement over the 12" MacBook Nothing keyboard. I can't say I was the biggest fan of the 2015 product's keyboard, but the one on this new machine is decent. Also, the new trackpad is GIGANTIC! No, really it's huge. Take how big you _think_ it is - now make that 30% larger - that's how big it is. 
+
+I've been waffling back and forth for ages about which of the Apple portables to get when I replace my machine next. I think at this point I'm firmly in the Macbook Nothing camp. This isn't a knock against the new Pro **at all**, but it has become clear to me that the Macbook Nothing is the more appropriate machine for me. 
+
 ---
-<p align="right">Typed on Octopage</p
+<p align="right">Typed on Octopage</p>
