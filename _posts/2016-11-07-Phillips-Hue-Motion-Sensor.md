@@ -22,7 +22,12 @@ I found the initial setup simple enough. Connect the bridge to my network, confi
 <center> <img src="http://imgur.com/3qqmx6a.jpg" alt="adding hue motion"> </center>
 [[Source]](http://www.howtogeek.com/247500/how-to-set-up-your-philips-hue-lights/)
 
-Adding the bulbs & accessories was dead simple too. Each device was quickly added and configured. Devices were also easily added to HomeKit. All that was necessary was to scan a code provided on the Hue bridge's box, then all my devices were present in the Home app on my iPhone...except they weren't.
+Adding the bulbs & accessories was dead simple too. Each device was quickly added and configured. Devices were also easily added to HomeKit.
+
+<center> <img src="http://imgur.com/OlMDiUG.jpg" alt="adding hue motion"> </center>
+[[Source]](http://www.vesternet.com/compatibility/homekit)
+
+All that was necessary was to scan a code provided on the Hue bridge's box, then all my devices were present in the Home app on my iPhone...except they weren't.
 
 > strike 1
 
