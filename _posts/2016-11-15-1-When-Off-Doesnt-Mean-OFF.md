@@ -36,7 +36,7 @@ A later statement from Shazam corroborates what Pearson stated, and what Whardle
 
 Recording or no, one would expect the off switch behavior to stay true to expectations - to be an actual OFF switch. While Shazam may not record audio while the microphone is active, it still presents another attack vector that a malicious actor might use to coopt the microphone.
 
-[ [via Objective-See](https://objective-see.com/blog/blog_0x13.html) | [via Digital Journal](http://www.digitaljournal.com/tech-and-science/technology/shazam-forced-to-backtrack-over-always-on-mac-mic-concerns/article/479638M) ]
+[ [via Objective-See](https://objective-see.com/blog/blog_0x13.html) & [ Digital Journal](http://www.digitaljournal.com/tech-and-science/technology/shazam-forced-to-backtrack-over-always-on-mac-mic-concerns/article/479638M) ]
 
 ---
 <p align="right">Typed on ErgoDox Test Board</p>
