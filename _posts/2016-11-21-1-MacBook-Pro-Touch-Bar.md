@@ -4,14 +4,15 @@ title: MacBook Pro Touch Bar Thoughts
 subtitle:
 ---
 
-![](https://i.imgur.com/43REIhT.jpg)
+![](https://i.imgur.com/43REIhT.jpg)    
 [[Source]](https://www.apple.com/pr/library/2016/10/27Apple-Unveils-Groundbreaking-New-MacBook-Pro.html)
 
 Supplementary to my [MacBook Pro post from 10/28]({{ site.baseurl }}/2016-10-28-1-Surface-and-Touch-Bar)
 
 Played with a Touch Bar MacBook Pro over the weekend.
 
-Quick Thoughts:
+Quick Thoughts:    
+
 + The Touch Bar itself is matte, surprise.
 + Speed is great. It changes views just as fast as you change apps.
 + Swiping on the Touch Bar to adjust volume/brightness is just fantastic.
