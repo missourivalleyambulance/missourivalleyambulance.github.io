@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Studio & Touch Bar
+title: MacBook Pro Touch Bar Thoughts
 subtitle:
 ---
 
