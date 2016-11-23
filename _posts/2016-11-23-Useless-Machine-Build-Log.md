@@ -4,9 +4,9 @@ title: Useless Machine Build Log
 subtitle:
 ---
 
-<iframe src="//giphy.com/embed/l2Jhv5onyXAu4GP6g" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/l2Jhv5onyXAu4GP6g"></a></p>
+<iframe src="//giphy.com/embed/l2Jhv5onyXAu4GP6g" width="640" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/l2Jhv5onyXAu4GP6g"></a></p>
 
-Last weekend I picked up a Useless Machine from [Barnes & Noble](http://www.barnesandnoble.com/w/toys-games-make-useless-machine-kit/30144050). I've wanted one for some time, but never got around to buying or building a kit.
+Last weekend I picked up a [Useless Machine](https://en.wikipedia.org/wiki/Useless_machine) from [Barnes & Noble](http://www.barnesandnoble.com/w/toys-games-make-useless-machine-kit/30144050). I've wanted one for some time, but never got around to buying or building a kit.
 
 ![](http://imgur.com/t1BfwQ3.jpg)
 
