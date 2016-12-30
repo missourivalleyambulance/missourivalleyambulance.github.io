@@ -30,6 +30,9 @@ subtitle: Mostly keyboards, always tech
 [![](http://i.imgur.com/McyXI2A.jpg)]({{ site.baseurl }}/2016-07-16-Golbat-Build-Log)  
 [Golbat]({{ site.baseurl }}/2016-07-16-Golbat-Build-Log)
 
+[![](http://imgur.com/MxKjc5C)]({{ site.baseurl }}/http://missourivalleyambulance.com/2016-12-29-Handwired-Jelly-Comb-Numpad-Mod)  
+[Hand Wired Numpad]({{ site.baseurl }}/http://missourivalleyambulance.com/2016-12-29-Handwired-Jelly-Comb-Numpad-Mod)
+
 ### In Progress:
 
 ![](http://imgur.com/qhbO2g6.jpg)
@@ -50,11 +53,9 @@ subtitle: Mostly keyboards, always tech
 + [Noppoo Lolita Spyder](https://www.amazon.com/Mechanical-Keyboard-Lolita-Spyder-Switch-PC/dp/B00T1P80XY)
 +  HP Terminal Keyboard (Unknown model | rubber dome switches)
 
-# 3D Printing
+# Others
 
-Da Vinci Jr (PLA Printer)
+<iframe src="//giphy.com/embed/l2Jhv5onyXAu4GP6g" width="320" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/l2Jhv5onyXAu4GP6g"></a></p>
+[Useless Machine]({{ site.baseurl }}/2016-11-23-Useless-Machine-Build-Log)
 
-# Home Automation
-
-+ SmartThings
-+ OpenHab
+[Cloud Storage]({{ site.baseurl }}/2016-11-23-Useless-Machine-Build-Log)
