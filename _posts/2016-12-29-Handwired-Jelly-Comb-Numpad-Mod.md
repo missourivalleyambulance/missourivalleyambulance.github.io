@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Handwired Jellycomb Numpad Mod
+title: Handwired Jellycomb Numpad Mod Log
 subtitle:
 ---
 
@@ -105,7 +105,7 @@ I've set up 4 function layers on this numpad: the base, a media controls layer, 
 
 I've got layer toggles on the top most keys(FN7-FN10). I've also set up momentary layer tap keys on 0 and Enter(FN1 & FN2), to get to the two layers I'll be using most often.
 
-The Macro layer has 6 macros (FN14-19)presently, but I've obviously got room for a lot more. 
+The Macro layer has 6 macros (FN14-19)presently, but I've obviously got room for a lot more.
 
 ```c
 /* layer 0 */
