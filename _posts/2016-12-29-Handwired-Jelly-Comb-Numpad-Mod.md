@@ -147,6 +147,8 @@ KEYMAP(
 
 ![](http://imgur.com/8gmMORk.jpg)
 
+Keycaps are DSA blanks that I had lying around. Top row has some of my artisans: Fugu, Slow Fi, Entling, and a Purrkey. 
+
 I see great possibilities with this numpad. The biggest reason why I prefer programmable boards vs standard boards is to get a certain set of keys - media controls and arrows. I largely see myself using the numpad at work when I'm using a 60% board. I can see myself using standard non-programmable boards now because all the critical keys I want/need are integrated into the numpad.
 
 This small impromtu project has also boosted my confidence about hand wired keyboards. More than anything else it has allowed me to see that hand wired isn't so difficult after all. I'm excited for what I might do next. I've had an Apple M0110 for a time, I think I'll hand wire it and convert it soon.
