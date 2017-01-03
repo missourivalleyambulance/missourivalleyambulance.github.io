@@ -4,7 +4,7 @@ title: Kaby Lake CPUs
 subtitle:
 ---
 
-Intel's [Kaby Lake](https://en.wikipedia.org/wiki/Kaby_Lake) CPUs were ['officially'](http://www.anandtech.com/show/10959/intel-launches-7th-generation-kaby-lake-i7-7700k-i5-7600k-i3-7350k) launched today. Kaby Lake is a marked change from Intel's old Tick/Tock release schedule. They are instead moving to [Process/Architecture/Optimization.](http://www.anandtech.com/show/10183/intels-tick-tock-seemingly-dead-becomes-process-architecture-optimization)
+Intel's [Kaby Lake](https://en.wikipedia.org/wiki/Kaby_Lake) CPUs were ['officially'](http://www.anandtech.com/show/10959/intel-launches-7th-generation-kaby-lake-i7-7700k-i5-7600k-i3-7350k) launched today. Kaby Lake is a marked change from Intel's old Tick/Tock release schedule. They are instead moving to [Process/Architecture/Optimization.](http://www.anandtech.com/show/10183/intels-tick-tock-seemingly-dead-becomes-process-architecture-optimization) This 'optimization' release looks to offer few improvements over the 6th generation Skylake chips: 
 
 > Like the Devil's Canyon refresh of Haswell, Kaby Lake desktop is but a mere clock speed boost disguised under the nomenclature of a new CPU generation. From an IPC standpoint, there's nothing to tell Kaby Lake apart from Skylake. The one feature that might have proved interesting—support for Optane memory—is unlikely to be put to use until late 2017.
 
