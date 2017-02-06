@@ -4,11 +4,15 @@ title: Everything Is On Fire
 subtitle: Fixing A Broken Mailserver
 ---
 
+### Some Background
+
 For two years now I've been managing my own email server built on [Mailinabox](https://mailinabox.email/). I first built out the box in the wake of the Snowden revelations. It occurred to me that while Gmail does offer state-of-the-art encryption on their data at rest, it was entirely possible that Google would be subject to [NSLs](https://en.wikipedia.org/wiki/National_security_letter) and definitely even mass data collection.
 
 Of course, email never really was designed for security, and unless you're using PGP on every message it's possible for **anyone** listening on the wire to intercept messages as they come and go. Despite this, I felt it was best to decentralize myself - and thus remove as much of my digital identity from Google as possible.
 
 If one's threat model is a nation state actor there is no perfect defense against that, but it is possible to minimize the attack surface or at least make it a bit more difficult to be attacked or surveilled by being removed from as many centralized systems as possible. Thus, Mailinabox.
+
+### The First Cracks Appear
 
 Everything was working perfectly until a few months ago - the build of my box predated Mailinbox's [LetsEncrypt](https://letsencrypt.org/) integration, so I'd be using an SSL cert issued by Comodo, and later WoSign. It was time to get myself moved off those options and on to LetsEncrypt (and in the wake of news of misdeeds by both Comodo and [WoSign](https://blog.mozilla.org/security/2016/10/24/distrusting-new-wosign-and-startcom-certificates/) that was a good decision), however my box was being stubborn. Even if I SFTP'd into the machine and removed the existing certs, I couldn't get any new certs to apply.
 
@@ -24,7 +28,7 @@ After that the LetsEncrypt cert was successfully applied, but weird stuff starte
 
 Once a LetsEncrypt certificate is issued, Mailinabox is _supposed_ to automatically renew the cert every 90 days. Today, my original LetsEncrypt cert expired. First warning was my phone telling me over and over again that it couldn't connect to the mail server.
 
-#### Everything Is On Fire
+### Everything Is On Fire
 
 First step was to SSH into the server and attempt the ssl_certificates.py script again - foiled! I got an error and it wouldn't run. The server was telling me it had issues with OpenSSL - this was likely the result of my messing around with the server months earlier trying to force it to get a LetsEncrypt manually.
 
@@ -64,6 +68,8 @@ sudo -E duplicity restore file:///home/backups/encrypted /home/user-data/
 ```
 
 A quick server reboot, and the box was back to its original configuration.
+
+### The Fire Extinguished
 
 The timing for this failure was quite good actually. My domain was up for renewal with GoDaddy, expiring on 2/10. Since I was doing all this work with rebuilding the server today, I took the time go get my domain transferred over to [Hover.](https://www.hover.com/) I'm just a few hours into being a Hover customer, but so far I'm pretty impressed. Their site offers step-by-step guides for how to get a domain released from GoDaddy and prepped for transfer to Hover. From the time I initiated the transfer until it was complete was just under an hour. Hover even automatically copied over all the nameserver glue records, so there was no fighting with those trying to get DNS working correctly with the mailserver.
 
