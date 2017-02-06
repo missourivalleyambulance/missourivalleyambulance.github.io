@@ -4,6 +4,8 @@ title: Everything Is On Fire
 subtitle: Fixing A Broken Mailserver
 ---
 
+![](http://imgur.com/8HYmOEt.jpg)
+
 ### Some Background
 
 For two years now I've been managing my own email server built on [Mailinabox](https://mailinabox.email/). I first built out the box in the wake of the Snowden revelations. It occurred to me that while Gmail does offer state-of-the-art encryption on their data at rest, it was entirely possible that Google would be subject to [NSLs](https://en.wikipedia.org/wiki/National_security_letter) and definitely even mass data collection.
@@ -32,7 +34,7 @@ Once a LetsEncrypt certificate is issued, Mailinabox is _supposed_ to automatica
 
 I was unable to get new emails on my phone, and my desktop machine was making similar complaints.
 
-First step was to go out to the box's admin page in an attempt to issue a new cert from the TLS console. In the interest of security, Mailinabox deployments enforce [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) (HSTS), which enforces SSL after you visit an encrypted site for the first time. HSTS is there to prevent a user from being exposed to [downgrade attacks](https://en.wikipedia.org/wiki/Downgrade_attack). In this case, with an expired certificate it prevented me from initiating a web connection with the site at all. 
+First step was to go out to the box's admin page in an attempt to issue a new cert from the TLS console. In the interest of security, Mailinabox deployments enforce [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) (HSTS), which enforces SSL after you visit an encrypted site for the first time. HSTS is there to prevent a user from being exposed to [downgrade attacks](https://en.wikipedia.org/wiki/Downgrade_attack). In this case, with an expired certificate it prevented me from initiating a web connection with the site at all.
 
 Next step was to SSH into the server and attempt the ssl_certificates.py script again - foiled! I got an error and it wouldn't run. The server was telling me it had issues with OpenSSL - this was likely the result of my messing around with the server months earlier trying to force it to get a LetsEncrypt manually.
 
