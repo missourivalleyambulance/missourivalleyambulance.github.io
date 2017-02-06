@@ -30,7 +30,11 @@ Once a LetsEncrypt certificate is issued, Mailinabox is _supposed_ to automatica
 
 ### Everything Is On Fire
 
-First step was to SSH into the server and attempt the ssl_certificates.py script again - foiled! I got an error and it wouldn't run. The server was telling me it had issues with OpenSSL - this was likely the result of my messing around with the server months earlier trying to force it to get a LetsEncrypt manually.
+I was unable to get new emails on my phone, and my desktop machine was making similar complaints.
+
+First step was to go out to the box's admin page in an attempt to issue a new cert from the TLS console. In the interest of security, Mailinabox deployments enforce [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) (HSTS), which enforces SSL after you visit an encrypted site for the first time. HSTS is there to prevent a user from being exposed to [downgrade attacks](https://en.wikipedia.org/wiki/Downgrade_attack). In this case, with an expired certificate it prevented me from initiating a web connection with the site at all. 
+
+Next step was to SSH into the server and attempt the ssl_certificates.py script again - foiled! I got an error and it wouldn't run. The server was telling me it had issues with OpenSSL - this was likely the result of my messing around with the server months earlier trying to force it to get a LetsEncrypt manually.
 
 I _hoped_ that an update would fix it, but unfortunately it did not. Just attempting to run the update to Mailinabox v0.21C didn't work. Again I was encountering errors regarging OpenSSL.
 
