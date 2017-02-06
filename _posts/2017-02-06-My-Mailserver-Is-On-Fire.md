@@ -24,6 +24,8 @@ After that the LetsEncrypt cert was successfully applied, but weird stuff starte
 
 Once a LetsEncrypt certificate is issued, Mailinabox is _supposed_ to automatically renew the cert every 90 days. Today, my original LetsEncrypt cert expired. First warning was my phone telling me over and over again that it couldn't connect to the mail server.
 
+#### Everything Is On Fire
+
 First step was to SSH into the server and attempt the ssl_certificates.py script again - foiled! I got an error and it wouldn't run. The server was telling me it had issues with OpenSSL - this was likely the result of my messing around with the server months earlier trying to force it to get a LetsEncrypt manually.
 
 I _hoped_ that an update would fix it, but unfortunately it did not. Just attempting to run the update to Mailinabox v0.21C didn't work. Again I was encountering errors regarging OpenSSL.
@@ -45,7 +47,7 @@ Then it was time to get the backup off the machine, so I fired up FileZilla and 
 
 ![](http://imgur.com/td2P77x.jpg)
 
-I then got started spinning up a new server with [DigitalOcean](https://www.digitalocean.com/). It was necessary to rename my old droplet to _box.missourivalleyambulance.com_ to _box.missourivalleyambulance.com.old_. I was able to get the new box up and running quickly, including the Mailinabox install. The setup for this is actually down to a single curl command. 
+I then got started spinning up a new server with [DigitalOcean](https://www.digitalocean.com/). It was necessary to rename my old droplet to _box.missourivalleyambulance.com_ to _box.missourivalleyambulance.com.old_. I was able to get the new box up and running quickly, including the Mailinabox install. The setup for this is actually down to a single curl command.
 
 ```
 curl -s https://mailinabox.email/setup.sh | sudo bash
