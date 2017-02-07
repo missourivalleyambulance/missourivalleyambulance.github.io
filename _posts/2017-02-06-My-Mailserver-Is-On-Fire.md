@@ -16,7 +16,7 @@ If one's threat model is a nation state actor there is no perfect defense agains
 
 ### The First Cracks Appear
 
-Everything was working perfectly until a few months ago - the build of my box predated Mailinbox's [LetsEncrypt](https://letsencrypt.org/) integration, so I'd be using an SSL cert issued by Comodo, and later WoSign. It was time to get myself moved off those options and on to LetsEncrypt (and in the wake of news of misdeeds by both Comodo and [WoSign](https://blog.mozilla.org/security/2016/10/24/distrusting-new-wosign-and-startcom-certificates/) that was a good decision), however my box was being stubborn. Even if I SFTP'd into the machine and removed the existing certs, I couldn't get any new certs to apply.
+Everything was working perfectly until a few months ago - the build of my box predated Mailinbox's [LetsEncrypt](https://letsencrypt.org/) integration, so I used an SSL cert issued by Comodo, and later WoSign. It was time to get myself moved off those options and on to LetsEncrypt (and in the wake of news of misdeeds by both Comodo and [WoSign](https://blog.mozilla.org/security/2016/10/24/distrusting-new-wosign-and-startcom-certificates/) that was a good decision), however my box was being stubborn. Even if I SFTP'd into the machine and removed the existing certs, I couldn't get any new certs to apply.
 
 Digging around the [Mailinabox support forums](https://discourse.mailinabox.email/), I found the proper script to invoke:
 
