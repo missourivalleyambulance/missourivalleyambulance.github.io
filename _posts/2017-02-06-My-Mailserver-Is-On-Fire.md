@@ -24,7 +24,7 @@ Digging around the [Mailinabox support forums](https://discourse.mailinabox.emai
 ./management/ssl_certificates.py --force
 ```
 
-After that the LetsEncrypt cert was successfully applied, but weird stuff started happening to the server. Where once the status pages would show me all was well, I started getting failures instead. Despite the Status Checks page failing, the box was fully functinal.
+After that the LetsEncrypt cert was successfully applied, but weird stuff started happening to the server. Where once the status pages would show me all was well, I started getting failures instead. Despite the Status Checks page failing, the box was fully functional.
 
 > I let the box continue to run until today - when it finally broke on me.
 
