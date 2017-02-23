@@ -12,7 +12,7 @@ Apple is opening its new campus "Apple Park" in April
 
 What a fitting tribute.
 
-[[via Macrumors](https://www.macrumors.com/2017/02/22/apple-park-steve-jobs-theater/) | [Apple](http://www.apple.com/newsroom/2017/02/apple-park-opens-to-employees-in-april.html)]
+[[via Macrumors](https://www.macrumors.com/2017/02/22/apple-park-steve-jobs-theater/) "|" [Apple](http://www.apple.com/newsroom/2017/02/apple-park-opens-to-employees-in-april.html)]
 
 ---
 <p align="right">Typed on MacBook</p>
