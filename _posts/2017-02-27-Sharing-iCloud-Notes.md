@@ -10,7 +10,7 @@ My girlfriend has long maintained a shopping list, and I've always needed to def
 
 The steps to share a note are super simple:
 
-+ Make a note of course, the tap the plus person icon. 
++ Make a note of course, then tap the plus person icon. 
 
 ![](https://i.imgur.com/RSRgd4G.png)
 
