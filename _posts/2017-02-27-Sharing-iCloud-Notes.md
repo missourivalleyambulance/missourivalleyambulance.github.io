@@ -10,15 +10,15 @@ My girlfriend has long maintained a shopping list, and I've always needed to def
 
 The steps to share a note are super simple:
 
-1. Make a note of course, the tap the plus person icon. 
++ Make a note of course, the tap the plus person icon. 
 
 ![](https://i.imgur.com/RSRgd4G.png)
 
-2. Determine how to share the link. Your recipient must have an iCloud account. Obviously sharing via SMS or email is best for this. 
++ Determine how to share the link. Your recipient must have an iCloud account. Obviously sharing via SMS or email is best for this. 
 
 ![](https://i.imgur.com/UFHCs36.png)
 
-3. Send the invite. 
++ Send the invite. 
 
 ![](https://i.imgur.com/AsYbG91.png)
 
