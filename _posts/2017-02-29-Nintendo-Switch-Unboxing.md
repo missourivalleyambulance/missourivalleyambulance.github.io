@@ -15,5 +15,6 @@ I haven't owned a Nintendo Console since the SNES. My first reaction when I saw 
 My main concern is the accessories. Seems like a lot is required outside of what comes in the main box.
 
 [[via Loop Insight](http://www.loopinsight.com/2017/02/24/nintendo-switch-unboxing-initial-impressions/)]
+
 ---
 <p align="right">Typed on Macbook</p>
