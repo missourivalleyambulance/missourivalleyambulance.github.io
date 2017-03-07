@@ -1,0 +1,22 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Home
+  url: "/"
+  side: right
+
+- title: Archive
+  url: "/archive"
+  side: right
+
+- title: Projects
+  url: "/projects"
+  side: right
+  dropdown:
+  - title: "ErgoDox"
+    url: "/ErgoDox_Omnibus"
+
+
+- title: About
+  url: "/aboutme"
+  side: right

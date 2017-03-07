@@ -1,0 +1,727 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+		<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Planck Build</title>
+	<link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css" />
+	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+  <script>
+    WebFont.load({
+      google: {
+        families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
+      }
+    });
+  </script>
+
+  <noscript>
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic|Volkhov' rel='stylesheet' type='text/css' />
+  </noscript>
+
+  
+	
+	<meta name="description" content="The Ortholinear keyboard concept has exploded within the keyboard community lately. Among the many that exist, those made by Jack Humbert&#39;s Planck and Atomic have proven to be incredibly popular. A recent group buy on Massdrop had hundreds of participants." />
+
+	
+
+	
+
+
+
+	
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png" />
+
+
+
+
+	
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png" />
+
+
+
+
+	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png" />	
+
+
+
+
+	
+	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png" />
+
+
+
+
+	
+	<meta name="msapplication-TileColor" content="#fabb00" />
+
+
+
+	<!-- Facebook Optimization -->
+	<meta property="og:locale" content="en_EN" />
+	
+	<meta property="og:title" content="Planck Build" />
+	<meta property="og:description" content="Missouri Valley Ambulance is the inane ramblings and various projects of a gadget geek, Apple lover, and keyboard wonk." />
+	<meta property="og:url" content="http://localhost:4000//keyboards/2016-03-02-Building-Planck" />
+	<meta property="og:site_name" content="MISSOURI VALLEY AMBULANCE" />
+	
+
+	
+
+	<!-- Search Engine Optimization -->
+	
+
+	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt" />
+
+	
+
+	
+</head>
+</head>
+<body id="top-of-page" class="post">
+	
+	
+<div id="navigation" class="sticky">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name">
+      <center><h1 class="show-for-small-only"><a href="http://localhost:4000"> <img src="/assets/img/logo.png" alt="MVA"></a></h1></center>
+    </li>
+       <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+      <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
+    </ul>
+    <section class="top-bar-section">
+
+      <ul class="right">
+        
+
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a href="http://localhost:4000/">Home</a></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a href="http://localhost:4000/archive">Archive</a></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+            
+            
+
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a href="http://localhost:4000/projects">Projects</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/ErgoDox_Omnibus">ErgoDox</a></li>
+                    
+                  </ul>
+
+              </li>
+            
+          
+        
+
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a href="http://localhost:4000/aboutme">About</a></li>
+
+            
+            
+          
+        
+        
+      </ul>
+
+      <ul class="left">
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+        
+      </ul>
+    </section>
+  </nav>
+</div><!-- /#navigation -->
+
+	
+
+	
+
+<div id="masthead-no-image-header">
+	<div class="row">
+		<div class="small-12 columns">
+			<center><a id="logo" href="http://localhost:4000" title="MISSOURI VALLEY AMBULANCE – "></center>
+				<center><img src="http://localhost:4000/assets/img/logo.png" alt="MISSOURI VALLEY AMBULANCE – "><center>
+			</a>
+		</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+
+
+
+<nav class="breadcrumbs" role="menubar" aria-label="breadcrumbs">
+ <a href="http://localhost:4000">Home</a>
+ 
+   
+    
+        <a href="http://localhost:4000/keyboards/">keyboards</a>
+    
+  
+    
+        <a class="current">Planck Build</a>
+    
+  
+</nav>
+
+
+
+
+
+
+
+
+
+
+	<div class="row t30">
+	<div class="medium-8 columns medium-offset-2 end">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+				
+
+				<span itemprop="name">
+<h1>Planck Build</h1>
+					<p class="subheadline">A 40% Ortholinear Keyboard</p>
+					
+				</span>
+			</header>
+
+
+			<span itemprop="articleSection">
+			<p><img src="http://imgur.com/duNnbCk.jpg" alt="Beginning Switch Install" /></p>
+
+<blockquote>
+  <p>Ortholinear is a semi-made-up word that was originally coined (to my knowledge) by TypeMatrix as “ortho-linear” - this term got concatenated, became popular among the keyboard community, and eventually became the banner for a keyboard company!    It refers to keyboard layouts where the keys are aligned vertically and horizontally, compared to standard staggered keyboards. No studies have been done to test the ergonomics of ortholinear keyboards (versus a comparable staggered one), but the change can make it easier to design and visual custom keymaps, and may help relieve RSI symptoms.</p>
+</blockquote>
+
+<p><a href="http://ortholinearkeyboards.com/education">[OLKB]</a></p>
+
+<p>The Ortholinear keyboard concept has exploded within the keyboard community lately. Among the many that exist, those made by Jack Humbert’s <a href="http://ortholinearkeyboards.com/planck">Planck</a> and <a href="http://ortholinearkeyboards.com/atomic">Atomic</a> have proven to be incredibly popular. A recent group buy on <a href="https://www.massdrop.com/buy/planck-mechanical-keyboard?mode=guest_open">Massdrop</a> had hundreds of participants. Nearly every custom keycap buy that is launched now has support for Planck or Atomic layouts in some way or another.</p>
+
+<p>Atomic and Planck are both reduced size boards. Atomic being a 65% sized board, Planck a 40%. The typical board has 104 to 108 keys, Planck has a mere 48. Like most custom keyboards, Planck must rely on function layers to produce the full range of 100+ keys (should the user so desire). A function layer should be familiar to many laptop owners: you press the function key, and other keys change from doing one thing, to doing another. Many, if not <em>most</em> custom keyboards employ some level of function keys, but unlike laptops, custom keyboards often have <strong>multiple</strong> function layers.</p>
+
+<p>Planck’s implementation of layers is quite novel and elegant. Unlike other boards that have arbitrary positions for function keys, with <em>x</em> number of layers, and a stack and priority to memorize, Planck by default employs just three. The main layer, the lower layer, and the upper layer.</p>
+
+<p><img src="http://i.imgur.com/uSXjhWG.jpg" alt="Planck default layout" />
+<a href="https://www.massdrop.com/buy/planck-mechanical-keyboard?mode=guest_open">[source]</a></p>
+
+<p>Planck comes shipped from OLKB with a very usable layout. For those who want to program it, Planck uses <a href="https://github.com/jackhumbert/qmk_firmware">QMK</a>, a fork of the popular <a href="https://github.com/tmk/tmk_keyboard">TMK</a> firmware. QMK is clever, it employs the TMK core, but has lovely programming shortcuts built in. These shortcuts make it simple to modify a keymap, and succeed in making the code much more human-readable. For example, in TMK, to a macro of modifier keys would require a dedicated macro script + a function key dedicated to it. Below is a macro to key Ctrl+Alt+Del with one key:</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="cm">/*
+ * Fn action definition
+ */</span>
+<span class="k">const</span> <span class="kt">uint16_t</span> <span class="n">PROGMEM</span> <span class="n">fn_actions</span><span class="p">[]</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="n">ACTION_LAYER_MOMENTARY</span><span class="p">(</span><span class="mi">1</span><span class="p">),</span>                  <span class="c1">// Default Layer
+</span>    <span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">=</span> <span class="n">ACTION_LAYER_TOGGLE</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">FN1</span><span class="p">),</span>          <span class="c1">// Apple FN + Others Layer
+</span><span class="p">};</span>
+
+
+<span class="cm">/*
+ * Macro definition
+ */</span>
+<span class="k">const</span> <span class="n">macro_t</span> <span class="o">*</span><span class="nf">action_get_macro</span><span class="p">(</span><span class="n">keyrecord_t</span> <span class="o">*</span><span class="n">record</span><span class="p">,</span> <span class="kt">uint8_t</span> <span class="n">id</span><span class="p">,</span> <span class="kt">uint8_t</span> <span class="n">opt</span><span class="p">)</span>
+<span class="p">{</span>
+    <span class="k">switch</span> <span class="p">(</span><span class="n">id</span><span class="p">)</span> <span class="p">{</span>
+        <span class="k">case</span> <span class="n">ALT_TAB</span><span class="p">:</span>
+            <span class="k">return</span> <span class="p">(</span><span class="n">record</span><span class="o">-&gt;</span><span class="n">event</span><span class="p">.</span><span class="n">pressed</span> <span class="o">?</span>
+                    <span class="n">MACRO</span><span class="p">(</span> <span class="n">D</span><span class="p">(</span><span class="n">LALT</span><span class="p">),</span> <span class="n">D</span><span class="p">(</span><span class="n">LCTRL</span><span class="p">),</span> <span class="n">D</span><span class="p">(</span><span class="n">KC_DEL</span><span class="p">),</span> <span class="n">END</span> <span class="p">)</span> <span class="o">:</span>
+                    <span class="n">MACRO</span><span class="p">(</span> <span class="n">U</span><span class="p">(</span><span class="n">LALT</span><span class="p">),</span> <span class="n">U</span><span class="p">(</span><span class="n">LCTRL</span><span class="p">),</span> <span class="n">D</span><span class="p">(</span><span class="n">KC_DEL</span><span class="p">),</span> <span class="n">END</span> <span class="p">));</span>
+    <span class="p">}</span>
+    <span class="k">return</span> <span class="n">MACRO_NONE</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre>
+</div>
+
+<p>QMK vastly simplifies the process, modifiers can be chained, with no dedicated macro even being required - leading to much simpler code:</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="n">LALT</span><span class="p">(</span><span class="n">LCTL</span><span class="p">(</span><span class="n">KC_DEL</span><span class="p">))</span>
+</code></pre>
+</div>
+
+<p>Or a simple method to make a key be shift while held, capslock when tapped:</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="n">MT</span><span class="p">(</span><span class="n">MOD_LSFT</span><span class="p">,</span> <span class="n">KC_CAPS</span><span class="p">)</span>
+</code></pre>
+</div>
+
+<p>Again, with no dedicated macro or function layer required to make that happen.</p>
+
+<p>I found the changes from TMK to QMK easy to grasp, and I was able to quickly adapt to using it. I’m seriously considering adapting my TMK keymaps for my Alps64 boards to QMK, just for prettier code.</p>
+
+<p>The keymap I’ve configured for my Planck is below:</p>
+
+<div class="language-c highlighter-rouge"><pre class="highlight"><code> <span class="cp">#define _QW 0
+</span> <span class="cp">#define _LW 1
+</span> <span class="cp">#define _RS 2
+</span> <span class="cp">#define _SH 3
+</span>
+ <span class="k">const</span> <span class="kt">uint16_t</span> <span class="n">PROGMEM</span> <span class="n">keymaps</span><span class="p">[][</span><span class="n">MATRIX_ROWS</span><span class="p">][</span><span class="n">MATRIX_COLS</span><span class="p">]</span> <span class="o">=</span> <span class="p">{</span>
+   <span class="c1">// Defalt Layout
+</span>   <span class="cm">/*
+    * ,-----------------------------------------------------------------------.
+    * |ESC  |Q    |W    |E    |R    |T    |Y    |U    |U    |O    |P    |BSPC |
+    * |-----------------------------------------------------------------------|
+    * |TAB  |A    |S    |D    |F    |G    |H    |J    |K    |L    |SCLN |QUOT |
+    * |-----------------------------------------------------------------------|
+    * |LSFT |Z    |X    |C    |V    |B    |N    |M    |COMM |DOT .|SLSH |ENT/RS|
+    * |-----------------------------------------------------------------------|
+    * |M0   |LCTL |LALT |LGUI |FNLW |SPC        |FNRS |LEFT |UP   |DOWN |RGHT |
+    * `-----------------------------------------------------------------------'
+    */</span>
+ <span class="p">[</span><span class="n">_QW</span><span class="p">]</span> <span class="o">=</span> <span class="p">{</span> <span class="cm">/* Qwerty */</span>
+   <span class="p">{</span><span class="n">KC_ESC</span><span class="p">,</span>  <span class="n">KC_Q</span><span class="p">,</span>    <span class="n">KC_W</span><span class="p">,</span>    <span class="n">KC_E</span><span class="p">,</span>    <span class="n">KC_R</span><span class="p">,</span>    <span class="n">KC_T</span><span class="p">,</span>    <span class="n">KC_Y</span><span class="p">,</span>    <span class="n">KC_U</span><span class="p">,</span>    <span class="n">KC_I</span><span class="p">,</span>    <span class="n">KC_O</span><span class="p">,</span>    <span class="n">KC_P</span><span class="p">,</span>    <span class="n">KC_BSPC</span><span class="p">},</span>
+   <span class="p">{</span><span class="n">KC_TAB</span><span class="p">,</span>  <span class="n">KC_A</span><span class="p">,</span>    <span class="n">KC_S</span><span class="p">,</span>    <span class="n">KC_D</span><span class="p">,</span>    <span class="n">KC_F</span><span class="p">,</span>    <span class="n">KC_G</span><span class="p">,</span>    <span class="n">KC_H</span><span class="p">,</span>    <span class="n">KC_J</span><span class="p">,</span>    <span class="n">KC_K</span><span class="p">,</span>    <span class="n">KC_L</span><span class="p">,</span>    <span class="n">KC_SCLN</span><span class="p">,</span> <span class="n">KC_QUOT</span><span class="p">},</span>
+   <span class="p">{</span><span class="n">MT</span><span class="p">(</span><span class="n">MOD_LSFT</span><span class="p">,</span> <span class="n">KC_CAPS</span><span class="p">),</span> <span class="n">KC_Z</span><span class="p">,</span>    <span class="n">KC_X</span><span class="p">,</span>    <span class="n">KC_C</span><span class="p">,</span>    <span class="n">KC_V</span><span class="p">,</span>    <span class="n">KC_B</span><span class="p">,</span>    <span class="n">KC_N</span><span class="p">,</span>    <span class="n">KC_M</span><span class="p">,</span>    <span class="n">KC_COMM</span><span class="p">,</span> <span class="n">KC_DOT</span><span class="p">,</span>  <span class="n">KC_SLSH</span><span class="p">,</span> <span class="n">MT</span><span class="p">(</span><span class="n">MOD_LSFT</span><span class="p">,</span> <span class="n">KC_ENT</span><span class="p">)</span> <span class="p">},</span>
+   <span class="p">{</span><span class="n">M</span><span class="p">(</span><span class="mi">0</span><span class="p">),</span>    <span class="n">KC_LCTL</span><span class="p">,</span> <span class="n">MT</span><span class="p">(</span><span class="n">MOD_LALT</span><span class="p">,</span> <span class="n">KC_CAPS</span><span class="p">),</span> <span class="n">KC_LGUI</span><span class="p">,</span> <span class="n">MO</span><span class="p">(</span><span class="n">_LW</span><span class="p">),</span> <span class="n">LT</span><span class="p">(</span><span class="n">_SH</span><span class="p">,</span> <span class="n">KC_SPC</span><span class="p">),</span> <span class="n">LT</span><span class="p">(</span><span class="n">_SH</span><span class="p">,</span> <span class="n">KC_SPC</span><span class="p">),</span>  <span class="n">MO</span><span class="p">(</span><span class="n">_RS</span><span class="p">),</span> <span class="n">KC_LEFT</span><span class="p">,</span> <span class="n">KC_UP</span>   <span class="p">,</span> <span class="n">KC_DOWN</span><span class="p">,</span>   <span class="n">KC_RGHT</span><span class="p">}</span>
+ <span class="p">},</span>
+ <span class="c1">// RAISE
+</span> <span class="cm">/*
+  * ,-----------------------------------------------------------------------.
+  * |GRV  |1    |2    |3    |4    |5    |6    |7    |8    |9    |0    |BSPC |
+  * |-----------------------------------------------------------------------|
+  * |TAB  |A    |S    |D    |HOME |G    |H    |4    |5    |6    |MINS |BSLS |
+  * |-----------------------------------------------------------------------|
+  * |LSFT |Z    |X    |C    |END  |B    |N    |1    |2    |3    |SLSH |ENT/RS|
+  * |-----------------------------------------------------------------------|
+  * |M0   |LCTL |LALT |LGUI |FNLW |SPC        |0    |0    |.    |DOWN |RGHT |
+  * `-----------------------------------------------------------------------'
+  */</span>
+ <span class="p">[</span><span class="n">_LW</span><span class="p">]</span> <span class="o">=</span> <span class="p">{</span> <span class="cm">/* LOWER */</span>
+   <span class="p">{</span><span class="n">KC_GRV</span><span class="p">,</span>  <span class="n">KC_1</span><span class="p">,</span>      <span class="n">KC_2</span><span class="p">,</span>      <span class="n">KC_3</span><span class="p">,</span>      <span class="n">KC_4</span><span class="p">,</span>      <span class="n">KC_5</span><span class="p">,</span>      <span class="n">KC_6</span><span class="p">,</span>      <span class="n">KC_7</span><span class="p">,</span>    <span class="n">KC_8</span><span class="p">,</span>    <span class="n">KC_9</span><span class="p">,</span>    <span class="n">KC_0</span><span class="p">,</span>    <span class="n">KC_BSPC</span><span class="p">},</span>
+   <span class="p">{</span><span class="n">KC_TRNS</span><span class="p">,</span> <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_HOME</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_4</span><span class="p">,</span>    <span class="n">KC_5</span><span class="p">,</span>    <span class="n">KC_6</span>   <span class="p">,</span> <span class="n">KC_MINS</span><span class="p">,</span> <span class="n">KC_BSLS</span><span class="p">},</span>
+   <span class="p">{</span><span class="n">KC_TRNS</span><span class="p">,</span> <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_END</span><span class="p">,</span>    <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_1</span><span class="p">,</span>    <span class="n">KC_2</span><span class="p">,</span>    <span class="n">KC_3</span>   <span class="p">,</span> <span class="n">KC_TRNS</span><span class="p">,</span> <span class="n">KC_TRNS</span><span class="p">},</span>
+   <span class="p">{</span><span class="n">KC_TRNS</span><span class="p">,</span> <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_0</span><span class="p">,</span>    <span class="n">KC_0</span><span class="p">,</span>    <span class="n">KC_DOT</span> <span class="p">,</span> <span class="n">KC_TRNS</span><span class="p">,</span> <span class="n">KC_TRNS</span><span class="p">}</span>
+ <span class="p">},</span>
+ <span class="c1">// LOWER
+</span> <span class="cm">/*
+  * ,-----------------------------------------------------------------------.
+  * |GRV  |1    |2    |3    |4    |5    |6    |7    |8    |9    |0    |DEL  |
+  * |-----------------------------------------------------------------------|
+  * |TAB  |MUTE |VOLD |VOLU |HOME  |G    |H   |J    |BSLS |=    |-    |"    |
+  * |-----------------------------------------------------------------------|
+  * |LSFT |MPRV |MPLY |MNXT |END  |B    |N    |F13  |BSLS |[    |]    |RSFT |
+  * |-----------------------------------------------------------------------|
+  * |M0   |LCTL |LALT |LGUI |FNLW |SPC        |FNRS |LEFT |UP   |DOWN |RGHT |
+  * `-----------------------------------------------------------------------'
+  */</span>
+ <span class="p">[</span><span class="n">_RS</span><span class="p">]</span> <span class="o">=</span> <span class="p">{</span> <span class="cm">/* RAISE */</span>
+   <span class="p">{</span><span class="n">KC_GRV</span><span class="p">,</span>  <span class="n">KC_1</span><span class="p">,</span>      <span class="n">KC_2</span><span class="p">,</span>      <span class="n">KC_3</span><span class="p">,</span>      <span class="n">KC_4</span><span class="p">,</span>      <span class="n">KC_5</span><span class="p">,</span>      <span class="n">KC_6</span><span class="p">,</span>      <span class="n">KC_7</span><span class="p">,</span>    <span class="n">KC_8</span><span class="p">,</span>    <span class="n">KC_9</span><span class="p">,</span>    <span class="n">KC_0</span><span class="p">,</span>    <span class="n">KC_DEL</span><span class="p">},</span>
+   <span class="p">{</span><span class="n">KC_TRNS</span><span class="p">,</span> <span class="n">KC_MUTE</span><span class="p">,</span>   <span class="n">KC_VOLD</span><span class="p">,</span>   <span class="n">KC_VOLU</span><span class="p">,</span>   <span class="n">KC_HOME</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span> <span class="n">KC_BSLS</span><span class="p">,</span> <span class="n">KC_EQL</span><span class="p">,</span> <span class="n">KC_MINS</span><span class="p">,</span>  <span class="n">KC_QUOT</span><span class="p">},</span>
+   <span class="p">{</span><span class="n">KC_TRNS</span><span class="p">,</span> <span class="n">KC_MPRV</span><span class="p">,</span>   <span class="n">KC_MPLY</span><span class="p">,</span>   <span class="n">KC_MNXT</span><span class="p">,</span>   <span class="n">KC_END</span><span class="p">,</span>    <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_F13</span><span class="p">,</span>  <span class="n">KC_BSLS</span><span class="p">,</span> <span class="n">KC_LBRC</span><span class="p">,</span> <span class="n">KC_RBRC</span><span class="p">,</span> <span class="n">KC_TRNS</span><span class="p">},</span>
+   <span class="p">{</span><span class="n">KC_TRNS</span><span class="p">,</span> <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span>   <span class="n">KC_TRNS</span><span class="p">,</span> <span class="n">KC_LEFT</span><span class="p">,</span> <span class="n">KC_UP</span><span class="p">,</span> <span class="n">KC_DOWN</span><span class="p">,</span> <span class="n">KC_RGHT</span><span class="p">}</span>
+ <span class="p">},</span>
+ <span class="c1">// Space FN
+</span> <span class="cm">/*
+  * ,-----------------------------------------------------------------------.
+  * |~    |!    |@    |#    |$    |%    |^    |&amp;    |*    |(    |)    |DEL  |
+  * |-----------------------------------------------------------------------|
+  * |TAB  |A    |S    |D    |F    |G    |H    |J    |PIPE |+    |_    |QUOT |
+  * |-----------------------------------------------------------------------|
+  * |LSFT |Z    |X    |C    |V    |B    |N    |M    | |DOT .|SLSH |RSFT |
+  * |-----------------------------------------------------------------------|
+  * |M0   |LCTL |LALT |LGUI |FNLW |SPC        |FNRS |LEFT |UP   |DOWN |RGHT |
+  * `-----------------------------------------------------------------------'
+  */</span>
+ <span class="p">[</span><span class="n">_SH</span><span class="p">]</span> <span class="o">=</span> <span class="p">{</span> <span class="cm">/* SpaceFN/Shifted Layout */</span>
+ <span class="p">{</span><span class="n">KC_TILD</span><span class="p">,</span> <span class="n">KC_EXLM</span><span class="p">,</span> <span class="n">KC_AT</span><span class="p">,</span>   <span class="n">KC_HASH</span><span class="p">,</span> <span class="n">KC_DLR</span><span class="p">,</span>  <span class="n">KC_PERC</span><span class="p">,</span> <span class="n">KC_CIRC</span><span class="p">,</span> <span class="n">KC_AMPR</span><span class="p">,</span> <span class="n">KC_ASTR</span><span class="p">,</span> <span class="n">KC_LPRN</span><span class="p">,</span> <span class="n">KC_RPRN</span><span class="p">,</span> <span class="n">KC_DEL</span><span class="p">},</span>
+ <span class="p">{</span><span class="n">KC_TAB</span><span class="p">,</span>  <span class="n">KC_A</span><span class="p">,</span>    <span class="n">KC_S</span><span class="p">,</span>    <span class="n">KC_D</span><span class="p">,</span>    <span class="n">KC_HOME</span><span class="p">,</span>    <span class="n">KC_G</span><span class="p">,</span>    <span class="n">KC_H</span><span class="p">,</span>    <span class="n">KC_J</span><span class="p">,</span>    <span class="n">KC_PIPE</span><span class="p">,</span>    <span class="n">KC_PLUS</span><span class="p">,</span>    <span class="n">KC_UNDS</span><span class="p">,</span> <span class="n">KC_TRNS</span><span class="p">},</span>
+ <span class="p">{</span><span class="n">KC_LSFT</span><span class="p">,</span> <span class="n">KC_Z</span><span class="p">,</span>    <span class="n">KC_X</span><span class="p">,</span>    <span class="n">KC_C</span><span class="p">,</span>    <span class="n">KC_END</span><span class="p">,</span>    <span class="n">KC_B</span><span class="p">,</span>    <span class="n">KC_N</span><span class="p">,</span>    <span class="n">KC_M</span><span class="p">,</span>    <span class="n">KC_PIPE</span><span class="p">,</span> <span class="n">KC_DOT</span><span class="p">,</span>  <span class="n">KC_SLSH</span><span class="p">,</span> <span class="n">KC_TRNS</span> <span class="p">},</span>
+ <span class="p">{</span><span class="n">M</span><span class="p">(</span><span class="mi">0</span><span class="p">),</span>    <span class="n">KC_LCTL</span><span class="p">,</span> <span class="n">KC_TRNS</span><span class="p">,</span> <span class="n">KC_LGUI</span><span class="p">,</span> <span class="n">MO</span><span class="p">(</span><span class="n">_LW</span><span class="p">),</span> <span class="n">KC_TRNS</span><span class="p">,</span> <span class="n">KC_TRNS</span><span class="p">,</span> <span class="n">MO</span><span class="p">(</span><span class="n">_RS</span><span class="p">),</span> <span class="n">KC_LEFT</span><span class="p">,</span> <span class="n">KC_UP</span><span class="p">,</span>   <span class="n">KC_DOWN</span><span class="p">,</span>  <span class="n">KC_RGHT</span><span class="p">}</span>
+ <span class="p">},</span>
+ <span class="p">};</span>
+
+ <span class="k">const</span> <span class="kt">uint16_t</span> <span class="n">PROGMEM</span> <span class="n">fn_actions</span><span class="p">[]</span> <span class="o">=</span> <span class="p">{</span>
+
+ <span class="p">};</span>
+
+ <span class="k">const</span> <span class="n">macro_t</span> <span class="o">*</span><span class="nf">action_get_macro</span><span class="p">(</span><span class="n">keyrecord_t</span> <span class="o">*</span><span class="n">record</span><span class="p">,</span> <span class="kt">uint8_t</span> <span class="n">id</span><span class="p">,</span> <span class="kt">uint8_t</span> <span class="n">opt</span><span class="p">)</span>
+ <span class="p">{</span>
+   <span class="c1">// MACRODOWN only works in this function
+</span>       <span class="k">switch</span><span class="p">(</span><span class="n">id</span><span class="p">)</span> <span class="p">{</span>
+         <span class="k">case</span> <span class="mi">0</span><span class="p">:</span>
+           <span class="k">if</span> <span class="p">(</span><span class="n">record</span><span class="o">-&gt;</span><span class="n">event</span><span class="p">.</span><span class="n">pressed</span><span class="p">)</span> <span class="p">{</span>
+             <span class="n">register_code</span><span class="p">(</span><span class="n">KC_RSFT</span><span class="p">);</span>
+             <span class="n">backlight_step</span><span class="p">();</span>
+           <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+             <span class="n">unregister_code</span><span class="p">(</span><span class="n">KC_RSFT</span><span class="p">);</span>
+           <span class="p">}</span>
+         <span class="k">break</span><span class="p">;</span>
+       <span class="p">}</span>
+     <span class="k">return</span> <span class="n">MACRO_NONE</span><span class="p">;</span>
+ <span class="p">};</span>
+</code></pre>
+</div>
+
+<h2 id="assembly">Assembly</h2>
+
+<p>My Planck was ordered from the Massdrop group buy. I selected a purple milled case bottom, a <a href="http://ortholinearkeyboards.com/planck/planck-top-plate-mit">MIT layout</a> plate (this uses a 2u spacebar instead of 2 separate keys where space would go), and OEM profile blank white keycaps.</p>
+
+<p><img src="http://imgur.com/PFceR0N.jpg" alt="All Parts" /></p>
+
+<p>I selected the purple milled bottom to match a <a href="http://blog.hungerwork.studio/">Binge/HungerWorks</a> artisan keycap I won during the initial Zealio <a href="https://geekhack.org/index.php?topic=74807.0">group buy</a>. I was wary after my purchase about whether I’d made the right decision - but seeing it in person assuaged all my fears. This thing is absolutely gorgeous.</p>
+
+<p><img src="http://imgur.com/dHwkE5F.jpg" alt="Milled Purple Bottom" /></p>
+
+<p>For this build I’ve employed three different switch types. Tactile 65g <a href="https://zealpc.net/products/zealio">Zealios</a>, linear <a href="https://deskthority.net/wiki/Gateron_KS-3_series">Gateron</a> Reds. and a Cherry <a href="https://deskthority.net/wiki/Cherry_MX_Black">MX Black</a>. The Zealios have been placed on the alphanumeric keys, linear reds on the modifiers, Cherry black (which is a heavy switch) on space.
+<img src="http://imgur.com/s1ibLdT.jpg" alt="Switch Install" /></p>
+
+<p>Assembly of Planck is incredibly straightforward. One might not think a 40%, QMK programmed custom keyboard would be a great introduction for someone getting into custom keyboards, but it really is. The PCB comes with all controller parts and diodes pre-soldered, so assembly is simply a process of placing the stabilizer (if using the MIT layout), placing switches in the plate, then soldering them to the PCB. It’s dead simple board to assemble. I wish more were like it.</p>
+
+<p><img src="http://imgur.com/IDXNdEx.jpg" alt="Switches Installed" /></p>
+
+<p>The kit does ship with 48 white LEDs included. Not being a fan of LED backlighting on most boards, I opted to only install one - below my artisan keycap.</p>
+
+<p><img src="http://imgur.com/JhUugWv.jpg" alt="Fully Assembled" /></p>
+
+<p>Elegance and simplicity typify this keyboard. It’s a pleasure to look at, and with the tactile zealios and adorable compact size it’s a pleasure to type with. The ortholinear layout does take a few hours to acclimatize to, after years of touch typing on a staggered board, but it’s easy to do. One might imagine so few keys to be a hurdle to overcome, but it really isn’t, The upper/lower layer concept makes learning the function layers very easy.</p>
+
+<p><img src="http://imgur.com/JZ69wAH.jpg" alt="Planck compared to AEKII" /></p>
+
+<p>Planck compared to a full-sized Apple Extended Keyboard II.</p>
+
+<p>At the moment I have the OEM blank keycaps installed - I may consider putting Granite keycaps on the board when those arrive this summer, but I haven’t decided yet. Until then, it’ll continue to look beautiful with the blanks and the Binge slow fi.</p>
+
+<p><img src="http://imgur.com/IxPYAx6.jpg" alt="Slow Fi" /></p>
+
+<hr />
+<p align="right">Typed on Planck</p>
+
+			</span>
+
+
+
+			
+						<div id="page-meta" class="t30">
+				<p>
+					<!-- Look the author details up from the site config. -->
+					
+					<!-- Output author details if some exist. -->
+					
+					<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="pr20 icon-edit"><a href="/Morgan" target="_blank"> Morgan</a></span>
+				</span>
+				
+
+				
+				<time class="icon-calendar pr20" datetime="2016-03-02" itemprop="datePublished"> 2016-03-02</time>
+				
+
+				<span class="icon-archive pr20"> KEYBOARDS</span>
+				<br />
+				<span class="pr20"></span>
+			</p>
+
+			<div id="post-nav" class="row">
+				
+
+				<div class="show-for-small-only"><div class="small-5 columns"><a class="button tiny radius prev" href="http://localhost:4000/keyboards/2016-02-27-Adventures-In-Alps-Linear-Switch-Mods">&laquo; Removing Dampers From Linear Matias Switches</a></div></div><!-- /.small-4.columns -->
+				<div class="show-for-medium-up"><div class="small-5 columns"><a class="button small radius prev" href="http://localhost:4000/keyboards/2016-02-27-Adventures-In-Alps-Linear-Switch-Mods">&laquo; Removing Dampers From Linear Matias Switches</a></div></div><!-- /.small-4.columns -->
+
+				
+
+				
+				<div class="show-for-small-only"><div class="small-5 columns text-right"><a class="button tiny radius next" href="http://localhost:4000/keyboards/2016-03-12-Data911-Rebuild">Data911 Rebuild &raquo;</a></div></div><!-- /.small-4.columns -->
+					<div class="show-for-medium-up"><div class="small-5 columns text-right"><a class="button small radius next" href="http://localhost:4000/keyboards/2016-03-12-Data911-Rebuild">Data911 Rebuild &raquo;</a></div></div><!-- /.small-4.columns -->
+
+				
+			</div>
+			</div><!--  /.page-meta -->
+
+			
+
+			<div id="bottom" class="row t30">
+					<div class="small-12 columns">
+						 
+
+
+
+
+
+
+
+
+<a class="left button tiny radius icon-chevron-left r15" href="/keyboards/2016-03-12-Data911-Rebuild">Next Post in KEYBOARDS</a>
+
+
+<a class="button tiny radius" href="/keyboards/2016-02-27-Adventures-In-Alps-Linear-Switch-Mods">Previous Post in KEYBOARDS<span class="icon-chevron-right"></span></a>
+
+
+
+					</div><!-- /.small-12.columns -->
+			</div>
+			
+			
+
+
+
+		</article>
+
+	</div><!-- /.medium-8.columns -->
+
+
+	
+
+
+	
+</div><!-- /.row -->
+
+
+	
+	    <div id="up-to-top" class="row">
+      <div class="small-12 columns" style="text-align: right;">
+        <a class="iconfont" href="#top-of-page">&#xf108;</a>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+
+    <footer id="footer-content" class="bg-grau">
+      <div id="footer">
+        <div class="row">
+          <div class="medium-6 large-5 columns">
+            <h5 class="shadow-black">About This Site</h5>
+
+            <p class="shadow-black">
+              Missouri Valley Ambulance is the inane ramblings and various projects of a gadget geek, Apple lover, and keyboard wonk.
+              <a href="http://localhost:4000/info/">More ›</a>
+            </p>
+          </div><!-- /.large-6.columns -->
+
+
+          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+            
+              
+                <h5 class="shadow-black">Services</h5>
+              
+            
+              
+            
+              
+            
+              
+            
+
+              <ul class="no-bullet shadow-black">
+              
+                
+                  <li >
+                    <a href=""  title=""></a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                  </li>
+              
+              </ul>
+          </div><!-- /.large-4.columns -->
+
+
+          <div class="small-6 medium-3 large-3 columns">
+            
+              
+                <h5 class="shadow-black">Credits</h5>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+
+            <ul class="no-bullet shadow-black">
+            
+              
+                <li >
+                  <a href=""  title=""></a>
+                </li>
+            
+              
+                <li class="network-entypo" >
+                  <a href="http://entypo.com/" target="_blank"  title="Icons by Daniel Bruce">Icons by Daniel Bruce</a>
+                </li>
+            
+              
+                <li class="services-newsletter" >
+                  <a href="http://foundation.zurb.com/" target="_blank"  title="Built on Foundation">Built on Foundation</a>
+                </li>
+            
+              
+                <li class="sitemap-link" >
+                  <a href="http://srobbin.com/jquery-plugins/backstretch/" target="_blank"  title="Using Backstretch by Scott Robbin">Using Backstretch by Scott Robbin</a>
+                </li>
+            
+              
+                <li class="sitemap-link" >
+                  <a href="https://github.com/Phlow/feeling-responsive" target="_blank"  title="Built on Feeling Responsive by Phlow">Built on Feeling Responsive by Phlow</a>
+                </li>
+            
+            </ul>
+          </div><!-- /.large-3.columns -->
+        </div><!-- /.row -->
+
+      </div><!-- /#footer -->
+
+
+      <div id="subfooter">
+        <nav class="row">
+          <section id="subfooter-left" class="b30 small-12 medium-6 columns credits">
+            <p>
+     Contact:
+            </p>
+          </section>
+
+          <section id="subfooter-right" class="small-12 medium-6 columns social-icons">
+            <ul class="inline-list">
+            
+              <li><a href="http://twitter.com/mvambulance" target="_blank" class="icon-twitter" title=""></a></li>
+            
+              <li><a href="mailto:blog@missourivalleyambulance.com" target="_blank" class="icon-mail" title=""></a></li>
+            
+            </ul>
+          </section>
+        </nav>
+      </div><!-- /#subfooter -->
+    </footer>
+
+	
+
+	
+
+
+<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
