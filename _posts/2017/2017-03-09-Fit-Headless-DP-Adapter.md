@@ -9,7 +9,7 @@ categories:
 image:
     title: http://imgur.com/jviCqat.jpg
     homepage: http://imgur.com/jviCqat.jpg
-    thumb: http://imgur.com/rH8QECd.jpg
+    thumb: http://imgur.com/4CezgWE.jpg
     caption:
     caption_url:
 breadcrumb: true
