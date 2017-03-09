@@ -5,7 +5,7 @@ subheadline: ""
 teaser: "Great explanation from Matthew about the large attack surface presented by a modern desktop machine, and how it compares to mobile devices that were built with security and limited application power in mind. The piece can hopefully explain to the layuser some of the mindfulness that's needed to remain secure. "
 author: Morgan
 categories:
-    - videos
+    - linked
 breadcrumb: true
 ---
 
