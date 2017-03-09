@@ -5,7 +5,7 @@ subheadline: ""
 teaser: "Intel's Kaby Lake CPUs were 'officially' launched today. Kaby Lake is a marked change from Intel's old Tick/Tock release schedule."
 author: Morgan
 categories:
-    - videos
+    - linked
 breadcrumb: true
 ---
 
