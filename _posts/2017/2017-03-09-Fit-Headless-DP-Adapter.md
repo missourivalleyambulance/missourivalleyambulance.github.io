@@ -2,7 +2,7 @@
 layout: page
 title: "Fit Headless Displayport Adapter"
 subheadline: ""
-teaser: ""
+teaser: "A common issue with headless systems (especially on Macs) is that Remote Desktop won't function correctly without a monitor connected. The Fit headless adapter solves this problem."
 author: Morgan
 categories:
   - tech
