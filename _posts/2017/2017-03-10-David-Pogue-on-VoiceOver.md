@@ -19,7 +19,9 @@ From David Pogue:
 
 >Joe [Danowsky] was born with cone-rod dystrophy. He can see general shapes and colors, but no detail. (Only about 10 or 15 percent of visually impaired people see no light or color at all.) He can’t read a computer screen or printed materials, recognize faces, read street signs or building numbers, or drive. And he certainly can’t see what’s on his phone.
 <br>
+<br>
 Yet Joe spends his entire day on his iPhone. In fact, he calls it “probably the number one assistive device for people who can’t see,” right up there with “a cane and a seeing eye dog.”
+<br>
 <br>
 The key to all of this is an iPhone feature called VoiceOver. At its heart, it’s a screen reader—software that makes the phone speak everything you touch.
 
