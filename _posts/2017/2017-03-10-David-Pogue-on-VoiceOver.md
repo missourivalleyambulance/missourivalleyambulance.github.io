@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Apple's VoiceOver Assistive Technology for the blind"
+title: "Apple's VoiceOver Assistive Technology For The Blind"
 subheadline: ""
 teaser: "I've known for some time that Apple has great assistive technology for the blind in iPhone. I was vaguely aware of VoiceOver, but always wondered how it was used. To see it in action is pretty incredible."
 author: Morgan
