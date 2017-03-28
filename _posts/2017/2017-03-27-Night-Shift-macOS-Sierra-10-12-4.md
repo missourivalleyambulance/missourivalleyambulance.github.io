@@ -3,7 +3,7 @@ layout: video
 show_meta: true
 title: "Night Shift in macOS Sierra 10.12.4"
 subheadline: ""
-teaser: ""
+teaser: "MacRumors explains Night Shift, new in macOS 10.12.4"
 categories:
     - videos
 author: Morgan
@@ -17,7 +17,7 @@ breadcrumb: true
 
 [Night Shift](http://www.imore.com/night-shift-ios-93-explained) is a lot like the third party software [F.lux](https://justgetflux.com/). I've been a big fan of F.lux for a while now. Since starting to use it (and Night Shift on iOS) I've noticed a significant reduction in eye strain at night.
 
-I'm glad to see Apple bring this feature to macOS, as it's been present on iOS for some time now. I'm sure I'll switch over to using it. 
+I'm glad to see Apple bring this feature to macOS, as it's been present on iOS for some time now. I'm sure I'll switch over to using it.
 
 [[via MacRumors](https://www.macrumors.com/2017/03/27/apple-releases-macos-sierra-10-12-4/)]
 
