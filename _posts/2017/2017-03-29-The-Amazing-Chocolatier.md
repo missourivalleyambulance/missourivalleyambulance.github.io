@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "And I've Got A Golden Ticket"
 subheadline: "The Amazing Chocolatier"
 teaser: "A smooth and chocolatey SA profile keycap set"
@@ -13,7 +13,7 @@ image:
     caption:
     caption_url:
 breadcrumb: true
-# gallery:
+gallery:
     - image_url: http://imgur.com/At2796H.jpg
     - image_url: http://imgur.com/0MN3HSt.jpg
     - image_url: http://imgur.com/dQP2OY6.jpg
