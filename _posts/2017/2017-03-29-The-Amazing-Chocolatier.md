@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "And I've Got A Golden Ticket"
+title: "A Golden Ticket"
 subheadline: "The Amazing Chocolatier"
 teaser: "A smooth and chocolatey SA profile keycap set"
 author: Morgan
