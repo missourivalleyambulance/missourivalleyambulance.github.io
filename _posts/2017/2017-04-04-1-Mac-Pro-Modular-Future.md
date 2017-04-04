@@ -22,7 +22,9 @@ breadcrumb: true
 <br>
 Apple is currently hard at work on a “completely rethought” Mac Pro, with a modular design that can accommodate high-end CPUs and big honking hot-running GPUs, and which should make it easier for Apple to update with new components on a regular basis. They’re also working on Apple-branded pro displays to go with them.
 
-This really is great news. Of course, the majority of systems Apple sells (to pros and consumers alike) are notebooks, Mac Pro is still an important product. Mac Pro is the highest end Mac money can buy, and it hasn't been updated since 2013. I, like many others feared that Apple had given up on it - but they haven't, so thats great news indeed. 
+This really is great news. 
+
+Of course, the majority of systems Apple sells (to pros and consumers alike) are notebooks, Mac Pro is still an important product. Mac Pro is the highest end Mac money can buy, and it hasn't been updated since 2013. I, like many others feared that Apple had given up on it - but they haven't, so thats great news indeed. 
 
 [[via Daring Fireball](http://daringfireball.net/2017/04/the_mac_pro_lives)]
 
