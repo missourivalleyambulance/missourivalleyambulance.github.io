@@ -20,7 +20,7 @@ As a Mac user, I mostly ignore Intel's high-end CPU SKUs. That said, when happen
 ![](http://imgur.com/eUFcX2R.jpg)
 [[Source]](https://www-ssl.intel.com/content/www/us/en/processors/core/core-m-processors.html) _annotation mine_
 
-Curiously, it's worth noting that while the U series chips (like those used in the MacBook Air) are present in the Kaby Lake lineup, the only Y chip (used in the 12" Macbook) is an m3. Given this, I'm curious if the 12" Macbook will be updated any time soon.
+Curiously, it's worth noting that while several U series chips (like those used in the MacBook Air) are present in the Kaby Lake lineup, the only Y chip (used in the 12" Macbook) is an m3. Apple's MacBook lineup currently has m3, m5, and m7 chips. Given this, I'm curious if the 12" Macbook will be updated any time soon.
 
 ---
 <p align="right">Typed on ErgoDox Test Board</p>
