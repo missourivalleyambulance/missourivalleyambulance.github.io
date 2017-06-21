@@ -5,7 +5,7 @@ subheadline: ""
 teaser: ""
 author: Morgan
 categories:
-  -
+  - apple
 image:
     title:
     homepage:
