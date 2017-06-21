@@ -23,7 +23,7 @@ In the early 1980s, reviews were fairly technical, and directed at the aficionad
 
 Ten years ago I was a high school kid in the Midwest, pining after the iPhone. I devoured all the reviews and news leading up to and after the launch. I was obsessed. In many ways, I still am.
 
-[[via The Loop](http://www.loopinsight.com/2017/06/21/reviewing-the-first-iphone-in-a-hype-typhoon/) & [Wired](https://www.wired.com/story/iphone-tenth-anniversary/)
+[[via The Loop](http://www.loopinsight.com/2017/06/21/reviewing-the-first-iphone-in-a-hype-typhoon/) & [Wired](https://www.wired.com/story/iphone-tenth-anniversary/)]
 
 ---
 <p align="right">Typed on ErgoDox Test Board</p>
