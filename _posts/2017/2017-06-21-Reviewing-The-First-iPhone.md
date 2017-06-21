@@ -2,7 +2,7 @@
 layout: page
 title: "Reviewing The First iPhone"
 subheadline: ""
-teaser: ""
+teaser: "Writing for Wired, Steven Levy looks back and the 'hype typhoon' surrounding the first iPhone's launch."
 author: Morgan
 categories:
   - apple
