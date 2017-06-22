@@ -2,7 +2,7 @@
 layout: page
 title: "Scott Forstall On The Genesis Of iPhone"
 subheadline: ""
-teaser: ""
+teaser: "Forstall, the project manager for iPhone left Apple in 2012. He was interviewed at the Computer History Museum on 6/20/17, discussing the original iPhone. Video link after the jump."
 author: Morgan
 categories:
   - apple
