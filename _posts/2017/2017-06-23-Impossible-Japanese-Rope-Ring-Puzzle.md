@@ -7,11 +7,11 @@ teaser: "Japanese TV show Knight Scoop attempts to solve an impossible to solve 
 categories:
     - videos
 author: Morgan
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/https://www.youtube.com/watch?v=07gHAmW91Cc' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/07gHAmW91Cc' frameborder='0' allowfullscreen></iframe>"
 video:
-    embedURL: "https://www.youtube.com/embed/https://www.youtube.com/watch?v=07gHAmW91Cc"
-    contentURL: "https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=07gHAmW91Cc"
-    thumbnailUrl: "http://img.youtube.com/vi/https://www.youtube.com/watch?v=07gHAmW91Cc/maxresdefault.jpg"
+    embedURL: "https://www.youtube.com/embed/07gHAmW91Cc"
+    contentURL: "https://www.youtube.com/watch?v=07gHAmW91Cc"
+    thumbnailUrl: "http://img.youtube.com/vi/07gHAmW91Cc/maxresdefault.jpg"
 breadcrumb: true
 ---
 
