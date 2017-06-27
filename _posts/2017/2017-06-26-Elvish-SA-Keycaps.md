@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "'Elvish SA Keycaps"
-subheadline: "The Amazing Chocolatier"
+subheadline: ""
 teaser: "Sold by Sennin32, these PBT dyesub and laser engraved keycaps are budget friendly, and pretty decent."
 author: Morgan
 categories:
