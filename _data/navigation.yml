@@ -21,10 +21,6 @@
 - title: Projects
   url: "/projects"
   side: right
-  dropdown:
-  - title: "ErgoDox"
-    url: "/ErgoDox_Omnibus"
-
 
 - title: About
   url: "/aboutme"
