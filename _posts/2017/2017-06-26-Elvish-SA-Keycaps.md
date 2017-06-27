@@ -1,25 +1,27 @@
 ---
-layout: page
-#
-# Content
-#
-subheadline: ""
-title: "Elvish SA Keycaps"
+layout: page-fullwidth
+title: "'Elvish SA Keycaps"
+subheadline: "The Amazing Chocolatier"
 teaser: "Sold by Sennin32, these PBT dyesub and laser engraved keycaps are budget friendly, and pretty decent."
 author: Morgan
 categories:
   - keyboards
+image:
+    title: http://imgur.com/pOjVJDq.jpg
+    homepage: http://imgur.com/pOjVJDq.jpg
+    thumb: http://imgur.com/SZaMT6Q.jpg
+    caption:
+    caption_url:
+breadcrumb: true
 gallery:
     - image_url: http://imgur.com/ugFu4Fq.jpg
-       caption:
     - image_url: http://imgur.com/aRWC9Ci.jpg
-       caption: Sideview. Row profile is 1-3-3-3-3
+    caption: Sideview. Row profile is 1-3-3-3-3
     - image_url: http://imgur.com/BtlNV7Z.jpg
-       caption: Included numeric keycaps weren't perfect for my numpad, but I made it work.
+    caption: Included numeric keycaps weren't perfect for my numpad, but I made it work.
     - image_url: http://imgur.com/nbHzkKk.jpg
-       caption:
-     - image_url: http://imgur.com/9UlvM30.jpg
-        caption: Closeup view of the dyesub on numbers, laser etching on Enter.
+    - image_url: http://imgur.com/9UlvM30.jpg
+    caption: Closeup view of the dyesub on numbers, laser etching on Enter.
 ---
 
 {% include gallery %}
@@ -28,7 +30,7 @@ I've been waiting for this set since December last year. The Elvish SA [group bu
 
 Elvish SA is a Chinese-manufactured clone of Signature Plastics' [SA profile](http://keycapsdirect.com/key-caps.php) keycaps. At only $70, these keycaps are significantly cheaper than Signature Plastics typical $100+ offerings.
 
-This group by predates the wide availability of other SA clones like those from [MaxKey](https://www.old.keyclack.com/product/group-buy-maxkey-sa/). I've a set of MaxKeys on order from KeyClack, so I'll have a post about those when they arrive. 
+This group by predates the wide availability of other SA clones like those from [MaxKey](https://www.old.keyclack.com/product/group-buy-maxkey-sa/). I've a set of MaxKeys on order from KeyClack, so I'll have a post about those when they arrive.
 
 The set is made with single shot PBT plastic, with a mix of [dyesub](https://deskthority.net/wiki/Keycap_printing#Dye_sublimation) and [laser etched](https://deskthority.net/wiki/Keycap_printing#Engraving) legends. The set has dual legends in both English and Elvish. Row profile is 1-3-3-3-3. The dyesub work is just _okay_. Legends are not particularly sharp, especially on the Elvish legends. The laser etched legends, however are clear and sharp. I would've rather seen the entire set be laser etched. Texture on the keys is good, there's a slight texture present, but these are no where near as rough as other PBT sets like Signature Plastics DSA. Stems left a bit to be desired, they aren't very consistent - some keys were easy to put on switches, others took much more effort.
 
