@@ -14,6 +14,7 @@ image:
     caption_url:
 breadcrumb: true
 gallery:
+  - image_url: http://imgur.com/M0duSYU.jpg
   - image_url: http://imgur.com/5ZxxVTL.jpg
     caption: First putting CoD on Satan GH60
   - image_url: http://imgur.com/juWu2S4.jpg
@@ -23,6 +24,7 @@ gallery:
     caption: The W key has a slight defect in it. The set did ship in a baggie, so this could explain the defect/damage. Either way, it doesn't bug me too much.
   - image_url: http://imgur.com/9pIXRdP.jpg
     caption: With RGB lighting on my Satan GH60 on.
+  - image_url: http://imgur.com/8GSaFIH.jpg
 ---
 
 {% include gallery %}
