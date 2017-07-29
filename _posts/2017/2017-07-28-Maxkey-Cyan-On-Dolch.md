@@ -17,14 +17,11 @@ breadcrumb: true
     - image_url: https://i.imgur.com/5ZxxVTL.jpg
     - image_url: https://i.imgur.com/juWu2S4.jpg
     - image_url: https://i.imgur.com/PKCRGBx.jpg
-    - image_url: https://i.imgur.com/KIJcEUN.jpg
-    - image_url: https://i.imgur.com/jwkMAXi.jpg
-    - image_url: https://i.imgur.com/9pIXRdP.jpg
 ---
 
 {% include gallery %}
 
-I’ve been very excited to receive this set. b
+I’ve been very excited to receive this set. c
 
 [Cyan on Dolch](https://www.old.keyclack.com/product/group-buy-maxkey-sa/) is a [SA profile](https://deskthority.net/wiki/Signature_Plastics_SA_family) keycap set from Maxkey SA; from a group by on [KeyClack](https://www.keyclack.com/). Unlike the [Elvish SA](({{ site.baseurl }}/keyboards/2017-03-29-The-Amazing-Chocolatier)) set I received a few weeks ago, Cyan on Dolch is a fully sculpted SA profile set.
 
