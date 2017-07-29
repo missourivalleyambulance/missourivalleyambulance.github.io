@@ -41,4 +41,4 @@ Key fit was great as well. The stems are uniform and very well molded. They’re
 At the moment I’ve got these on my [Satan GH60](({{ site.baseurl }}/keyboards/2016-04-19-Satan-GH60-Build-Log)) board, but I eventually plan for them to have a permanent home on my [Red Scarf II + Ver. D.](https://www.massdrop.com/buy/red-scarf-ii-plus-ver-d-custom-mechanical-keyboard-kit?mode=guest_open)
 
 ---
-<p align="right">Typed on Git2Go - Edited on MacBook</p>
+<p align="right">Typed on Git2Go | Edited on MacBook</p>
