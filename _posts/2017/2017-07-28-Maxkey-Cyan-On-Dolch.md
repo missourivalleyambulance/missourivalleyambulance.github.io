@@ -24,7 +24,7 @@ gallery:
     caption: The W key has a slight defect in it. The set did ship in a baggie, so this could explain the defect/damage. Either way, it doesn't bug me too much.
   - image_url: http://imgur.com/9pIXRdP.jpg
     caption: With RGB lighting on my Satan GH60 on.
-  - image_url: http://imgur.com/8GSaFIH.jpg
+  - image_url: http://i.imgur.com/vtjh7sA.jpg
 ---
 
 {% include gallery %}
