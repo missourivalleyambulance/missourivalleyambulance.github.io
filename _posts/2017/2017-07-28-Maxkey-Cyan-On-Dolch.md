@@ -31,7 +31,7 @@ I’ve been very excited to receive this set.
 
 [Cyan on Dolch](https://www.old.keyclack.com/product/group-buy-maxkey-sa/) is a [SA profile](https://deskthority.net/wiki/Signature_Plastics_SA_family) keycap set from Maxkey SA; from a group by on [KeyClack](https://www.keyclack.com/). Unlike the [Elvish SA](({{ site.baseurl }}/keyboards/2017-03-29-The-Amazing-Chocolatier)) set I received a few weeks ago, Cyan on Dolch is a fully sculpted SA profile set.
 
-![](http://imgur.com/6aJjJmY.jpg)
+![](http://imgur.com/6aJjJmY.jpg)    
 [[Source]](https://adereth.github.io/blog/2015/02/17/sa-profile-keys-on-a-kinesis-advantage/)
 
 The keys in this set are exceptional, I dare say even superior to offerings from [Signature Plastics](https://pimpmykeyboard.com/). Maxkeys sets are also significantly cheaper than Signature Plastics, this set was only ~$90 compared to the typical ~$150 one pays for an SA profile keycap set.
