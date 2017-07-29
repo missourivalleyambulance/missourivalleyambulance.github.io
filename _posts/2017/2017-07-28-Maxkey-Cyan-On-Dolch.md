@@ -25,11 +25,11 @@ gallery:
      caption: With RGB lighting on my Satan GH60 on.
 ---
 
-{% include gallery %}
-
-I’ve been very excited to receive this set. f
+I’ve been very excited to receive this set. g
 
 [Cyan on Dolch](https://www.old.keyclack.com/product/group-buy-maxkey-sa/) is a [SA profile](https://deskthority.net/wiki/Signature_Plastics_SA_family) keycap set from Maxkey SA; from a group by on [KeyClack](https://www.keyclack.com/). Unlike the [Elvish SA](({{ site.baseurl }}/keyboards/2017-03-29-The-Amazing-Chocolatier)) set I received a few weeks ago, Cyan on Dolch is a fully sculpted SA profile set.
+
+{% include gallery %}
 
 ![](http://imgur.com/6aJjJmY.jpg)
 [[Source]](https://adereth.github.io/blog/2015/02/17/sa-profile-keys-on-a-kinesis-advantage/)
