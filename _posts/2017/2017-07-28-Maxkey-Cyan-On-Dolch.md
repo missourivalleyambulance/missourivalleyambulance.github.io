@@ -7,9 +7,9 @@ author: Morgan
 categories:
   - keyboards
 image:
-    title: http://imgur.com/pOjVJDq.jpg
-    homepage: http://imgur.com/pOjVJDq.jpg
-    thumb: http://imgur.com/SZaMT6Q.jpg
+    title: http://i.imgur.com/vtjh7sA.jpg
+    homepage: http://i.imgur.com/vtjh7sA.jpg
+    thumb: https://imgur.com/HT5MpaD.jpg
     caption:
     caption_url:
 breadcrumb: true
@@ -23,7 +23,7 @@ gallery:
 
 {% include gallery %}
 
-I’ve been very excited to receive this set. d
+I’ve been very excited to receive this set. e
 
 [Cyan on Dolch](https://www.old.keyclack.com/product/group-buy-maxkey-sa/) is a [SA profile](https://deskthority.net/wiki/Signature_Plastics_SA_family) keycap set from Maxkey SA; from a group by on [KeyClack](https://www.keyclack.com/). Unlike the [Elvish SA](({{ site.baseurl }}/keyboards/2017-03-29-The-Amazing-Chocolatier)) set I received a few weeks ago, Cyan on Dolch is a fully sculpted SA profile set.
 
