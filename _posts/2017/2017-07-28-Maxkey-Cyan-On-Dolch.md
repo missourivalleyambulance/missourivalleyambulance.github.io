@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Maxkey SA Cyan On Dolch"
-subheadline: A budget friendly SA profile keycap set."
+subheadline: A budget friendly SA profile keycap set.
 teaser: "Cyan on Dolch is a SA profile set from Maxkey SA; from a group by on KeyClack. Maxkeys sets are also significantly cheaper than Signature Plastics, this set was only ~$90 compared to the typical ~$150 one pays for an SA profile keycap set."
 author: Morgan
 categories:
@@ -25,11 +25,11 @@ gallery:
     caption: With RGB lighting on my Satan GH60 on.
 ---
 
-I’ve been very excited to receive this set. i
+{% include gallery %}
+
+I’ve been very excited to receive this set.
 
 [Cyan on Dolch](https://www.old.keyclack.com/product/group-buy-maxkey-sa/) is a [SA profile](https://deskthority.net/wiki/Signature_Plastics_SA_family) keycap set from Maxkey SA; from a group by on [KeyClack](https://www.keyclack.com/). Unlike the [Elvish SA](({{ site.baseurl }}/keyboards/2017-03-29-The-Amazing-Chocolatier)) set I received a few weeks ago, Cyan on Dolch is a fully sculpted SA profile set.
-
-{% include gallery %}
 
 ![](http://imgur.com/6aJjJmY.jpg)
 [[Source]](https://adereth.github.io/blog/2015/02/17/sa-profile-keys-on-a-kinesis-advantage/)
