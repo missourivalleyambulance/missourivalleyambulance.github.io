@@ -14,18 +14,18 @@ image:
     caption_url:
 breadcrumb: true
 gallery:
-    - image_url: http://i.imgur.com/5ZxxVTL.jpg
-      caption: First putting CoD on Satan GH60
-    - image_url: http://i.imgur.com/juWu2S4.jpg
-   - image_url: http://i.imgur.com/PKCRGBx.jpg
-    - image_url: http://i.imgur.com/KIJcEUN.jpg
-    - image_url: http://i.imgur.com/jwkMAXi.jpg
-      caption: The W key has a slight defect in it. The set did ship in a baggie, so this could explain the defect/damage. Either way, it doesn't bug me too much.
-   - image_url: http://i.imgur.com/9pIXRdP.jpg
-     caption: With RGB lighting on my Satan GH60 on.
+  - image_url: http://imgur.com/5ZxxVTL.jpg
+    caption: First putting CoD on Satan GH60
+  - image_url: http://imgur.com/juWu2S4.jpg
+  - image_url: http://imgur.com/PKCRGBx.jpg
+  - image_url: http://imgur.com/KIJcEUN.jpg
+  - image_url: http://imgur.com/jwkMAXi.jpg
+    caption: The W key has a slight defect in it. The set did ship in a baggie, so this could explain the defect/damage. Either way, it doesn't bug me too much.
+  - image_url: http://imgur.com/9pIXRdP.jpg
+    caption: With RGB lighting on my Satan GH60 on.
 ---
 
-I’ve been very excited to receive this set. g
+I’ve been very excited to receive this set. h
 
 [Cyan on Dolch](https://www.old.keyclack.com/product/group-buy-maxkey-sa/) is a [SA profile](https://deskthority.net/wiki/Signature_Plastics_SA_family) keycap set from Maxkey SA; from a group by on [KeyClack](https://www.keyclack.com/). Unlike the [Elvish SA](({{ site.baseurl }}/keyboards/2017-03-29-The-Amazing-Chocolatier)) set I received a few weeks ago, Cyan on Dolch is a fully sculpted SA profile set.
 
