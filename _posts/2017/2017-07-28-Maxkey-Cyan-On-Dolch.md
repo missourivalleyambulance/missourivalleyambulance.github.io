@@ -24,7 +24,7 @@ breadcrumb: true
 
 {% include gallery %}
 
-I’ve been very excited to receive this set. a
+I’ve been very excited to receive this set. b
 
 [Cyan on Dolch](https://www.old.keyclack.com/product/group-buy-maxkey-sa/) is a [SA profile](https://deskthority.net/wiki/Signature_Plastics_SA_family) keycap set from Maxkey SA; from a group by on [KeyClack](https://www.keyclack.com/). Unlike the [Elvish SA](({{ site.baseurl }}/keyboards/2017-03-29-The-Amazing-Chocolatier)) set I received a few weeks ago, Cyan on Dolch is a fully sculpted SA profile set.
 
@@ -40,4 +40,4 @@ Key fit was great as well. The stems are uniform and very well molded. They’re
 At the moment I’ve got these on my [Satan GH60](({{ site.baseurl }}/keyboards/2016-04-19-Satan-GH60-Build-Log)) board, but I eventually plan for them to have a permanent home on my [Red Scarf II + Ver. D.](https://www.massdrop.com/buy/red-scarf-ii-plus-ver-d-custom-mechanical-keyboard-kit?mode=guest_open)
 
 ---
-<p align="right">Typed on Git2Go | Edited on MacBook</p>
+<p align="right">Typed on Git2Go - Edited on MacBook</p>
