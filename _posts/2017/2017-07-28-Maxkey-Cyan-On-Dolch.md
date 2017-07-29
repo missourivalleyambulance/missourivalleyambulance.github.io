@@ -27,7 +27,9 @@ gallery:
   - image_url: http://i.imgur.com/vtjh7sA.jpg
 ---
 
-I’ve been very excited to receive this set. Maxkeys sets are notable in that they are Chinese made, and *significantly* cheaper than Signature Plastics keycaps. This set was only ~$90 compared to the typical ~$150 one pays for an SA profile keycap set.
+I’ve been very excited to receive this set.    
+    
+Maxkeys sets are notable in that they are Chinese made, and *significantly* cheaper than Signature Plastics keycaps. This set was only ~$90 compared to the typical ~$150 one pays for an SA profile keycap set.
 
 {% include gallery %}
 
@@ -40,7 +42,7 @@ The keys in this set are exceptional, I dare say even superior to offerings from
 
 Key fit was great as well. The stems are uniform and very well molded. They’re slightly less tight than Signature Plastics, but not too loose. These keys are well suited for folks who like to swap keys frequently.
 
-At the moment I’ve got these on my [Satan GH60](({{ site.baseurl }}/keyboards/2016-04-19-Satan-GH60-Build-Log)) board, but I eventually plan for them to have a permanent home on my [Red Scarf II + Ver. D.](https://www.massdrop.com/buy/red-scarf-ii-plus-ver-d-custom-mechanical-keyboard-kit?mode=guest_open)
+At the moment I’ve got these on my [Satan GH60]({{ site.baseurl }}/2016-04-19-Satan-GH60-Build-Log) board, but I eventually plan for them to have a permanent home on my [Red Scarf II + Ver. D.](https://www.massdrop.com/buy/red-scarf-ii-plus-ver-d-custom-mechanical-keyboard-kit?mode=guest_open)
 
 ---
 <p align="right">Typed on Git2Go | Edited on MacBook</p>
