@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "Maxkeys Cyan on Dolch"
 subheadline: "A budget friendly SA profile keycap set."
 teaser: "Cyan on Dolch is a SA profile set from Maxkey SA; from a group by on KeyClack. Maxkeys sets are also significantly cheaper than Signature Plastics, this set was only ~$90 compared to the typical ~$150 one pays for an SA profile keycap set."
@@ -9,23 +9,20 @@ categories:
 image:
     title: https://i.imgur.com/vtjh7sA.jpg
     homepage: https://i.imgur.com/vtjh7sA.jpg
-    thumb: http://imgur.com/HT5MpaD.jpg
+    thumb: https://imgur.com/HT5MpaD.jpg
     caption:
     caption_url:
 breadcrumb: true
  gallery:
-     - image_url: https://i.imgur.com/5ZxxVTL.jpg
-       caption: First putting CoD on Satan GH60
-     - image_url: https://i.imgur.com/juWu2S4.jpg
+    - image_url: https://i.imgur.com/5ZxxVTL.jpg
+    - image_url: https://i.imgur.com/juWu2S4.jpg
     - image_url: https://i.imgur.com/PKCRGBx.jpg
-     - image_url: https://i.imgur.com/KIJcEUN.jpg
-     - image_url: https://i.imgur.com/jwkMAXi.jpg
-       caption: The W key has a slight defect in it. The set did ship in a baggie, so this could explain the defect/damage. Either way, it doesn't bug me too much.
+    - image_url: https://i.imgur.com/KIJcEUN.jpg
+    - image_url: https://i.imgur.com/jwkMAXi.jpg
     - image_url: https://i.imgur.com/9pIXRdP.jpg
-      caption: With RGB lighting on my Satan GH60 on.     
 ---
 
-I’ve been very excited to receive this set.
+I’ve been very excited to receive this set. a
 
 [Cyan on Dolch](https://www.old.keyclack.com/product/group-buy-maxkey-sa/) is a [SA profile](https://deskthority.net/wiki/Signature_Plastics_SA_family) keycap set from Maxkey SA; from a group by on [KeyClack](https://www.keyclack.com/). Unlike the [Elvish SA](({{ site.baseurl }}/keyboards/2017-03-29-The-Amazing-Chocolatier)) set I received a few weeks ago, Cyan on Dolch is a fully sculpted SA profile set.
 
@@ -41,4 +38,4 @@ Key fit was great as well. The stems are uniform and very well molded. They’re
 At the moment I’ve got these on my [Satan GH60](({{ site.baseurl }}/keyboards/2016-04-19-Satan-GH60-Build-Log)) board, but I eventually plan for them to have a permanent home on my [Red Scarf II + Ver. D.](https://www.massdrop.com/buy/red-scarf-ii-plus-ver-d-custom-mechanical-keyboard-kit?mode=guest_open)
 
 ---
-<p align="right">Typed on Git2Go</p>
+<p align="right">Typed on Git2Go | Edited on MacBook</p>
