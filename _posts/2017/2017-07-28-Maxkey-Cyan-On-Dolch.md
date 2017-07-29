@@ -27,9 +27,9 @@ gallery:
   - image_url: http://i.imgur.com/vtjh7sA.jpg
 ---
 
-{% include gallery %}
-
 I’ve been very excited to receive this set. Maxkeys sets are notable in that they are Chinese made, and *significantly* cheaper than Signature Plastics keycaps. This set was only ~$90 compared to the typical ~$150 one pays for an SA profile keycap set.
+
+{% include gallery %}
 
 [Cyan on Dolch](https://www.old.keyclack.com/product/group-buy-maxkey-sa/) is a [SA profile](https://deskthority.net/wiki/Signature_Plastics_SA_family) keycap set from Maxkey SA; from a group by on [KeyClack](https://www.keyclack.com/). Unlike the [Elvish SA](({{ site.baseurl }}/keyboards/2017-03-29-The-Amazing-Chocolatier)) set I received a few weeks ago, Cyan on Dolch is a fully sculpted SA profile set.
 
