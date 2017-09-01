@@ -2,7 +2,7 @@
 layout: page
 title: "Personal Computers"
 subheadline: ""
-teaser: "I’ve been thinking about the term ‘personal computer’ lately, and I think I’ve come to a realization about what a personal computer can be, and (more specifically) what it means to me. "
+teaser: "I’ve been thinking about the term ‘personal computer’ lately, and I think I’ve come to a realization about what a personal computer can be, and (more specifically) what it means to me."
 author: Morgan
 categories:
   - tech
