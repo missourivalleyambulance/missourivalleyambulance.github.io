@@ -55,7 +55,7 @@ Is it the most powerful or capable device I own? Of course not. Throughout a day
 
 My phone could not be nearly as useful to me as a personal computer if it weren't for the other devices and cloud technology in my life. I make heavy usage of cloud storage, and have local copies of *all* my data on my home server - this technology allows all that data and everything I work on (no matter which device I use) to be accessible at my fingertips at all times everywhere I go. My phone is special, it is my digital life available in my hands - always.
 
-This is my phone. There are many like it, but this one is mine.
+This is my phone. It is my personal computer. There are many like it, but this one is mine.
 
 ![](http://imgur.com/QSho6Rs.jpg)
 
