@@ -33,11 +33,14 @@ I ordered the board about a month before her birthday and had it shipped directl
 
 The Azio is a cool board, it has a nice thick bottom plastic, a vanity cover over the metal plate, and really unique typewriter-style keycaps. The stems for these keycaps is really interesting as well, very different from any other keycaps I've ever used.
 
-<center>![](https://imgur.com/gKpApFi.jpg) ![](https://imgur.com/TvoUUzm.jpg)</center>
+![](https://imgur.com/gKpApFi.jpg) ![](https://imgur.com/TvoUUzm.jpg)
+
 <br>
+
 The back is adjustable with a clever twisting mechanism. Most boards that can be raised and lowered use flip-out feet, but I really like this solution.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/YDANc"><a href="//imgur.com/YDANc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a class="embedly-card" href="https://i.imgur.com/MV11MPu.gifv">TITLE OF IMAGE</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 After removing the keycaps, the first step for modifying this board was disassembling it. The board has 15 screws on the bottom that first need to be removed. Note: there are also screws under the feet that must be unscrewed. The feet do obstruct the screws, so removing these is difficult, but with some ingenuity with a screwdriver it is not impossible.
 
