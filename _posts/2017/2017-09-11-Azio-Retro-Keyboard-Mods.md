@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "AZIO Mk Retro Keyboard"
+title: "AZIO Retro Keyboard"
 subheadline: ""
 teaser: "For my girlfriend's birthday this year, I bought and modified a keyboard for her. One that fit the aesthetic she liked, and with the mechanical switches she prefers."
 author: Morgan
@@ -55,8 +55,9 @@ The edges come up first, clipped on to the bottom plastic with small clips. Ther
 
 ![](https://imgur.com/r4xEzmb.jpg)
 <cite>Vanity plate removed from top of the Azio.</cite>
-<center> <img src="https://imgur.com/ZKjCIUE.jpg" alt="TITLE OF IMAGE"> </center>   <center><cite>Note the large clips shown here.</cite></center>    <br>
+<center> <img src="https://imgur.com/ZKjCIUE.jpg" alt="TITLE OF IMAGE"> </center>   <center><cite>Note the large clips shown here.</cite></center>    
 
+<br>
 With the vanity plate removed, we can see the metal plate and PCB. There are 10 screws that secure the plate to the bottom plastic. Those are removed, and the board is free.
 
 ![](https://imgur.com/Rfi9pdF.jpg)
