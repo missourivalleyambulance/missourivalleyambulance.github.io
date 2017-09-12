@@ -7,9 +7,9 @@ author: Morgan
 categories:
   - apple
 image:
-    title: https://imgur.com/bg8xOq3
-    homepage: https://imgur.com/bg8xOq3
-    thumb: https://imgur.com/bg8xOq3
+    title: https://imgur.com/bg8xOq3.jpg
+    homepage: https://imgur.com/bg8xOq3.jpg
+    thumb: https://imgur.com/bg8xOq3.jpg
     caption:
     caption_url:
 breadcrumb: true
@@ -53,17 +53,17 @@ These gestures are honestly one of the features I'm most excited about. They're 
 
 To access home on iPhone X, one need only swipe up from the bottom of the screen.
 
-<a class="embedly-card" href="https://imgur.com/8yuPgz6">Home Gesture</a>
+<a class="embedly-card" href="https://imgur.com/8yuPgz6.gifv">Home Gesture</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 To access multitasking, make the same swipe, but pause. You can also swipe directly between apps by just swiping left-to-right across the bar at the bottom.
 
-<a class="embedly-card" href="https://imgur.com/WpjfJqL">Multitasking Gesture</a>
+<a class="embedly-card" href="https://imgur.com/WpjfJqL.gifv">Multitasking Gesture</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 On current iPhones, a swipe up from the bottom invokes control center. On iPhone X you drag down from the status indicators in the top right.
 
-<a class="embedly-card" href="https://imgur.com/v0hBqMs">Control Center Gesture</a>
+<a class="embedly-card" href="https://imgur.com/v0hBqMs.gifv">Control Center Gesture</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 #### Charging
