@@ -29,9 +29,9 @@ Oh man, this one is a doozy. It's crazy to think how far we have come in a mere 
 
 #### Display
 
-The 5.8" full screen OLED display on iPhone X looks amazing. This will be a huge leap forward for iPhone, finally ditching the physical home button, and dropping the top and bottom bezels that have been around for a decade now. Of course, in typical fashion, Apple is not the [first](http://www.samsung.com/global/galaxy/galaxy-s8/) to come out with a full-screen phone, but they will likely do it best.
+The 5.8" full screen OLED display on iPhone X looks amazing. This will be a huge leap forward for iPhone -- finally ditching the physical home button, and dropping the top and bottom bezels that have been around for a decade now. Of course, in typical fashion, Apple is not the [first](http://www.samsung.com/global/galaxy/galaxy-s8/) to come out with a full-screen phone, but they will likely do it best.
 
-I've long thought that the top and bottom bezels on iPhones have held it back. Of course, the bezels have served as a spot for the home button and various sensors that are below the screen, so getting rid of them wasn't really an option for early iPhones. I recall with the original iPhone feeling like the screen was just _slightly_ too small, and imagined what it would be like if the entire front was a screen. iPhone X realizes this idea. It's a huge leap forward for iPhone.
+I've long thought that the top and bottom bezels on iPhones have held it back. Of course, the bezels have served as a spot for the home button and various sensors that are below the screen, so getting rid of them wasn't really an option for early iPhones. I recall with the original iPhone feeling like the screen was just _slightly_ too small, and imagined what it would be like if the entire front was a screen. iPhone X realizes this idea.
 
 #### FaceID
 
@@ -47,7 +47,7 @@ The sensors that they've crammed into the top of iPhone X are amazing. There are
 
 #### Gestures
 
-iPhone X represents a large change in how iPhones will be used going forward - largely because it discards iPhone's primary physical input: the home button. iPhone X lacks even a semblance of a home button. It doesn't even have a _virtual_ home button. Apple is instead replacing the button with gestures. What they've shown off looks so natural, so easy. In a couple years we'll look back in amazement that we had to *press* a button to perform some basic interactions with our phones.
+iPhone X will be a significant change in how iPhones will be used going day-to-day, largely because it discards iPhone's primary physical input: the home button. iPhone X lacks even a semblance of a home button. It doesn't even have a _virtual_ home button. Apple is instead replacing the button with gestures. What they've shown off looks so natural, so easy. In a couple years we'll look back in amazement that we had to **press** a button to perform some basic interactions with our phones.
 
 These gestures are honestly one of the features I'm most excited about. They're so simple, so fluid. I can't wait to try it out.
 
@@ -70,7 +70,7 @@ On current iPhones, a swipe up from the bottom invokes control center. On iPhone
 
 ![](https://imgur.com/8jOKX4V.jpg)
 
-iPhone X and it's glass back will support wireless charging. The only device I own (or have ever owned) that supports wireless charging is my Apple Watch. I've long thought that wireless charging is silly, but it's been lovely to use with Apple Watch. Every night I take my watch off, put it on my charging dock, and I'm done.
+iPhone X and its glass back will support wireless charging. The only device I own (or have ever owned) that supports wireless charging is my Apple Watch. I've long thought that wireless charging is silly, but it's been lovely to use with Apple Watch. Every night I take my watch off, put it on my charging dock, and I'm done.
 
 There have been plenty of phones on the market that have had wireless charging for some time, so Apple isn't really innovating here. But it's nice to see this feature finally come to iPhone. In non-Apple fashion, they've chosen to go with [Qi](http://www.qiwireless.com/), the industry standard for wireless charging. Apple isn't shipping a wireless charger at launch, but because iPhone X (and 8) use Qi, it'll be possible to charge using any [currently available](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=qi+charger) Qi charger. Hell, you could even use a [Samsung](https://www.amazon.com/Samsung-Wireless-Charging-Charger-Warranty/dp/B01BMDQ9U8/ref=sr_1_10?ie=UTF8&qid=1505246728&sr=8-10&keywords=qi+certified+charger) charger if you were so inclined.
 
