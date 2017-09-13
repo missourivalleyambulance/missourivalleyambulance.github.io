@@ -85,7 +85,7 @@ I took to twitter yesterday with my predictions. I wasn't too far off.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Apple typically prices their big new flagship at $100 more than the last flagship. iPhone 7 Plus 64GB starts at $868, this $969 for iPhone X</p>&mdash; Morgan Speck (@morganspeck) <a href="https://twitter.com/morganspeck/status/907403571695685632">September 12, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Apple's new flagship phones typically have a $100 price bump versus the last year's phone. iPhone 7 Plus in 64GB is priced at $879 - thus a $969 prediction. As it turns out, iPhone X will start a $999. Compared with the current Plus phones, this pricing isn't too egregious. It's a $200 premium over the iPhone 8 Plus price, but worth it (to me at least) because of the full-screen 5.8" display.
+As it turns out, iPhone X will start a $999. Compared with the current Plus phones, this pricing isn't too egregious. It's a $200 premium over the iPhone 8 Plus price, but worth it (to me at least) because of the full-screen 5.8" display.
 
 Preorders for iPhone X go live 10/27, shipping on 11/3.
 
