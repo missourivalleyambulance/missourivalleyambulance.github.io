@@ -2,7 +2,7 @@
 layout: page
 title: "iPhone X Keynote Hot Take And Rundown"
 subheadline: ""
-teaser: ""
+teaser: "Apple presented its 10th annual iPhone keynote today. The keynote was the first ever presentation made from Apple's new campus, in the Steve Jobs Theater. What follows are my hot takes and first thoughts about the keynote and what Apple announced today."
 author: Morgan
 categories:
   - apple
