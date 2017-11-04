@@ -17,7 +17,9 @@ breadcrumb: true
 
 ![](https://i.imgur.com/HHsveef.jpg)
 
-Wow. It’s just...its just all screen. 
+Wow.    
+
+It’s just...its just all screen. 
 
 ---
 <p align="right">Typed on Octopage</p>
