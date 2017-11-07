@@ -125,8 +125,8 @@ Using this board day-to-day has been excellent. I find the 60% + numpad layout t
 <a class="embedly-card" href="https://imgur.com/eHJHk8B.gifv">RedScarf Underglow</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-For a long time my [Test ErgoDox]({{ site.baseurl }}/keyboards/2016-08-18-ErgoDox-Build-Phase-III-Testing-III) was my daily driver at work, but for the past few months I've been using RedScarf consistently, and it's been fantastic. Going in to this build, I'd expected that with this layout I'd use RedScarf quite a bit, but it's definitely become one of my favorite boards.
+For a long time my [Test ErgoDox]({{ site.baseurl }}/keyboards/2016-08-18-ErgoDox-Build-Phase-III-Testing-III) was my daily driver at work, but for the past few months I've been using RedScarf consistently, and it's been fantastic. Going in to this build, I'd expected that with this layout I'd use RedScarf quite a bit, but it's definitely become one of my favorite boards. I actually typed this entire post on RedScarf. 
 
 
 ---
-<p align="right">Typed on White Alps64</p>
+<p align="right">Typed on RedScarf II+</p>
