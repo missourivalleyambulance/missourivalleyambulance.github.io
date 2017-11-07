@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "'Cause I've Got A Golden Ticket"
-subheadline: "The Amazing Chocolatier"
+subheadline: "The Amazing Chocolatier SA"
 teaser: "A smooth and chocolatey SA profile keycap set"
 author: Morgan
 categories:
