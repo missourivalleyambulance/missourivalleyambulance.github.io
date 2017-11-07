@@ -37,7 +37,7 @@ Switches for this board are Gatistotles - a portmanteau of Gateron + Aristotle.
 
 For my mods I chose to use Gateron Greens as my 'donor switches'. The resulting Gatistotle switch would have a really smooth housing to work with, and a nice heavy 80g spring.
 
-![](https://imgur.com/sV54ILz.jpg)
+<center> <img src="https://imgur.com/sV54ILz.jpg" alt="open Aristotle switchs"> </center>
 
 I've never actually done switch mods before. I've lubed switches, but never modified them. The process is fairly simple: use a switch opening tool to open the Aristotles. pull out the stem. Open the Gaterons, pull out the stem. Insert the Aristotle stem in the Gateron housing. Close the switch up (carefully).
 
@@ -122,7 +122,7 @@ I genuinely enjoyed the process of modding together the Gatistotle switches. The
 
 Using this board day-to-day has been excellent. I find the 60% + numpad layout to be very functional for me, especially at work. It's a same that there aren't a lot of boards that use this, I think it could really catch on.
 
-<a class="embedly-card" href="https://imgur.com/eHJHk8B">RedScarf Underglow</a>
+<a class="embedly-card" href="https://imgur.com/eHJHk8B.gifv">RedScarf Underglow</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 For a long time my [Test ErgoDox]({{ site.baseurl }}/keyboards/2016-08-18-ErgoDox-Build-Phase-III-Testing-III) was my daily driver at work, but for the past few months I've been using RedScarf consistently, and it's been fantastic. Going in to this build, I'd expected that with this layout I'd use RedScarf quite a bit, but it's definitely become one of my favorite boards.
