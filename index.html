@@ -1,17 +1,17 @@
 ---
 layout: home
 title: Missouri Valley Ambulance
-#widget1:
+# widget1:
 #  title: "Widget 1"
 #  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
 #  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
 #  text: ''
-#widget2:
+# widget2:
 #  title: "Widget 2"
 #  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
 #  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
 #  text: ''
-#widget3:
+# widget3:
 #  title: "Widget 3"
 #  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
 #  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
@@ -20,7 +20,8 @@ title: Missouri Valley Ambulance
 
 
 
-<div class="row t60">
+
+<center><div class="row t20">
 	{% if page.widget1.title %}
 		{% include _frontpage-widget.html widget=page.widget1 %}
 	{% endif %}
@@ -34,9 +35,9 @@ title: Missouri Valley Ambulance
 	{% if page.widget3.title %}
 		{% include _frontpage-widget.html widget=page.widget3 %}
 	{% endif %}
-</div>
+</div></center>
 
-<div class="row t30">
+
 	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
 <div class="posts">
   {% for post in paginator.posts %}
