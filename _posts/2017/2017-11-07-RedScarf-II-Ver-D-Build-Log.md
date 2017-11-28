@@ -19,7 +19,10 @@ I've long been interested in RedScarf keyboards, their interesting interpretatio
 
 ### Parts
 
-![](https://imgur.com/I8isfeM.jpg)
+<center>
+<a href="https://imgur.com/I8isfeM.jpg" data-fancybox>
+	<img src="https://imgur.com/I8isfeM.jpg" alt="" />
+</a></center>
 
 I opted to go with the barebones kit from Massdrop during the [RedScarf group buy]((https://www.massdrop.com/buy/red-scarf-ii-plus-ver-d-custom-mechanical-keyboard-kit?mode=guest_open)). I ordered only the acrylic case, PCB, and fiberglass plate. At the time I wasn't quite sure which switches or keycaps I'd be using. I settled on the below for this build:
 
@@ -125,7 +128,7 @@ Using this board day-to-day has been excellent. I find the 60% + numpad layout t
 <a class="embedly-card" href="https://imgur.com/eHJHk8B.gifv">RedScarf Underglow</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-For a long time my [Test ErgoDox]({{ site.baseurl }}/keyboards/2016-08-18-ErgoDox-Build-Phase-III-Testing-III) was my daily driver at work, but for the past few months I've been using RedScarf consistently, and it's been fantastic. Going in to this build, I'd expected that with this layout I'd use RedScarf quite a bit, but it's definitely become one of my favorite boards. I actually typed this entire post on RedScarf. 
+For a long time my [Test ErgoDox]({{ site.baseurl }}/keyboards/2016-08-18-ErgoDox-Build-Phase-III-Testing-III) was my daily driver at work, but for the past few months I've been using RedScarf consistently, and it's been fantastic. Going in to this build, I'd expected that with this layout I'd use RedScarf quite a bit, but it's definitely become one of my favorite boards. I actually typed this entire post on RedScarf.
 
 
 ---
