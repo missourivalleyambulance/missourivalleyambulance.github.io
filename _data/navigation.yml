@@ -5,12 +5,14 @@
   url: "/"
   side: right
 
-- title: Archive
-  url: "/archive"
+- title: Archives
+  url: ""
   side: right
   dropdown:
   - title: "Apple"
     url: "/apple/"
+  - title: "All Posts"
+    url: "/archive/"
   - title: "Keyboards"
     url: "/keyboards/"
   - title: "Tech"
