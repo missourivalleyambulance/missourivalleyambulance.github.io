@@ -35,12 +35,12 @@ subtitle: Mostly keyboards, always tech
 #  text: ''    
 widget7:
   title: "Red Scarf II Ver.D"
-  url: '/keyboards/2017-11-07-RedScarf-II-Ver-D-Build-Log/'
+  url: '/keyboards/2017-11-07-RedScarf-II-Ver-D-Build-Log'
   image: 'https://imgur.com/dqOY03o.jpg'
   text: ''
 widget8:
   title: "ErgoDox"
-  url: '/ErgoDox_Omnibus/'
+  url: '/ErgoDox_Omnibus'
   image: 'http://imgur.com/qhbO2g6.jpg'
   text: 'Steel Case'
 widget9:
