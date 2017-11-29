@@ -9,10 +9,10 @@
   url: ""
   side: right
   dropdown:
-  - title: "Apple"
-    url: "/apple/"
   - title: "All Posts"
     url: "/archive/"
+  - title: "Apple"
+    url: "/apple/"
   - title: "Keyboards"
     url: "/keyboards/"
   - title: "Tech"
